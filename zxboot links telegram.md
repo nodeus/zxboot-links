@@ -75,8 +75,6 @@
 #### Atari
 * [Atari XL/XE](https://t.me/atari_xl_xe) — Atari 8bit computer community
 
-[Назад](#Telegram%20chats)
-
 ## Telegram channels
 ### ZX
 * [ZX Speccy](https://t.me/zxnews) — Телеграм-канал проекта ZX Speccy. Важные новости из мира ZX Spectrum'а: игры, железо, люди
@@ -106,11 +104,8 @@
 * [zxaaa](https://t.me/zxaaa_bot)
 * [News Out Of Compo](https://t.me/outofcompo)
 
-[Назад](#Telegram%20chats)
-
 ## Telegram bots
 * [Hyperadio bot](https://t.me/hyperadio_bot) — nowplay, download, request, convert chiptunes
 * [КОН ВЕР ТЕР](https://t.me/zxconvbot) — конвертер pt3 —> mp3
 * [hype.retroscene.org news](https://t.me/hyprbot) — бот с новостями hype.retroscene.org
-[Назад](#Telegram%20chats)
 
