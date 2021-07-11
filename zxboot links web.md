@@ -8,6 +8,7 @@
 [zxboot links web](https://github.com/nodeus/zxboot-links/blob/master/zxboot%20links%20web.md)
 
 # WEB links
+
 ## Demoparty
 * [Out Of Compo](http://ooc.retroscene.org/) — Out Of Compo demoparty
 * [Chaos constructions](https://chaosconstructions.ru/) — Chaos constructions demoparty
@@ -65,12 +66,18 @@
 * [Дмитрий Бачило («16 бит тому назад», «кремниевые титаны» и др.)](https://www.youtube.com/user/BachiloDmitry) — Этот канал в основном посвящен обзорам всякого старого железа и софта, впрочем не только старого
 * [AsteroideZX](https://www.youtube.com/channel/UC2xYxR_LCpHtLz9v5UZrjiQ) — BIENVENID@S al "AsteroideZX" Espacio de VideoJuegos. Canal comentado de contenido retro y actual. Gameplays ARCADE, ATARI, GAME&WATCH, SPECTRUM, AMSTRAD, MS-DOS, PLAYSTATION, PC, ONLINE, Tutoriales ZX BASIC, etc
 * [Ivan Avdeev personal | code some realtime stuff](https://www.youtube.com/user/floba23) — I like to code some weird realtime stuff. Mostly OpenGL and cross-platform as fuck
-* [sinc LAIR](https://www.youtube.com/channel/UChC1Gcl-1bOkNPPzN_owcVg) — sinc LAIR
-* [Arnau Jess](https://www.youtube.com/channel/UCAz8lXjzd8TZkbbID_qSakA) — Zx Spectrum y sus juegos pasión. Speccy and passionate games. Subscribe to my channel and enjoys the ZX Spectrum differently . Retrogamers time!
+* [sinc LAIR](https://www.youtube.com/channel/UChC1Gcl-1bOkNPPzN_owcVg) — Канал посвящён нашему любимому компьютеру ZX Spectrum и всему, что с ним связано
+* [Arnau Jess](https://www.youtube.com/channel/UCAz8lXjzd8TZkbbID_qSakA) — Zx Spectrum y sus juegos pasión. Speccy and passionate games. Subscribe to my channel and enjoys the ZX Spectrum differently Retrogamers time!
+* [Hobbies, Inside And Not Only](https://www.youtube.com/channel/UCpdaFDTRcqvCMRt2YqeEvUQ) — ZX Evo сборка, прошивка
+* [zx spectrum programming](https://www.youtube.com/playlist?list=PL3e88tGs8UviryIoFNa1pJZDN6mJwsiIR) — Программирование на zx spectrum (Пьяная муха)
+* [Timelapse: Making a game for ZX Spectrum 48 in 48 hours (Ludum Dare 48 competition)](https://www.youtube.com/watch?v=gcWKAuzXswk) — Таймлапс создания игры за 48 часов на LD
+* [Создание игр для zx spectrum](https://youtu.be/P9__NFrr3fA) — Рассмотрены темы по программированию для ZX Spectrum: быстрый вывод тайлов и спрайтов змейкой, со смещениями во все стороны; плавающий FPS в играх, delta timing; событийная модель поведений врагов (события, реакции, параметры).
 ### Video demos
 * [DEMOSCENE](https://www.youtube.com/channel/UCSnmbUU8S8XlJ8yZCViC7iw) — ZX SPECTRUM and other demoscene videos. Also 8bit retro computers and computer art
 * [Annikras High-Quality Videos](https://www.youtube.com/user/Annikras) — Highquality captures from demos/intros from the demoscene running on the Windows Platform
 * [ZXAAA Demo ZX Spectrum](https://www.youtube.com/channel/UC6WtMW2NwuRB6Uyff6ADPJg) — Мощно развивающийся канал контентом которого являются музыкальные демострации, крактро, гифты, музыкальные сборники с компьютера Pentagon 128
+* [ZX Spectrum demo live 24/7 — endless ZX Spectrum virtual demo party | Chiptune AY-8912 AY-8910 8bit playing in real-time](https://www.youtube.com/watch?v=BImCs386VTc)
+Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros which will entertain you right now. Already more than a hundred of demos and a couple of thousands in the future. All demos are playing in real-time by ZX Spectrum emulator Unreal Speccy.
 ### Video demosceners
 * [Demoscene Documentary](https://www.youtube.com/user/demoscenedoc) — Канал о Финской демосцене
 * [Gaspode](https://www.youtube.com/user/gaspode8) — Личный канал Gaspode
