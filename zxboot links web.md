@@ -161,3 +161,10 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [Topo Soft | official site](http://topo-sigloxxi.webnode.es/) — Topo Soft 
 * [zx-wanderer site](https://zxwanderer.github.io/) — Some zx spectrum stuff
 
+# DISCORD links
+
+* [ZX Spectrum](https://discord.gg/rSeXp6xFPd) — Alone coder и все, все, все
+* [demoscene](https://discord.gg/THPy9fFM) — Welcome to the Discord Server for the Demoscene! (Eng. language preferred!)
+* [hypr](https://discord.gg/PtBEHaap) — hype.retroscene.org
+* [Speccy Music](https://discord.gg/nnWSUBYh) — zx spectrum music
+

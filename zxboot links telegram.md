@@ -103,8 +103,10 @@
 * [SunVox news](https://t.me/sunvox)
 * [zxaaa](https://t.me/zxaaa_bot)
 * [News Out Of Compo](https://t.me/outofcompo)
+* [ЭлектроКот — Техноблог](https://t.me/electro_kot) — Техноновости из будущего и прошлого
 
 ## Telegram bots
+
 * [Hyperadio bot](https://t.me/hyperadio_bot) — nowplay, download, request, convert chiptunes
 * [КОН ВЕР ТЕР](https://t.me/zxconvbot) — конвертер pt3 —> mp3
 * [hype.retroscene.org news](https://t.me/hyprbot) — бот с новостями hype.retroscene.org
