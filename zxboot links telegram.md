@@ -72,10 +72,17 @@
 #### БК
 * [BK0010_11m](http://t.me/bk0010_11m) — БК 0010, 0010Ш, 0010-01, 0011, 0011М. БКшки, которые мы любим
 * [БК0010/11М (без политоты)](https://t.me/bk11m) — Группа обсуждения Персональных Компьютеров семейства БК
+
 #### Atari
+
 * [Atari XL/XE](https://t.me/atari_xl_xe) — Atari 8bit computer community
 
+#### PDP
+
+* [Ru_PDP](https://t.me/ru_pdp) — чат посвященный компьютерам Digital Equipment PDP (RUS)
+
 ## Telegram channels
+
 ### ZX
 * [ZX Speccy](https://t.me/zxnews) — Телеграм-канал проекта ZX Speccy. Важные новости из мира ZX Spectrum'а: игры, железо, люди
 * [ZX-CHIP podcast](https://t.me/zxchip) — Recent podcast issues
