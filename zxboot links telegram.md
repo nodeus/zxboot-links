@@ -62,7 +62,10 @@
 #### Coding and programming
 * [Newskool demomaker\`s chat](https://t.me/pcdemomaking) — Newskool Demoscene/Demomakers community (Eng/Rus)
 * [SizeCoders Chat](https://t.me/sizecoders) — SizeCoding tricks discussion
+* [Ассемблирование и микроэлектроника — z80  x86  6502  etc](https://t.me/foxasm) — Чат, в котором могут помочь понять ассемблер и просто поговорить
+
 #### Music
+
 * [HYPERADIO](https://t.me/hyperadio) — demoscene online radio Hyperadio
 * [Chipmusic](https://t.me/chipmusic)
 * [Scene music / Artists](https://t.me/scenemusicartists) — An area of demoscene music makers
@@ -72,13 +75,11 @@
 #### БК
 * [BK0010_11m](http://t.me/bk0010_11m) — БК 0010, 0010Ш, 0010-01, 0011, 0011М. БКшки, которые мы любим
 * [БК0010/11М (без политоты)](https://t.me/bk11m) — Группа обсуждения Персональных Компьютеров семейства БК
-
+#### АГАТ
+* [ПЭВМ АГАТ](https://t.me/pevm_agat) — ПЭВМ АГАТ
 #### Atari
-
 * [Atari XL/XE](https://t.me/atari_xl_xe) — Atari 8bit computer community
-
 #### PDP
-
 * [Ru_PDP](https://t.me/ru_pdp) — чат посвященный компьютерам Digital Equipment PDP (RUS)
 
 ## Telegram channels
@@ -98,6 +99,7 @@
 * [Архиспектрум](https://t.me/zxarch)
 * [sinc LAIR](https://t.me/sinc_LAIR)
 * [ZX Барахолка](https://t.me/zxfleamarket) — Барахолка
+* [Torn Metal](https://t.me/torn_metal) — Новая RTS для ZX Spectrum (в разработке)
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
 ### Other
