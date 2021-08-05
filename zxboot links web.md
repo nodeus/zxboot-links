@@ -74,7 +74,10 @@
 * [Создание игр для zx spectrum](https://youtu.be/P9__NFrr3fA) — Рассмотрены темы по программированию для ZX Spectrum: быстрый вывод тайлов и спрайтов змейкой, со смещениями во все стороны; плавающий FPS в играх, delta timing; событийная модель поведений врагов (события, реакции, параметры).
 * [Matt Heffernan - Slithy Games](https://www.youtube.com/c/slithymatt) — This is the official YouTube channel of Matt Heffernan and Slithy Games, featuring tutorials for programming for retro computers and gaming consoles, new games for old-school platforms, 8-bit demos, and archived content from Slithy Studios (2000-2005)
 * [Валерий Лис](https://www.youtube.com/c/ВалерийЛис386/videos) —  Цифровая электроника (logisim, ПЛИС, проектирование на макетных платах); Ассемблер (для разных архитектур процессоров); Создание своих операционных систем; Эмуляция процессоров; Графика (2D/3D, демосцена); Математика и алгоритмы.
+* [DeboshNow](https://www.youtube.com/channel/UCyOcpHk0DhOi6pLqlMP9RFg/videos) — Cборка Karabas Pro
+
 ### Video demos
+
 * [DEMOSCENE](https://www.youtube.com/channel/UCSnmbUU8S8XlJ8yZCViC7iw) — ZX SPECTRUM and other demoscene videos. Also 8bit retro computers and computer art
 * [Annikras High-Quality Videos](https://www.youtube.com/user/Annikras) — Highquality captures from demos/intros from the demoscene running on the Windows Platform
 * [ZXAAA Demo ZX Spectrum](https://www.youtube.com/channel/UC6WtMW2NwuRB6Uyff6ADPJg) — Мощно развивающийся канал контентом которого являются музыкальные демострации, крактро, гифты, музыкальные сборники с компьютера Pentagon 128
