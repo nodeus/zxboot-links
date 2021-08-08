@@ -75,12 +75,13 @@
 * [Matt Heffernan - Slithy Games](https://www.youtube.com/c/slithymatt) — This is the official YouTube channel of Matt Heffernan and Slithy Games, featuring tutorials for programming for retro computers and gaming consoles, new games for old-school platforms, 8-bit demos, and archived content from Slithy Studios (2000-2005)
 * [Валерий Лис](https://www.youtube.com/c/ВалерийЛис386/videos) —  Цифровая электроника (logisim, ПЛИС, проектирование на макетных платах); Ассемблер (для разных архитектур процессоров); Создание своих операционных систем; Эмуляция процессоров; Графика (2D/3D, демосцена); Математика и алгоритмы.
 * [DeboshNow](https://www.youtube.com/channel/UCyOcpHk0DhOi6pLqlMP9RFg/videos) — Cборка Karabas Pro
+* [retro Daenury](https://www.youtube.com/c/retroDaenury) — ZX-SPECTRUM, Dendy, ностальгия, retro-gaming, ретро атмосфера тёплых ушедших лет, 90-е и не только
 
 ### Video demos
 
 * [DEMOSCENE](https://www.youtube.com/channel/UCSnmbUU8S8XlJ8yZCViC7iw) — ZX SPECTRUM and other demoscene videos. Also 8bit retro computers and computer art
 * [Annikras High-Quality Videos](https://www.youtube.com/user/Annikras) — Highquality captures from demos/intros from the demoscene running on the Windows Platform
-* [ZXAAA Demo ZX Spectrum](https://www.youtube.com/channel/UC6WtMW2NwuRB6Uyff6ADPJg) — Мощно развивающийся канал контентом которого являются музыкальные демострации, крактро, гифты, музыкальные сборники с компьютера Pentagon 128
+* [ZXAAA Demo ZX Spectrum](https://www.youtube.com/channel/UC6WtMW2NwuRB6Uyff6ADPJg) — канал контентом которого являются музыкальные демострации, крактро, гифты, музыкальные сборники с компьютера Pentagon 128
 * [ZX Spectrum demo live 24/7 — endless ZX Spectrum virtual demo party | Chiptune AY-8912 AY-8910 8bit playing in real-time](https://www.youtube.com/watch?v=BImCs386VTc)
 Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros which will entertain you right now. Already more than a hundred of demos and a couple of thousands in the future. All demos are playing in real-time by ZX Spectrum emulator Unreal Speccy.
 ### Video demosceners
@@ -100,6 +101,7 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 ### Music archieves
 * [ZXTUNES archive](http://www.zxtunes.com/) — ZXTUNES — это одна из крупнейших коллекций музыки для компьютера ZX Spectrum на AY-3-8910 / YM2149
 * [AY-3-8910 — YM2149 (bulba) | archive](http://bulba.untergrund.net/main.htm) — The site is dedicated to popular sound chips: AY-3-8910, AY-3-8912 and YM2149
+* [Проект Vortex](https://bulba.untergrund.net/vortex.htm) — сайт Сергея Бульбы
 * [Keygen music | archive](http://keygenmusic.net/) — Music from keygens, cracks etc. (XM, S3M)
 * [MirSoft — world of game music | archive](http://www.mirsoft.info/index.php) — Archieve of game music (MOD, MID)
 * [ZXART | music archive](http://zxart.ee/rus/muzyka/) — Архив музыки, графики и программ
@@ -112,10 +114,31 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [FC Jungle memories](http://fc-jungle.com/) — Сайт посвящён группе FC-Jungle (1995—1998)
 * [AY-Riders home](http://ay-riders.speccy.cz/) — Worldwide chiptune band
 * [8bitpeoples netlabel](http://www.8bitpeoples.com/) — 8bitpeoples is a netlabel based on the principle of pushing technical and creative boundaries
+
 ### Music podcasts
+
 * [ZX CHIP Podcast](http://zxchip.ru) — Подкаст о чипмузыке на zx spectrum
 
+**Music articles**
+
+* [Управление громкостью огибающей YM2149](https://telegra.ph/Upravlenie-gromkostyu-ogibayushchej-YM2149-05-11) — karbofos
+* [VT — Огибающая для самых маленьких](https://telegra.ph/ogiba-dlya-samyh-malenkih-03-14) — karbofos
+* [Новый Vortex Tracker 2.5 — это БОМБА!](https://hype.retroscene.org/blog/794.html) — Иван Пирог Hype 26-02-2018
+* [Новый релиз — Vortex Tracker 2.0 — Перерождение (2017)](https://hype.retroscene.org/blog/744.html) — Иван Пирог Hype 04-09-2017
+* 
+
+**Video**
+
+* [Сергей Косов aka MmcM: «Магия 8 битного звука»](https://youtu.be/39UUMNYsWP8) — CAFe 2019 Seminars
+* [Vortex Tracker 2.5 — Review](https://www.youtube.com/watch?v=fWdxkp9FhTk) —  Иван Пирог к релизу VT2.5
+* [Обзор Vortex Tracker 2.0](https://www.youtube.com/watch?v=t0Gbu2wkKXw) —  Иван Пирог к релизу VT2.0
+* [Семинар «Написание ZX музыки в Vortex tracker 2»](https://youtu.be/WCUu18aKIKE) — Сергей Косов Chaos Constuctions'2013
+* [Vortex Tracker AY YM 4 drunkdummies](https://youtu.be/xWbSuihmCfY) — Видеоурок по созданию трека в Vortex Tracker
+* [Основы работы в Vortex Tracker. Часть 1](https://www.youtube.com/watch?v=oV-rTCeFU7c) — Kakos Nonos
+* [Пишем Turbo Sound трек в Vortex tracker с нуля](https://www.youtube.com/watch?v=h2FLaBeG4GM) — Voxel/3umf
+
 ## Graphics
+
 ### GFX archieves
 * [ZXART | zx graphics archive](http://zxart.ee/eng/graphics/) — zx spectrum graphics archive
 * [Artcity | graphics archive](http://artcity.bitfellas.org/) — Biggest demoscene graphics archive

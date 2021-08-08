@@ -79,8 +79,14 @@
 * [ПЭВМ АГАТ](https://t.me/pevm_agat) — ПЭВМ АГАТ
 #### Atari
 * [Atari XL/XE](https://t.me/atari_xl_xe) — Atari 8bit computer community
+
 #### PDP
+
 * [Ru_PDP](https://t.me/ru_pdp) — чат посвященный компьютерам Digital Equipment PDP (RUS)
+
+#### 8080 \ 8085
+
+* [ПК на 8080|8085 — hardware](https://t.me/vm80a) — Радио-86РК, Специалист, Орион, ЮТ-88 и т.д. Hardware.
 
 ## Telegram channels
 
@@ -93,7 +99,7 @@
 * [ZX memas](https://t.me/truezxmemas)
 * [ZX Spectrum](https://t.me/sinclairspectrum)
 * [ZX-Art](https://t.me/zxart_ee) — updates, changes, events, news
-* [Отмороженный пиксель](https://t.me/zxgrafen)
+* [Отмороженный пиксель](https://t.me/zxgrafen) — Голландский антиштурвал ZX-сцены
 * [Virtual TR-DOS](https://t.me/vtrdos)
 * [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup)
 * [Архиспектрум](https://t.me/zxarch)
