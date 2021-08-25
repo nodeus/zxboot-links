@@ -128,6 +128,24 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 
 * [ZX CHIP Podcast](http://zxchip.ru) — Подкаст о чипмузыке на zx spectrum
 
+**Online radio**
+
+* [Hyperadio site](https://hyperadio.retroscene.org/) — demoscene radio
+* [Hyperadio stream 1](http://hyperadio.ru:8000/live.m3u) —  128k-MP3
+* [Hyperadio stream 2](http://hyperadio.ru:8000/live2.m3u) —  128k-OGG
+* [Nectarine site](https://www.scenemusic.eu/demovibes/) — This site is a tribute to all the great computer & demoscene artists. We stream their music for you 24/7.
+* [Nectarine streams page](https://www.scenemusic.eu/demovibes/streams/)
+* [Nectarine stream](http://nectarine.inversi0n.org:8000/necta192.mp3.m3u) — 192k-MP3
+* [8bit fm stream](http://8bit.fm:8000/ay) — 128k-MP3
+* [Bitjam radio stream](http://marmalade.scenesat.com:8086/bitjam.mp3.m3u) — 128k-MP3
+* [SceneSat radio stream](http://scenesat.com/listen/normal/max.m3u) — 320k-MP3
+* [SID station stream](http://yp.shoutcast.com/sbin/tunein-station.m3u?id=1146404) — 128k-MP3
+* [SLAY radio stream](http://www.slayradio.org/tune_in.php/128kbpsaac/slayradio.aac.128.m3u) — 128k-AAC
+* [CGM UKScene stream](http://cgm-stream.noip.me:8000/mpd) — 128k-MP3
+* [CVGM.net stream](http://69.195.153.34/cvgm192) — 192k-MP3
+* [Roland radio stream](http://streaming.rolandradio.net/rolandradio) — 256k-MP3
+* [Kaaosradio 24h Chiptune stream](http://stream.kaaosradio.fi:8000/chip) — 224k-MP3
+
 **Music articles**
 
 * [Управление громкостью огибающей YM2149](https://telegra.ph/Upravlenie-gromkostyu-ogibayushchej-YM2149-05-11) — karbofos

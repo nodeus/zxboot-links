@@ -69,6 +69,7 @@
 * [HYPERADIO](https://t.me/hyperadio) — demoscene online radio Hyperadio
 * [Chipmusic](https://t.me/chipmusic)
 * [Scene music / Artists](https://t.me/scenemusicartists) — An area of demoscene music makers
+* [8bit.fm](https://t.me/bit8fm) — online radio 8bit.fm
 #### Amiga
 * [Vamped Amiga](https://t.me/vampedamiga) — Welcome to the Vamped Amiga Super Group (chat)! Act like great Amigans
 * [#amigarus | Наша Амига](https://t.me/amigarus) — amiga.org.ru (группа русских амижников)
