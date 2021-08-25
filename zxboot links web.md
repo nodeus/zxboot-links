@@ -26,6 +26,8 @@
 * [TS Config soft | demo, games, utils](http://prods.tslabs.info/) — TS Config software
 * [ZX SPECTRUM & | file archive (zx-pc-бк-yamaha etc...)](http://www.zx-spectrum.narod.ru/) — Archive software for old computers
 * [ZX-Soft collection | system file archive](http://zxsoft.zxby.org/) — Коллекция системных программ
+* [TZX vault](https://tzxvault.org/) — The aim of this site is to provide an archive of Sinclair ZX Spectrum games in .TZX tape format for preservation purposes.
+* [RZX archive](http://www.rzxarchive.co.uk/) — recordings of speccy games.
 
 ## Blogs, news, forums
 * [Hype collective blog](https://hype.retroscene.org/) — Коллективный блог о ретросцене и демосцене
@@ -46,8 +48,13 @@
 * [Got Papers blog about scene artefacts](http://gotpapers.untergrund.net/) — The most crucial resources on the history of the cracking and demoscene
 * [nedoPC | Shaos forum](http://www.nedopc.org/forum/index.php) — Community of electronics hobbyists
 * [Vintage is a new old](https://vintageisthenewold.com/) — Vintage is the New old is a product of pure love and dedication for Retro Computing
+* [Spectrum computing](https://spectrumcomputing.co.uk/) — PROUDLY POWERED BY THE OPEN SOURCE ZXDB DATABASE – THE LARGEST ZX SPECTRUM DATABASE IN THE WORLD!
+* [World of Spectrum](https://worldofspectrum.net/) — The spiritual successor to the official world archive for the Sinclair ZX Spectrum and the largest on-line gaming centre on the Internet.
+* [Philip Kendall — The Sinclair Spectrum](http://www.shadowmagic.org.uk/spectrum/) — This is a collection of various things related to the Sinclair Spectrum.
+* [Planet Sinclair](https://rk.nvg.ntnu.no/sinclair/) — Lots of historical information on Sir Clive, the Sinclair company and its products, mainly the Speccy!
 
 ## Hardware
+
 * [ZIFI ZX Evo](http://ts.retropc.ru/) — ZIFI-КЛИЕНТ ДЛЯ ДОСТУПА К ИНТЕРНЕТ-РЕСУРСАМ
 * [Mick Laboratory](http://micklab.ru/) — All MickLab projects and information about hardware
 * [nedopc.com official website](http://nedopc.com/) — Официальный сайт группы NedoPC
@@ -71,11 +78,12 @@
 * [Hobbies, Inside And Not Only](https://www.youtube.com/channel/UCpdaFDTRcqvCMRt2YqeEvUQ) — ZX Evo сборка, прошивка
 * [zx spectrum programming](https://www.youtube.com/playlist?list=PL3e88tGs8UviryIoFNa1pJZDN6mJwsiIR) — Программирование на zx spectrum (Пьяная муха)
 * [Timelapse: Making a game for ZX Spectrum 48 in 48 hours (Ludum Dare 48 competition)](https://www.youtube.com/watch?v=gcWKAuzXswk) — Таймлапс создания игры за 48 часов на LD
-* [Создание игр для zx spectrum](https://youtu.be/P9__NFrr3fA) — Рассмотрены темы по программированию для ZX Spectrum: быстрый вывод тайлов и спрайтов змейкой, со смещениями во все стороны; плавающий FPS в играх, delta timing; событийная модель поведений врагов (события, реакции, параметры).
+* [Сергей Смирнов — создание игр для zx spectrum](https://www.youtube.com/c/SergeiSmirnov/featured) — Рассмотрены темы по программированию для ZX Spectrum: быстрый вывод тайлов и спрайтов змейкой, со смещениями во все стороны; плавающий FPS в играх, delta timing; событийная модель поведений врагов (события, реакции, параметры).
 * [Matt Heffernan - Slithy Games](https://www.youtube.com/c/slithymatt) — This is the official YouTube channel of Matt Heffernan and Slithy Games, featuring tutorials for programming for retro computers and gaming consoles, new games for old-school platforms, 8-bit demos, and archived content from Slithy Studios (2000-2005)
 * [Валерий Лис](https://www.youtube.com/c/ВалерийЛис386/videos) —  Цифровая электроника (logisim, ПЛИС, проектирование на макетных платах); Ассемблер (для разных архитектур процессоров); Создание своих операционных систем; Эмуляция процессоров; Графика (2D/3D, демосцена); Математика и алгоритмы.
 * [DeboshNow](https://www.youtube.com/channel/UCyOcpHk0DhOi6pLqlMP9RFg/videos) — Cборка Karabas Pro
 * [retro Daenury](https://www.youtube.com/c/retroDaenury) — ZX-SPECTRUM, Dendy, ностальгия, retro-gaming, ретро атмосфера тёплых ушедших лет, 90-е и не только
+* [The 8-Bit Guy](https://www.youtube.com/user/adric22) — A computer video series focusing mainly on retro technology from the 80's, 90's and 2000's.
 
 ### Video demos
 
@@ -93,6 +101,7 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 ### Video games
 * [Funky Spectrum](https://www.youtube.com/user/FUNKYSPECTRUM) — Up to date reviews of all the latest ZX SPECTRUM games!
 * [NAOTA — канал про видеоигры](https://www.youtube.com/user/naotatube) — Игры во всех их проявлениях, от Spacewar и Pong и до самых современных nextgen проектов.
+* [RZX archive video](https://www.youtube.com/user/rzxarchive) — These videos were made from RZX files sent to rzxarchive.co.uk. These are recordings of Spectrum gameplay, which can be made & played back on compatible Spectrum emulators.
 ### Video music
 * [Little Bitchard Youtube channel](https://www.youtube.com/user/TheLittleBitchard) — Канал музыканта Little Bitchard
 * [Motion Ride music](https://www.youtube.com/user/MotionRideVideos) — MotionRide is a project that involves music, animations and art that I made. You can find electronic dance and rock music here, some oldschool computer music (chiptunes) and mostly cartoon animations/graphics.
@@ -125,7 +134,6 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [VT — Огибающая для самых маленьких](https://telegra.ph/ogiba-dlya-samyh-malenkih-03-14) — karbofos
 * [Новый Vortex Tracker 2.5 — это БОМБА!](https://hype.retroscene.org/blog/794.html) — Иван Пирог Hype 26-02-2018
 * [Новый релиз — Vortex Tracker 2.0 — Перерождение (2017)](https://hype.retroscene.org/blog/744.html) — Иван Пирог Hype 04-09-2017
-* 
 
 **Video**
 
