@@ -48,7 +48,7 @@
 * [ZX Sale](https://t.me/zxsale) — Здесь можно покупать, продавать, менять и отдавать даром Spectrum-совместимые компьютеры, запчасти и аксессуары
 * [ZX Chat](https://t.me/zxchat) — Чат для веселого и непринужденного общения спектрумистов на любые темы
 * [ZX Software](https://t.me/zxsoftware) — Чат для обсуждения спектрумского soft'а.
-* [SINC LAIR chat](https://t.me/sinc_LAIR_chat) — SINC LAIR official chat
+* [ZX Spectrum Chat](https://t.me/joinchat/CyRx59yXOydmYmMy) — Общение по ретро-компьютерам, в частности ZX Spectrum
 * [ZX.SPECTRUM [RU]](https://t.me/spectrum_zx) — ZX Spectrum и всё, что с ним связано
 * [speccy future](http://t.me/speccyfuture) — Future of ZX Spectrum ecosystem, in Russian & English
 * [Profi1024](https://t.me/Profi1024) — Группа поддержки пользователей компьютера Profi
