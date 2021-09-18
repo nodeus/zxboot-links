@@ -28,62 +28,68 @@
 * [ZX-Soft collection | system file archive](http://zxsoft.zxby.org/) — Коллекция системных программ
 * [TZX vault](https://tzxvault.org/) — The aim of this site is to provide an archive of Sinclair ZX Spectrum games in .TZX tape format for preservation purposes.
 * [RZX archive](http://www.rzxarchive.co.uk/) — recordings of speccy games.
+* [World of Spectrum](https://worldofspectrum.org/) — The official world archive for the Sinclair ZX Spectrum
+* [World of Spectrum classic](https://worldofspectrum.net/) — The spiritual successor to the official world archive for the Sinclair ZX Spectrum and the largest on-line gaming centre on the Internet.
+* [Speccy screenshot maps](https://maps.speccy.cz/) — You will find here all maps (put together from screenshots) to games for eight-bit computer ZX Spectrum.
 
 ## Blogs, news, forums
-* [Hype collective blog](https://hype.retroscene.org/) — Коллективный блог о ретросцене и демосцене
-* [Speccy live news blog](http://speccy-live.untergrund.net/) — Коллективный новостной блог
-* [ZXAAA |  aaa forum](https://zxdemos.ru/) — Форум архива zxaaa.net
-* [SPECCY.PL poland speccy portal](http://www.speccy.pl) — Poland zx spectrum portal (news, forum, soft archive)
-* [DL Corp forum](http://dlcorp.nedopc.com/) — DLCorp forum
-* [OldСomp.cz forum](http://www.oldcomp.cz/) — Community discussion forum for fans of historical computers
-* [NedoPC forum](http://forum.nedopc.com/) — NedoPC forum
-* [zx.clan.su USSR ZX Spectrum Community forum](https://zx.clan.su/forum/) — Black_Cat portal
+
+* [Hype collective blog](https://hype.retroscene.org/) — Коллективный блог о ретросцене и демосцене.
+* [Speccy live news blog](http://speccy-live.untergrund.net/) — Коллективный новостной блог.
+* [ZXAAA |  aaa forum](https://zxdemos.ru/) — Форум архива zxaaa.net.
+* [SPECCY.PL poland speccy portal](http://www.speccy.pl) — Poland zx spectrum portal (news, forum, soft archive).
+* [DL Corp forum](http://dlcorp.nedopc.com/) — DLCorp forum.
+* [OldСomp.cz forum](http://www.oldcomp.cz/) — Community discussion forum for fans of historical computers.
+* [NedoPC forum](http://forum.nedopc.com/) — NedoPC forum.
+* [zx.clan.su USSR ZX Spectrum Community forum](https://zx.clan.su/forum/) — Black_Cat portal.
 * [zx-pk.ru forum](http://zx-pk.ru/forum.php) — Форум Speccy — наш выбор!
-* [ZX Spectrum Next forum](http://www.specnext.com/forum/) — The ZX Spectrum Next user\`s forum
-* [TS Labs forum](http://forum.tslabs.info/) — TS Labs forum
-* [Идеальный пиксель news blog](http://idpixel.ru) — Новостной проект о ретроиграх и ретротехнике
-* [ZXBY.ORG Belarusian zx news](http://zxby.org/) — Belarusian zx portal
-* [Новая реальность](http://tv-games.ru/) — Портал об играх
-* [sinclair.hu Hungary ZX portal](http://www.sinclair.hu/) — Венгерский zx портал
-* [Got Papers blog about scene artefacts](http://gotpapers.untergrund.net/) — The most crucial resources on the history of the cracking and demoscene
-* [nedoPC | Shaos forum](http://www.nedopc.org/forum/index.php) — Community of electronics hobbyists
-* [Vintage is a new old](https://vintageisthenewold.com/) — Vintage is the New old is a product of pure love and dedication for Retro Computing
+* [ZX Spectrum Next forum](http://www.specnext.com/forum/) — The ZX Spectrum Next user\`s forum.
+* [TS Labs forum](http://forum.tslabs.info/) — TS Labs forum.
+* [Идеальный пиксель news blog](http://idpixel.ru) — Новостной проект о ретроиграх и ретротехнике.
+* [ZXBY.ORG Belarusian zx news](http://zxby.org/) — Belarusian zx portal.
+* [Новая реальность](http://tv-games.ru/) — Портал об играх.
+* [sinclair.hu Hungary ZX portal](http://www.sinclair.hu/) — Венгерский zx портал.
+* [Got Papers blog about scene artefacts](http://gotpapers.untergrund.net/) — The most crucial resources on the history of the cracking and demoscene.
+* [nedoPC | Shaos forum](http://www.nedopc.org/forum/index.php) — Community of electronics hobbyists.
+* [Vintage is a new old](https://vintageisthenewold.com/) — Vintage is the New old is a product of pure love and dedication for Retro Computing.
 * [Spectrum computing](https://spectrumcomputing.co.uk/) — PROUDLY POWERED BY THE OPEN SOURCE ZXDB DATABASE – THE LARGEST ZX SPECTRUM DATABASE IN THE WORLD!
-* [World of Spectrum](https://worldofspectrum.net/) — The spiritual successor to the official world archive for the Sinclair ZX Spectrum and the largest on-line gaming centre on the Internet.
 * [Philip Kendall — The Sinclair Spectrum](http://www.shadowmagic.org.uk/spectrum/) — This is a collection of various things related to the Sinclair Spectrum.
 * [Planet Sinclair](https://rk.nvg.ntnu.no/sinclair/) — Lots of historical information on Sir Clive, the Sinclair company and its products, mainly the Speccy!
+* [Yolkfolk.com](https://yolkfolk.com/) — The dizzy fansite.
 
 ## Hardware
 
 * [ZIFI ZX Evo](http://ts.retropc.ru/) — ZIFI-КЛИЕНТ ДЛЯ ДОСТУПА К ИНТЕРНЕТ-РЕСУРСАМ
-* [Mick Laboratory](http://micklab.ru/) — All MickLab projects and information about hardware
-* [nedopc.com official website](http://nedopc.com/) — Официальный сайт группы NedoPC
-* [ATM-turbo official website](http://atmturbo.nedopc.com/) — Официальный сайт поддержки компьютеров ATM-turbo
-* [zxbyte.ru «zxbyte» computer](http://zxbyte.ru/) — Компьютер «Байт»
-* [Pentagon 1024 SL](http://pentagon.nedopc.com/) — Проект Pentagon 1024 SL
-* [Scorpion](http://scorpion.ru/spectrum/hard/sc_hard.htm) — ZX Scorpion железо
-* [SBLive schemes (zx, atari, msx, amiga, sega)](http://sblive.narod.ru/) — 
-* [VELESOFT Czech zx hardware fan](http://velesoft.speccy.cz/) — VELESOFT — zx sam timex sprinter
-* [Swedish ZX Spectrum DIY site](http://user.tninet.se/~vjz762w/) — Swedish ZX Spectrum DIY site
-* [ZX Spectrum Next official portal](http://www.specnext.com/) — The official portal of all things Next
-* [АЛЕКСЕЙ МОРОЗОВ | homepage](http://alemorf.ru/comps/index.html) — Советские домашние компьютеры и немного другого
+* [Mick Laboratory](http://micklab.ru/) — All MickLab projects and information about hardware.
+* [nedopc.com official website](http://nedopc.com/) — Официальный сайт группы NedoPC.
+* [ATM-turbo official website](http://atmturbo.nedopc.com/) — Официальный сайт поддержки компьютеров ATM-turbo.
+* [zxbyte.ru «zxbyte» computer](http://zxbyte.ru/) — Компьютер «Байт».
+* [Pentagon 1024 SL](http://pentagon.nedopc.com/) — Проект Pentagon 1024 SL.
+* [Scorpion](http://scorpion.ru/spectrum/hard/sc_hard.htm) — ZX Scorpion железо.
+* [SBLive schemes (zx, atari, msx, amiga, sega)](http://sblive.narod.ru/) — Схемы и статьи.
+* [VELESOFT Czech zx hardware fan](http://velesoft.speccy.cz/) — VELESOFT — zx sam timex sprinter.
+* [Swedish ZX Spectrum DIY site](http://user.tninet.se/~vjz762w/) — Swedish ZX Spectrum DIY site.
+* [ZX Spectrum Next official portal](http://www.specnext.com/) — The official portal of all things Next.
+* [АЛЕКСЕЙ МОРОЗОВ | homepage](http://alemorf.ru/comps/index.html) — Советские домашние компьютеры и немного другого.
 
 ## Video
 ### Video blogs
-* [Дмитрий Бачило («16 бит тому назад», «кремниевые титаны» и др.)](https://www.youtube.com/user/BachiloDmitry) — Этот канал в основном посвящен обзорам всякого старого железа и софта, впрочем не только старого
-* [AsteroideZX](https://www.youtube.com/channel/UC2xYxR_LCpHtLz9v5UZrjiQ) — BIENVENID@S al "AsteroideZX" Espacio de VideoJuegos. Canal comentado de contenido retro y actual. Gameplays ARCADE, ATARI, GAME&WATCH, SPECTRUM, AMSTRAD, MS-DOS, PLAYSTATION, PC, ONLINE, Tutoriales ZX BASIC, etc
-* [Ivan Avdeev personal | code some realtime stuff](https://www.youtube.com/user/floba23) — I like to code some weird realtime stuff. Mostly OpenGL and cross-platform as fuck
-* [sinc LAIR](https://www.youtube.com/channel/UChC1Gcl-1bOkNPPzN_owcVg) — Канал посвящён нашему любимому компьютеру ZX Spectrum и всему, что с ним связано
+* [Дмитрий Бачило («16 бит тому назад», «кремниевые титаны» и др.)](https://www.youtube.com/user/BachiloDmitry) — Этот канал в основном посвящен обзорам всякого старого железа и софта, впрочем не только старого.
+* [AsteroideZX](https://www.youtube.com/channel/UC2xYxR_LCpHtLz9v5UZrjiQ) — BIENVENID@S al "AsteroideZX" Espacio de VideoJuegos. Canal comentado de contenido retro y actual. Gameplays ARCADE, ATARI, GAME&WATCH, SPECTRUM, AMSTRAD, MS-DOS, PLAYSTATION, PC, ONLINE, Tutoriales ZX BASIC, etc.
+* [Ivan Avdeev personal | code some realtime stuff](https://www.youtube.com/user/floba23) — I like to code some weird realtime stuff. Mostly OpenGL and cross-platform as fuck.
+* [sinc LAIR](https://www.youtube.com/channel/UChC1Gcl-1bOkNPPzN_owcVg) — Канал посвящён нашему любимому компьютеру ZX Spectrum и всему, что с ним связано.
 * [Arnau Jess](https://www.youtube.com/channel/UCAz8lXjzd8TZkbbID_qSakA) — Zx Spectrum y sus juegos pasión. Speccy and passionate games. Subscribe to my channel and enjoys the ZX Spectrum differently Retrogamers time!
-* [Hobbies, Inside And Not Only](https://www.youtube.com/channel/UCpdaFDTRcqvCMRt2YqeEvUQ) — ZX Evo сборка, прошивка
-* [zx spectrum programming](https://www.youtube.com/playlist?list=PL3e88tGs8UviryIoFNa1pJZDN6mJwsiIR) — Программирование на zx spectrum (Пьяная муха)
-* [Timelapse: Making a game for ZX Spectrum 48 in 48 hours (Ludum Dare 48 competition)](https://www.youtube.com/watch?v=gcWKAuzXswk) — Таймлапс создания игры за 48 часов на LD
+* [Hobbies, Inside And Not Only](https://www.youtube.com/channel/UCpdaFDTRcqvCMRt2YqeEvUQ) — ZX Evo сборка, прошивка.
+* [zx spectrum programming](https://www.youtube.com/playlist?list=PL3e88tGs8UviryIoFNa1pJZDN6mJwsiIR) — Программирование на zx spectrum (Пьяная муха).
+* [Timelapse: Making a game for ZX Spectrum 48 in 48 hours (Ludum Dare 48 competition)](https://www.youtube.com/watch?v=gcWKAuzXswk) — Таймлапс создания игры за 48 часов на LD.
 * [Сергей Смирнов — создание игр для zx spectrum](https://www.youtube.com/c/SergeiSmirnov/featured) — Рассмотрены темы по программированию для ZX Spectrum: быстрый вывод тайлов и спрайтов змейкой, со смещениями во все стороны; плавающий FPS в играх, delta timing; событийная модель поведений врагов (события, реакции, параметры).
 * [Matt Heffernan - Slithy Games](https://www.youtube.com/c/slithymatt) — This is the official YouTube channel of Matt Heffernan and Slithy Games, featuring tutorials for programming for retro computers and gaming consoles, new games for old-school platforms, 8-bit demos, and archived content from Slithy Studios (2000-2005)
 * [Валерий Лис](https://www.youtube.com/c/ВалерийЛис386/videos) —  Цифровая электроника (logisim, ПЛИС, проектирование на макетных платах); Ассемблер (для разных архитектур процессоров); Создание своих операционных систем; Эмуляция процессоров; Графика (2D/3D, демосцена); Математика и алгоритмы.
 * [DeboshNow](https://www.youtube.com/channel/UCyOcpHk0DhOi6pLqlMP9RFg/videos) — Cборка Karabas Pro
 * [retro Daenury](https://www.youtube.com/c/retroDaenury) — ZX-SPECTRUM, Dendy, ностальгия, retro-gaming, ретро атмосфера тёплых ушедших лет, 90-е и не только
 * [The 8-Bit Guy](https://www.youtube.com/user/adric22) — A computer video series focusing mainly on retro technology from the 80's, 90's and 2000's.
+* [Hot pixel](https://www.youtube.com/c/HotPixel/featured) — Контент о ретро компьютерах, софте,  играх, консолях и прочем старом (и не очень) железе.
+* [Советы компьютерного энтузиаста](https://www.youtube.com/channel/UCz_ktTqWVekT0P4zVW8Xgcg)
 
 ### Video demos
 
@@ -189,6 +195,7 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [Журнал «DOWNGRADE»](http://dgmag.in/) — Журнал «DOWNGRADE» — старое программное обеспечение.
 * [Gamergy | e-paper](http://gamergy.ru/) — Gamergy — electronic newspaper about games on zx-spectrum
 * [ZX Golden years | zx spectrum 1982 — 1986](https://www.zxgoldenyears.org/) — Reviews, stories and interviews from the ZX Spectrum's golden years: 1982-1986
+* [Таблица опкодов Z80](https://clrhome.org/table/) — удобная таблица опкодов Z80
 
 ## Groups, sceners, peoples
 * [PROGRESS | group](http://pgs-hq.narod.ru/info.html) — PROGRESS — 8bit demomakers team site
