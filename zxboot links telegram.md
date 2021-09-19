@@ -52,6 +52,7 @@
 * [ZX.SPECTRUM [RU]](https://t.me/spectrum_zx) — ZX Spectrum и всё, что с ним связано
 * [speccy future](http://t.me/speccyfuture) — Future of ZX Spectrum ecosystem, in Russian & English
 * [Profi1024](https://t.me/Profi1024) — Группа поддержки пользователей компьютера Profi
+* [Sprinter Computer](https://t.me/zx_sprinter) — чат по компьютеру Sprinter
 
 ### Demoscene and retroscene other
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
@@ -120,6 +121,7 @@
 * [zxaaa](https://t.me/zxaaa_bot)
 * [News Out Of Compo](https://t.me/outofcompo)
 * [ЭлектроКот — Техноблог](https://t.me/electro_kot) — Техноновости из будущего и прошлого
+* [Sprinter computer](https://t.me/zx_sprinter_computer) — Bнформационный канал в телеграм о компьютере Sprinter. Новости и исторические данные.
 
 ## Telegram bots
 

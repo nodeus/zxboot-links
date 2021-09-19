@@ -71,6 +71,7 @@
 * [Swedish ZX Spectrum DIY site](http://user.tninet.se/~vjz762w/) — Swedish ZX Spectrum DIY site.
 * [ZX Spectrum Next official portal](http://www.specnext.com/) — The official portal of all things Next.
 * [АЛЕКСЕЙ МОРОЗОВ | homepage](http://alemorf.ru/comps/index.html) — Советские домашние компьютеры и немного другого.
+* [Sprinter8](http://sprinter8.org) — Sprinter документация
 
 ## Video
 ### Video blogs
@@ -228,4 +229,5 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [demoscene](https://discord.gg/THPy9fFM) — Welcome to the Discord Server for the Demoscene! (Eng. language preferred!)
 * [hypr](https://discord.gg/PtBEHaap) — hype.retroscene.org
 * [Speccy Music](https://discord.gg/nnWSUBYh) — zx spectrum music
+* [Sprinter computer](https://discord.gg/x59TnYWkSN) — Speinter discord server
 
