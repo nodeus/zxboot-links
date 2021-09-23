@@ -230,4 +230,5 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [hypr](https://discord.gg/PtBEHaap) — hype.retroscene.org
 * [Speccy Music](https://discord.gg/nnWSUBYh) — zx spectrum music
 * [Sprinter computer](https://discord.gg/x59TnYWkSN) — Speinter discord server
+* [Speccy Software](https://discord.gg/dZm6TQrv) — zx spectrum software
 
