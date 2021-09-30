@@ -56,6 +56,7 @@
 * [Philip Kendall — The Sinclair Spectrum](http://www.shadowmagic.org.uk/spectrum/) — This is a collection of various things related to the Sinclair Spectrum.
 * [Planet Sinclair](https://rk.nvg.ntnu.no/sinclair/) — Lots of historical information on Sir Clive, the Sinclair company and its products, mainly the Speccy!
 * [Yolkfolk.com](https://yolkfolk.com/) — The dizzy fansite.
+* [Cracked by Bill Gilbert](https://zxbg.blogspot.com/) — Блог по стопам легендарного хакера.
 
 ## Hardware
 
