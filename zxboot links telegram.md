@@ -121,7 +121,8 @@
 * [zxaaa](https://t.me/zxaaa_bot)
 * [News Out Of Compo](https://t.me/outofcompo)
 * [ЭлектроКот — Техноблог](https://t.me/electro_kot) — Техноновости из будущего и прошлого
-* [Sprinter computer](https://t.me/zx_sprinter_computer) — Bнформационный канал в телеграм о компьютере Sprinter. Новости и исторические данные.
+* [Sprinter computer](https://t.me/zx_sprinter_computer) — Информационный канал в телеграм о компьютере Sprinter. Новости и исторические данные.
+* [Hot Pixel](https://t.me/HotPixel_Channel) — Канал о старых железяках, ретро компьютерах и консолях
 
 ## Telegram bots
 

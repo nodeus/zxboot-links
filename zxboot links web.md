@@ -92,6 +92,7 @@
 * [The 8-Bit Guy](https://www.youtube.com/user/adric22) — A computer video series focusing mainly on retro technology from the 80's, 90's and 2000's.
 * [Hot pixel](https://www.youtube.com/c/HotPixel/featured) — Контент о ретро компьютерах, софте,  играх, консолях и прочем старом (и не очень) железе.
 * [Советы компьютерного энтузиаста](https://www.youtube.com/channel/UCz_ktTqWVekT0P4zVW8Xgcg)
+* [HotPixel](https://www.youtube.com/c/HotPixel) — Контент о ретро компьютерах, софте,  играх, консолях и прочем старом (и не очень) железе.
 
 ### Video demos
 
