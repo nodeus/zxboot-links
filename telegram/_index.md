@@ -4,6 +4,10 @@ description = "Telegram groups and channels"
 weight = 1
 +++
 
+{{< lead >}}
+В этом разделе собраны ссылки на группы, каналы и боты в мессенджере Telegram.
+{{< /lead >}}
+
 # Telegram groups
 ### Demoparty
 * [Chaos Constructions Demo\Retro](https://t.me/chaosconstructions) — Демопати Сhaos constructions
