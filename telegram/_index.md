@@ -1,13 +1,10 @@
-# zxboot links telegram
-Список групп, каналов и ботов телеграма, а также список интересных ресурсов по схожей тематике — чаты в telegram для ретросценеров, просто сценеров и сочувствующих несценеров. Для кодеров, музыкантов, художников, гиков, айтишников, а также прочих неравнодушных к компьютерам и компьютерному искусству и анеграунду.
++++
+title = "Telegram"
+description = "Telegram groups and channels"
+weight = 1
++++
 
-Уважаемые, если у вас есть в подписках интересные каналы, чаты или боты, а также ссылки на любые интересные тематические ресурсы — пожалуйста, присылайте свои предложения и пулреквесты. Я с большим удовольствием расширю и дополню полезный для всех список. Обратите внимание, что добавляются только релевантные ресурсы!
-
-[zxboot links telegram](https://github.com/nodeus/zxboot-links/blob/master/zxboot%20links%20telegram.md)
-
-[zxboot links web](https://github.com/nodeus/zxboot-links/blob/master/zxboot%20links%20web.md)
-
-# Telegram chats
+# Telegram groups
 ### Demoparty
 * [Chaos Constructions Demo\Retro](https://t.me/chaosconstructions) — Демопати Сhaos constructions
 * [Multimatograf](https://t.me/multimatograf) — Multimatograf demoparty
@@ -53,7 +50,6 @@
 * [speccy future](http://t.me/speccyfuture) — Future of ZX Spectrum ecosystem, in Russian & English
 * [Profi1024](https://t.me/Profi1024) — Группа поддержки пользователей компьютера Profi
 * [Sprinter Computer](https://t.me/zx_sprinter) — чат по компьютеру Sprinter
-
 ### Demoscene and retroscene other
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
 * [z80 /q11](https://t.me/joinchat/Q7uxralB1WiB9Id0) — ZX Spectrum sweet home! Темы: Z80, Spectrum, демосцена, кодинг, музыка, графика, потереть за жизнь, накидать приколов. Не благословляются: скучные и повторяющиеся офтопы, тяжелая политота, невысокий интеллект при активной гражданской позиции.
@@ -64,9 +60,7 @@
 * [Newskool demomaker\`s chat](https://t.me/pcdemomaking) — Newskool Demoscene/Demomakers community (Eng/Rus)
 * [SizeCoders Chat](https://t.me/sizecoders) — SizeCoding tricks discussion
 * [Ассемблирование и микроэлектроника — z80  x86  6502  etc](https://t.me/foxasm) — Чат, в котором могут помочь понять ассемблер и просто поговорить
-
 #### Music
-
 * [HYPERADIO](https://t.me/hyperadio) — demoscene online radio Hyperadio
 * [Chipmusic](https://t.me/chipmusic)
 * [Scene music / Artists](https://t.me/scenemusicartists) — An area of demoscene music makers
@@ -81,17 +75,11 @@
 * [ПЭВМ АГАТ](https://t.me/pevm_agat) — ПЭВМ АГАТ
 #### Atari
 * [Atari XL/XE](https://t.me/atari_xl_xe) — Atari 8bit computer community
-
 #### PDP
-
 * [Ru_PDP](https://t.me/ru_pdp) — чат посвященный компьютерам Digital Equipment PDP (RUS)
-
 #### 8080 \ 8085
-
 * [ПК на 8080|8085 — hardware](https://t.me/vm80a) — Радио-86РК, Специалист, Орион, ЮТ-88 и т.д. Hardware.
-
 ## Telegram channels
-
 ### ZX
 * [ZX Speccy](https://t.me/zxnews) — Телеграм-канал проекта ZX Speccy. Важные новости из мира ZX Spectrum'а: игры, железо, люди
 * [ZX-CHIP podcast](https://t.me/zxchip) — Recent podcast issues
@@ -123,9 +111,7 @@
 * [ЭлектроКот — Техноблог](https://t.me/electro_kot) — Техноновости из будущего и прошлого
 * [Sprinter computer](https://t.me/zx_sprinter_computer) — Информационный канал в телеграм о компьютере Sprinter. Новости и исторические данные.
 * [Hot Pixel](https://t.me/HotPixel_Channel) — Канал о старых железяках, ретро компьютерах и консолях
-
 ## Telegram bots
-
 * [Hyperadio bot](https://t.me/hyperadio_bot) — nowplay, download, request, convert chiptunes
 * [КОН ВЕР ТЕР](https://t.me/zxconvbot) — конвертер pt3 —> mp3
 * [hype.retroscene.org news](https://t.me/hyprbot) — бот с новостями hype.retroscene.org

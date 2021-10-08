@@ -1,20 +1,19 @@
-# zxboot links web
-Список ресурсов для ретросценеров, просто сценеров и сочувствующих несценеров. Для кодеров, музыкантов, художников, гиков, айтишников, а также прочих неравнодушных к компьютерам и компьютерному искусству и анеграунду.
++++
+title = "Web"
+description = "Web links"
+weight = 2
++++
 
-Уважаемые, если у вас есть ссылки на любые интересные тематические ресурсы — пожалуйста, присылайте свои предложения и пулреквесты. Я с большим удовольствием расширю и дополню полезный для всех список. Обратите внимание, что добавляются только релевантные ресурсы!
-
-[zxboot links telegram](https://github.com/nodeus/zxboot-links/blob/master/zxboot%20links%20telegram.md)
-
-[zxboot links web](https://github.com/nodeus/zxboot-links/blob/master/zxboot%20links%20web.md)
+{{< lead >}}
+В этом разделе собраны ссылки на различные ресурсы в сети интернет.
+{{< /lead >}}
 
 # WEB links
-
 ## Demoparty
 * [Out Of Compo](http://ooc.retroscene.org/) — Out Of Compo demoparty
 * [Chaos constructions](https://chaosconstructions.ru/) — Chaos constructions demoparty
 * [DiHalt](http://www.dihalt.org.ru/) — DiHalt demoparty
 * [CAFe](https://cafeparty.org.ru/) — CAFe demoparty
-
 ## Soft and file archieves
 * [Virtual tr-dos](http://vtrd.in/) — Архив программ для zx spectrum
 * [ZXAAA](https://zxaaa.net) — Архив демо, интро, поддерживаемый AAA
@@ -31,9 +30,7 @@
 * [World of Spectrum](https://worldofspectrum.org/) — The official world archive for the Sinclair ZX Spectrum
 * [World of Spectrum classic](https://worldofspectrum.net/) — The spiritual successor to the official world archive for the Sinclair ZX Spectrum and the largest on-line gaming centre on the Internet.
 * [Speccy screenshot maps](https://maps.speccy.cz/) — You will find here all maps (put together from screenshots) to games for eight-bit computer ZX Spectrum.
-
 ## Blogs, news, forums
-
 * [Hype collective blog](https://hype.retroscene.org/) — Коллективный блог о ретросцене и демосцене.
 * [Speccy live news blog](http://speccy-live.untergrund.net/) — Коллективный новостной блог.
 * [ZXAAA |  aaa forum](https://zxdemos.ru/) — Форум архива zxaaa.net.
@@ -57,9 +54,7 @@
 * [Planet Sinclair](https://rk.nvg.ntnu.no/sinclair/) — Lots of historical information on Sir Clive, the Sinclair company and its products, mainly the Speccy!
 * [Yolkfolk.com](https://yolkfolk.com/) — The dizzy fansite.
 * [Cracked by Bill Gilbert](https://zxbg.blogspot.com/) — Блог по стопам легендарного хакера.
-
 ## Hardware
-
 * [ZIFI ZX Evo](http://ts.retropc.ru/) — ZIFI-КЛИЕНТ ДЛЯ ДОСТУПА К ИНТЕРНЕТ-РЕСУРСАМ
 * [Mick Laboratory](http://micklab.ru/) — All MickLab projects and information about hardware.
 * [nedopc.com official website](http://nedopc.com/) — Официальный сайт группы NedoPC.
@@ -73,7 +68,6 @@
 * [ZX Spectrum Next official portal](http://www.specnext.com/) — The official portal of all things Next.
 * [АЛЕКСЕЙ МОРОЗОВ | homepage](http://alemorf.ru/comps/index.html) — Советские домашние компьютеры и немного другого.
 * [Sprinter8](http://sprinter8.org) — Sprinter документация
-
 ## Video
 ### Video blogs
 * [Дмитрий Бачило («16 бит тому назад», «кремниевые титаны» и др.)](https://www.youtube.com/user/BachiloDmitry) — Этот канал в основном посвящен обзорам всякого старого железа и софта, впрочем не только старого.
@@ -93,9 +87,7 @@
 * [Hot pixel](https://www.youtube.com/c/HotPixel/featured) — Контент о ретро компьютерах, софте,  играх, консолях и прочем старом (и не очень) железе.
 * [Советы компьютерного энтузиаста](https://www.youtube.com/channel/UCz_ktTqWVekT0P4zVW8Xgcg)
 * [HotPixel](https://www.youtube.com/c/HotPixel) — Контент о ретро компьютерах, софте,  играх, консолях и прочем старом (и не очень) железе.
-
 ### Video demos
-
 * [DEMOSCENE](https://www.youtube.com/channel/UCSnmbUU8S8XlJ8yZCViC7iw) — ZX SPECTRUM and other demoscene videos. Also 8bit retro computers and computer art
 * [Annikras High-Quality Videos](https://www.youtube.com/user/Annikras) — Highquality captures from demos/intros from the demoscene running on the Windows Platform
 * [ZXAAA Demo ZX Spectrum](https://www.youtube.com/channel/UC6WtMW2NwuRB6Uyff6ADPJg) — канал контентом которого являются музыкальные демострации, крактро, гифты, музыкальные сборники с компьютера Pentagon 128
@@ -114,7 +106,6 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 ### Video music
 * [Little Bitchard Youtube channel](https://www.youtube.com/user/TheLittleBitchard) — Канал музыканта Little Bitchard
 * [Motion Ride music](https://www.youtube.com/user/MotionRideVideos) — MotionRide is a project that involves music, animations and art that I made. You can find electronic dance and rock music here, some oldschool computer music (chiptunes) and mostly cartoon animations/graphics.
-
 ## Music
 ### Music archieves
 * [ZXTUNES archive](http://www.zxtunes.com/) — ZXTUNES — это одна из крупнейших коллекций музыки для компьютера ZX Spectrum на AY-3-8910 / YM2149
@@ -132,13 +123,9 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [FC Jungle memories](http://fc-jungle.com/) — Сайт посвящён группе FC-Jungle (1995—1998)
 * [AY-Riders home](http://ay-riders.speccy.cz/) — Worldwide chiptune band
 * [8bitpeoples netlabel](http://www.8bitpeoples.com/) — 8bitpeoples is a netlabel based on the principle of pushing technical and creative boundaries
-
 ### Music podcasts
-
 * [ZX CHIP Podcast](http://zxchip.ru) — Подкаст о чипмузыке на zx spectrum
-
-**Online radio**
-
+### Online radio
 * [Hyperadio site](https://hyperadio.retroscene.org/) — demoscene radio
 * [Hyperadio stream 1](http://hyperadio.ru:8000/live.m3u) —  128k-MP3
 * [Hyperadio stream 2](http://hyperadio.ru:8000/live2.m3u) —  128k-OGG
@@ -154,16 +141,12 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [CVGM.net stream](http://69.195.153.34/cvgm192) — 192k-MP3
 * [Roland radio stream](http://streaming.rolandradio.net/rolandradio) — 256k-MP3
 * [Kaaosradio 24h Chiptune stream](http://stream.kaaosradio.fi:8000/chip) — 224k-MP3
-
-**Music articles**
-
+### Music articles
 * [Управление громкостью огибающей YM2149](https://telegra.ph/Upravlenie-gromkostyu-ogibayushchej-YM2149-05-11) — karbofos
 * [VT — Огибающая для самых маленьких](https://telegra.ph/ogiba-dlya-samyh-malenkih-03-14) — karbofos
 * [Новый Vortex Tracker 2.5 — это БОМБА!](https://hype.retroscene.org/blog/794.html) — Иван Пирог Hype 26-02-2018
 * [Новый релиз — Vortex Tracker 2.0 — Перерождение (2017)](https://hype.retroscene.org/blog/744.html) — Иван Пирог Hype 04-09-2017
-
-**Video**
-
+### Music video
 * [Сергей Косов aka MmcM: «Магия 8 битного звука»](https://youtu.be/39UUMNYsWP8) — CAFe 2019 Seminars
 * [Vortex Tracker 2.5 — Review](https://www.youtube.com/watch?v=fWdxkp9FhTk) —  Иван Пирог к релизу VT2.5
 * [Обзор Vortex Tracker 2.0](https://www.youtube.com/watch?v=t0Gbu2wkKXw) —  Иван Пирог к релизу VT2.0
@@ -173,7 +156,6 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [Пишем Turbo Sound трек в Vortex tracker с нуля](https://www.youtube.com/watch?v=h2FLaBeG4GM) — Voxel/3umf
 
 ## Graphics
-
 ### GFX archieves
 * [ZXART | zx graphics archive](http://zxart.ee/eng/graphics/) — zx spectrum graphics archive
 * [Artcity | graphics archive](http://artcity.bitfellas.org/) — Biggest demoscene graphics archive
@@ -183,7 +165,6 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 ### GFX Blogs and own sites
 * [Gas13 | pixelart artist](http://gas13.ru/) — Личный сайт пиксельарт художника Gas13
 * [Unomoralez | pixelart artist](http://unomoralez.com/) — Личный сайт пиксельарт художника Unomoralez
-
 ## Press, wiki, info
 * [Speccy info | Wiki](http://speccy.info) — Speccy wiki
 * [Техническая литература | scans](http://home.onego.ru/~bav9/87.html) — Техническая литература
@@ -199,7 +180,6 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [Gamergy | e-paper](http://gamergy.ru/) — Gamergy — electronic newspaper about games on zx-spectrum
 * [ZX Golden years | zx spectrum 1982 — 1986](https://www.zxgoldenyears.org/) — Reviews, stories and interviews from the ZX Spectrum's golden years: 1982-1986
 * [Таблица опкодов Z80](https://clrhome.org/table/) — удобная таблица опкодов Z80
-
 ## Groups, sceners, peoples
 * [PROGRESS | group](http://pgs-hq.narod.ru/info.html) — PROGRESS — 8bit demomakers team site
 * [Cyber Punx Unity | group](http://cpu.untergrund.net/) — We are CPU
@@ -224,13 +204,10 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [Mts | personal site](http://mts.speccy.cz/) — Mts site
 * [Topo Soft | official site](http://topo-sigloxxi.webnode.es/) — Topo Soft 
 * [zx-wanderer site](https://zxwanderer.github.io/) — Some zx spectrum stuff
-
 # DISCORD links
-
 * [ZX Spectrum](https://discord.gg/rSeXp6xFPd) — Alone coder и все, все, все
 * [demoscene](https://discord.gg/THPy9fFM) — Welcome to the Discord Server for the Demoscene! (Eng. language preferred!)
 * [hypr](https://discord.gg/PtBEHaap) — hype.retroscene.org
 * [Speccy Music](https://discord.gg/nnWSUBYh) — zx spectrum music
 * [Sprinter computer](https://discord.gg/x59TnYWkSN) — Speinter discord server
 * [Speccy Software](https://discord.gg/dZm6TQrv) — zx spectrum software
-
