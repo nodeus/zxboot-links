@@ -115,6 +115,7 @@ weight = 1
 * [ЭлектроКот — Техноблог](https://t.me/electro_kot) — Техноновости из будущего и прошлого
 * [Sprinter computer](https://t.me/zx_sprinter_computer) — Информационный канал в телеграм о компьютере Sprinter. Новости и исторические данные.
 * [Hot Pixel](https://t.me/HotPixel_Channel) — Канал о старых железяках, ретро компьютерах и консолях
+* [Darkman007](https://t.me/Darkman007_Official) — Фанклуб Darkman007
 ## Telegram bots
 * [Hyperadio bot](https://t.me/hyperadio_bot) — nowplay, download, request, convert chiptunes
 * [КОН ВЕР ТЕР](https://t.me/zxconvbot) — конвертер pt3 —> mp3
