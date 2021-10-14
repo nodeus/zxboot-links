@@ -162,9 +162,16 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 ### GFX Communities
 * [Pixeljoint | pixelart archive](http://pixeljoint.com/) — Big pixelart community
 * [Deviant Art | art community](https://www.deviantart.com/) — Big digital art community
+
 ### GFX Blogs and own sites
+
 * [Gas13 | pixelart artist](http://gas13.ru/) — Личный сайт пиксельарт художника Gas13
 * [Unomoralez | pixelart artist](http://unomoralez.com/) — Личный сайт пиксельарт художника Unomoralez
+
+### Tools
+
+* [ZX-Extractor 2](http://fight.pp.ua/examples/zx-extractor2/) — поиск спрайтов в играх
+
 ## Press, wiki, info
 * [Speccy info | Wiki](http://speccy.info) — Speccy wiki
 * [Техническая литература | scans](http://home.onego.ru/~bav9/87.html) — Техническая литература
@@ -204,10 +211,19 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [Mts | personal site](http://mts.speccy.cz/) — Mts site
 * [Topo Soft | official site](http://topo-sigloxxi.webnode.es/) — Topo Soft 
 * [zx-wanderer site](https://zxwanderer.github.io/) — Some zx spectrum stuff
+
 # DISCORD links
+
 * [ZX Spectrum](https://discord.gg/rSeXp6xFPd) — Alone coder и все, все, все
 * [demoscene](https://discord.gg/THPy9fFM) — Welcome to the Discord Server for the Demoscene! (Eng. language preferred!)
 * [hypr](https://discord.gg/PtBEHaap) — hype.retroscene.org
 * [Speccy Music](https://discord.gg/nnWSUBYh) — zx spectrum music
 * [Sprinter computer](https://discord.gg/x59TnYWkSN) — Speinter discord server
 * [Speccy Software](https://discord.gg/dZm6TQrv) — zx spectrum software
+
+# Mobile Apps
+
+## Andriod Play store
+
+* [z80sky](https://play.google.com/store/apps/details?id=ru.z80sky&hl=en&gl=US) — Cправочное приложение с описанием всех опкодов Z80 и Z80N в удобном прокручиваемом списке. Доступ к краткому  обзору: мнемоника, байты, такты и флаги.
+
