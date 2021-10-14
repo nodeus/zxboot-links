@@ -168,7 +168,7 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [Gas13 | pixelart artist](http://gas13.ru/) — Личный сайт пиксельарт художника Gas13
 * [Unomoralez | pixelart artist](http://unomoralez.com/) — Личный сайт пиксельарт художника Unomoralez
 
-### Tools
+### GFX Tools
 
 * [ZX-Extractor 2](http://fight.pp.ua/examples/zx-extractor2/) — поиск спрайтов в играх
 
