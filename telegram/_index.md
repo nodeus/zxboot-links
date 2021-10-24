@@ -54,7 +54,11 @@ weight = 1
 * [speccy future](http://t.me/speccyfuture) — Future of ZX Spectrum ecosystem, in Russian & English
 * [Profi1024](https://t.me/Profi1024) — Группа поддержки пользователей компьютера Profi
 * [Sprinter Computer](https://t.me/zx_sprinter) — чат по компьютеру Sprinter
+* [ZX Spectrum reborn](https://t.me/ZxReborn) — пайка спектрумов, советы респекты подсказки
+* [Паблик Пьяной Мухи](https://t.me/drunkflypublic) — Паблик Пьяной Мухи
+
 ### Demoscene and retroscene other
+
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
 * [z80 /q11](https://t.me/joinchat/Q7uxralB1WiB9Id0) — ZX Spectrum sweet home! Темы: Z80, Spectrum, демосцена, кодинг, музыка, графика, потереть за жизнь, накидать приколов. Не благословляются: скучные и повторяющиеся офтопы, тяжелая политота, невысокий интеллект при активной гражданской позиции.
 * [/r/Demoscene](https://t.me/join?invite=AAAAAEKB8q1PGOZ48br3nA) — Demoscene from Reddit
@@ -100,6 +104,7 @@ weight = 1
 * [sinc LAIR](https://t.me/sinc_LAIR)
 * [ZX Барахолка](https://t.me/zxfleamarket) — Барахолка
 * [Torn Metal](https://t.me/torn_metal) — Новая RTS для ZX Spectrum (в разработке)
+* [Новости Пьяной Мухи](https://t.me/drunkflyteam)
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
 ### Other

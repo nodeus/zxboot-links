@@ -87,6 +87,7 @@ weight = 2
 * [Hot pixel](https://www.youtube.com/c/HotPixel/featured) — Контент о ретро компьютерах, софте,  играх, консолях и прочем старом (и не очень) железе.
 * [Советы компьютерного энтузиаста](https://www.youtube.com/channel/UCz_ktTqWVekT0P4zVW8Xgcg)
 * [HotPixel](https://www.youtube.com/c/HotPixel) — Контент о ретро компьютерах, софте,  играх, консолях и прочем старом (и не очень) железе.
+* [Пьяная Муха](https://www.youtube.com/channel/UCJa38lOb0Lg4OZNQcjj3Neg) — Здесь мы общаемся о видеоиграх, ретро-компьютерах и программировании!
 ### Video demos
 * [DEMOSCENE](https://www.youtube.com/channel/UCSnmbUU8S8XlJ8yZCViC7iw) — ZX SPECTRUM and other demoscene videos. Also 8bit retro computers and computer art
 * [Annikras High-Quality Videos](https://www.youtube.com/user/Annikras) — Highquality captures from demos/intros from the demoscene running on the Windows Platform
