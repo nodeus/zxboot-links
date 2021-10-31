@@ -213,6 +213,7 @@ weight = 2
 * [Topo Soft | official site](http://topo-sigloxxi.webnode.es/) — Topo Soft 
 * [zx-wanderer site](https://zxwanderer.github.io/) — Some zx spectrum stuff
 * [Notsoft](http://notsoft.ru/) — Сайт группы NOTSoft. Посвящается ретрокомпьютеру ZX Spectrum, печатным изданиям о нём и, в частности, журналу ЗaRulem от группы NOT-Soft
+* [N10Team](http://n10team.itch.io) — Студия N10 Team
 
 # DISCORD links
 
