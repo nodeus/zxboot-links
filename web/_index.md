@@ -26,7 +26,7 @@ weight = 2
 * [ZX SPECTRUM & | file archive (zx-pc-бк-yamaha etc...)](http://www.zx-spectrum.narod.ru/) — Archive software for old computers
 * [ZX-Soft collection | system file archive](http://zxsoft.zxby.org/) — Коллекция системных программ
 * [TZX vault](https://tzxvault.org/) — The aim of this site is to provide an archive of Sinclair ZX Spectrum games in .TZX tape format for preservation purposes.
-* [RZX archive](http://www.rzxarchive.co.uk/) — recordings of speccy games.
+* [RZX archive](http://www.rzxarchive.co.uk/) — Recordings of speccy games.
 * [World of Spectrum](https://worldofspectrum.org/) — The official world archive for the Sinclair ZX Spectrum
 * [World of Spectrum classic](https://worldofspectrum.net/) — The spiritual successor to the official world archive for the Sinclair ZX Spectrum and the largest on-line gaming centre on the Internet.
 * [Speccy screenshot maps](https://maps.speccy.cz/) — You will find here all maps (put together from screenshots) to games for eight-bit computer ZX Spectrum.
@@ -88,12 +88,12 @@ weight = 2
 * [Советы компьютерного энтузиаста](https://www.youtube.com/channel/UCz_ktTqWVekT0P4zVW8Xgcg)
 * [HotPixel](https://www.youtube.com/c/HotPixel) — Контент о ретро компьютерах, софте,  играх, консолях и прочем старом (и не очень) железе.
 * [Пьяная Муха](https://www.youtube.com/channel/UCJa38lOb0Lg4OZNQcjj3Neg) — Здесь мы общаемся о видеоиграх, ретро-компьютерах и программировании!
-* [Константин Калантай](https://www.youtube.com/channel/UCReLhcHN6HkZ-ty9PAl6pRA) — обзор плат, пайка
+* [Константин Калантай](https://www.youtube.com/channel/UCReLhcHN6HkZ-ty9PAl6pRA) — Обзор плат, пайка
 * [Norduk](https://www.youtube.com/c/Norduk) — Стримы на реале клона ZX Spectrum — АТМ Турбо. Здесь время от времени осуществляются странные игровые эксперименты, которые я не видел на других каналах.
 ### Video demos
 * [DEMOSCENE](https://www.youtube.com/channel/UCSnmbUU8S8XlJ8yZCViC7iw) — ZX SPECTRUM and other demoscene videos. Also 8bit retro computers and computer art
 * [Annikras High-Quality Videos](https://www.youtube.com/user/Annikras) — Highquality captures from demos/intros from the demoscene running on the Windows Platform
-* [ZXAAA Demo ZX Spectrum](https://www.youtube.com/channel/UC6WtMW2NwuRB6Uyff6ADPJg) — канал контентом которого являются музыкальные демострации, крактро, гифты, музыкальные сборники с компьютера Pentagon 128
+* [ZXAAA Demo ZX Spectrum](https://www.youtube.com/channel/UC6WtMW2NwuRB6Uyff6ADPJg) — Канал контентом которого являются музыкальные демострации, крактро, гифты, музыкальные сборники с компьютера Pentagon 128
 * [Speccy 247](https://www.youtube.com/channel/UCYZ953-LBEp32rka9X7CEsQ) — ZX Spectrum demo live 24/7 - endless ZX Spectrum virtual demo party Demos, Intros, Gifts, Trackmos, Crackmos, Tunneltros and any other ...tros entertain you for almost 17 hours. ZX Spectrum 24/7 Non-Stop Gaming Memories | 8bit games | Jet Set Willy, Manic Miner, Jet Pac included  Enjoy ZX Spectrum gaming memories. Almost 2000 games will entertain you. More than 150 hours of ZX Spectrum gaming. ZX Spectrum 24/7 Non-Stop Pictures & Music | Chiptune AY-8910/AY-8912/YM-2149 8bit Enjoy fantastic ZX Spectrum graphics and excellent music. More than 1000 of pictures and 46К of AY/YM music.
 * [Demoscene Documentary](https://www.youtube.com/user/demoscenedoc) — Канал о Финской демосцене
 * [Gaspode](https://www.youtube.com/user/gaspode8) — Личный канал Gaspode
@@ -126,8 +126,9 @@ weight = 2
 * [8bitpeoples netlabel](http://www.8bitpeoples.com/) — 8bitpeoples is a netlabel based on the principle of pushing technical and creative boundaries
 ### Music podcasts
 * [ZX CHIP Podcast](http://zxchip.ru) — Подкаст о чипмузыке на zx spectrum
+* [AYpod — Antique Toy podcast](https://aypod.ru) — Подкаст о музыке созданнной для 8-разрядного коммпьютера ZX Spectrum
 ### Online radio
-* [Hyperadio site](https://hyperadio.retroscene.org/) — demoscene radio
+* [Hyperadio site](https://hyperadio.retroscene.org/) — Demoscene radio
 * [Hyperadio stream 1](http://hyperadio.ru:8000/live.m3u) —  128k-MP3
 * [Hyperadio stream 2](http://hyperadio.ru:8000/live2.m3u) —  128k-OGG
 * [Nectarine site](https://www.scenemusic.eu/demovibes/) — This site is a tribute to all the great computer & demoscene artists. We stream their music for you 24/7.
@@ -158,7 +159,7 @@ weight = 2
 
 ## Graphics
 ### GFX archieves
-* [ZXART | zx graphics archive](http://zxart.ee/eng/graphics/) — zx spectrum graphics archive
+* [ZXART | zx graphics archive](http://zxart.ee/eng/graphics/) — ZX Spectrum graphics archive
 * [Artcity | graphics archive](http://artcity.bitfellas.org/) — Biggest demoscene graphics archive
 ### GFX Communities
 * [Pixeljoint | pixelart archive](http://pixeljoint.com/) — Big pixelart community
@@ -171,7 +172,7 @@ weight = 2
 
 ### GFX Tools
 
-* [ZX-Extractor 2](http://fight.pp.ua/examples/zx-extractor2/) — поиск спрайтов в играх
+* [ZX-Extractor 2](http://fight.pp.ua/examples/zx-extractor2/) — Поиск спрайтов в играх
 
 ## Press, wiki, info
 * [Speccy info | Wiki](http://speccy.info) — Speccy wiki
@@ -184,10 +185,10 @@ weight = 2
 * [ZXDN | материалы по творчеству на ZX Spectrum](http://zxdn.narod.ru/) — Материалы по творчеству на ZX Spectrum
 * [Games Database | online games system repository](http://www.gamesdatabase.org/) — Games Database — online games system repository
 * [MicroHobby](http://microhobby.speccy.cz/) — MicroHobby
-* [Журнал «DOWNGRADE»](http://dgmag.in/) — Журнал «DOWNGRADE» — старое программное обеспечение.
+* [Журнал «DOWNGRADE»](http://dgmag.in/) — Журнал «DOWNGRADE» — Старое программное обеспечение.
 * [Gamergy | e-paper](http://gamergy.ru/) — Gamergy — electronic newspaper about games on zx-spectrum
 * [ZX Golden years | zx spectrum 1982 — 1986](https://www.zxgoldenyears.org/) — Reviews, stories and interviews from the ZX Spectrum's golden years: 1982-1986
-* [Таблица опкодов Z80](https://clrhome.org/table/) — удобная таблица опкодов Z80
+* [Таблица опкодов Z80](https://clrhome.org/table/) — Удобная таблица опкодов Z80
 ## Groups, sceners, peoples
 * [PROGRESS | group](http://pgs-hq.narod.ru/info.html) — PROGRESS — 8bit demomakers team site
 * [Cyber Punx Unity | group](http://cpu.untergrund.net/) — We are CPU
@@ -221,7 +222,7 @@ weight = 2
 * [demoscene](https://discord.gg/THPy9fFM) — Welcome to the Discord Server for the Demoscene! (Eng. language preferred!)
 * [hypr](https://discord.gg/PtBEHaap) — hype.retroscene.org
 * [Speccy Music](https://discord.gg/nnWSUBYh) — zx spectrum music
-* [Sprinter computer](https://discord.gg/x59TnYWkSN) — Speinter discord server
+* [Sprinter computer](https://discord.gg/x59TnYWkSN) — Sprinter discord server
 * [Speccy Software](https://discord.gg/dZm6TQrv) — zx spectrum software
 
 # Mobile Apps
