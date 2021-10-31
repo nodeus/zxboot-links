@@ -231,3 +231,9 @@ weight = 2
 
 * [z80sky](https://play.google.com/store/apps/details?id=ru.z80sky&hl=en&gl=US) — Cправочное приложение с описанием всех опкодов Z80 и Z80N в удобном прокручиваемом списке. Доступ к краткому  обзору: мнемоника, байты, такты и флаги.
 
+# GitHub repos
+[VortexTracker 2.6](https://github.com/ivanpirog/vortextracker) — VortexTracker 2.6 dev 18
+[ZX Flash animation for Aseprite](https://github.com/AlRado/ZX-flash-animation) — The Aseprite tools to create and import/export ZX-Spectrum flash animation .scr (no pixels, only attributes)
+[ZXTapeReviver](https://github.com/lgolouz/ZXTapeReviver) — ZxTapeReviver is a tool to convert ZX Spectrum tapes, recorded as WAV file, to a TAP files and provides a ways to manually revive poor records.
+[ZX starter pack](https://github.com/errorcalc/zx_starter_pack) — Стартовый набор для вхождения в разработку под ZX Spectrum // A set of software, source codes, literature, utilities, and a build system for entering development for ZX Spectrum.
+
