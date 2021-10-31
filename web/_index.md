@@ -216,7 +216,7 @@ weight = 2
 * [Notsoft](http://notsoft.ru/) — Сайт группы NOTSoft. Посвящается ретрокомпьютеру ZX Spectrum, печатным изданиям о нём и, в частности, журналу ЗaRulem от группы NOT-Soft
 * [N10Team](http://n10team.itch.io) — Студия N10 Team
 
-# DISCORD links
+## DISCORD links
 
 * [ZX Spectrum](https://discord.gg/rSeXp6xFPd) — Alone coder и все, все, все
 * [demoscene](https://discord.gg/THPy9fFM) — Welcome to the Discord Server for the Demoscene! (Eng. language preferred!)
@@ -225,15 +225,18 @@ weight = 2
 * [Sprinter computer](https://discord.gg/x59TnYWkSN) — Sprinter discord server
 * [Speccy Software](https://discord.gg/dZm6TQrv) — zx spectrum software
 
-# Mobile Apps
+## Mobile Apps
 
-## Andriod Play store
+### Andriod Play store
 
 * [z80sky](https://play.google.com/store/apps/details?id=ru.z80sky&hl=en&gl=US) — Cправочное приложение с описанием всех опкодов Z80 и Z80N в удобном прокручиваемом списке. Доступ к краткому  обзору: мнемоника, байты, такты и флаги.
 
-# GitHub repos
-[VortexTracker 2.6](https://github.com/ivanpirog/vortextracker) — VortexTracker 2.6 dev 18
-[ZX Flash animation for Aseprite](https://github.com/AlRado/ZX-flash-animation) — The Aseprite tools to create and import/export ZX-Spectrum flash animation .scr (no pixels, only attributes)
-[ZXTapeReviver](https://github.com/lgolouz/ZXTapeReviver) — ZxTapeReviver is a tool to convert ZX Spectrum tapes, recorded as WAV file, to a TAP files and provides a ways to manually revive poor records.
-[ZX starter pack](https://github.com/errorcalc/zx_starter_pack) — Стартовый набор для вхождения в разработку под ZX Spectrum // A set of software, source codes, literature, utilities, and a build system for entering development for ZX Spectrum.
-
+## GitHub repos
+* [VortexTracker 2.6](https://github.com/ivanpirog/vortextracker) — VortexTracker 2.6 dev 18
+* [ZX Flash animation for Aseprite](https://github.com/AlRado/ZX-flash-animation) — The Aseprite tools to create and import/export ZX-Spectrum flash animation .scr (no pixels, only attributes)
+* [ZXTapeReviver](https://github.com/lgolouz/ZXTapeReviver) — ZxTapeReviver is a tool to convert ZX Spectrum tapes, recorded as WAV file, to a TAP files and provides a ways to manually revive poor records.
+* [ZX starter pack](https://github.com/errorcalc/zx_starter_pack) — Стартовый набор для вхождения в разработку под ZX Spectrum // A set of software, source codes, literature, utilities, and a build system for entering development for ZX Spectrum.
+* [zx-evo](https://github.com/tslabs/zx-evo) — TS-Configuration for ZX Spectrum clone named ZX-Evolution.
+* [Chunks parser zx](https://github.com/akanyuk/chunks-parser-zx) — Parser from animated GIF to ZX Spectrum assembler code.
+* [Xpeccy](https://github.com/samstyle/Xpeccy) — Multiplatform emulator of retro computers
+* [ZMakeBas](https://github.com/z00m128/zmakebas) — zmakebas converts a Spectrum BASIC program written as a text file into an actual speccy BASIC file.
