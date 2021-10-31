@@ -64,6 +64,7 @@ weight = 1
 * [/r/Demoscene](https://t.me/join?invite=AAAAAEKB8q1PGOZ48br3nA) — Demoscene from Reddit
 * [Demoscene](https://t.me/demoscenetg) — General demoscene chat (english only)
 * [Секта свидетелей ДЕДА](https://t.me/joinchat/AYIzeEVyi9mndNYtTHfRqA) — Официальный филиал СПОРТЛОТО. BOЯNДЕД (sid'ёж, pi'рдёж). Все премьеры ДЕDFLIX originals, МузыкаДляМужика и много иного угара... Вступай!
+* [Old-Hard флудильня](http://t.me/oldhard) — флудильня old-hard
 #### Coding and programming
 * [Newskool demomaker\`s chat](https://t.me/pcdemomaking) — Newskool Demoscene/Demomakers community (Eng/Rus)
 * [SizeCoders Chat](https://t.me/sizecoders) — SizeCoding tricks discussion
