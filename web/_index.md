@@ -93,9 +93,7 @@ weight = 2
 * [DEMOSCENE](https://www.youtube.com/channel/UCSnmbUU8S8XlJ8yZCViC7iw) — ZX SPECTRUM and other demoscene videos. Also 8bit retro computers and computer art
 * [Annikras High-Quality Videos](https://www.youtube.com/user/Annikras) — Highquality captures from demos/intros from the demoscene running on the Windows Platform
 * [ZXAAA Demo ZX Spectrum](https://www.youtube.com/channel/UC6WtMW2NwuRB6Uyff6ADPJg) — канал контентом которого являются музыкальные демострации, крактро, гифты, музыкальные сборники с компьютера Pentagon 128
-* [ZX Spectrum demo live 24/7 — endless ZX Spectrum virtual demo party | Chiptune AY-8912 AY-8910 8bit playing in real-time](https://www.youtube.com/watch?v=BImCs386VTc)
-Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros which will entertain you right now. Already more than a hundred of demos and a couple of thousands in the future. All demos are playing in real-time by ZX Spectrum emulator Unreal Speccy.
-### Video demosceners
+* [Speccy 247](https://www.youtube.com/channel/UCYZ953-LBEp32rka9X7CEsQ) — ZX Spectrum demo live 24/7 - endless ZX Spectrum virtual demo party Demos, Intros, Gifts, Trackmos, Crackmos, Tunneltros and any other ...tros entertain you for almost 17 hours. ZX Spectrum 24/7 Non-Stop Gaming Memories | 8bit games | Jet Set Willy, Manic Miner, Jet Pac included  Enjoy ZX Spectrum gaming memories. Almost 2000 games will entertain you. More than 150 hours of ZX Spectrum gaming. ZX Spectrum 24/7 Non-Stop Pictures & Music | Chiptune AY-8910/AY-8912/YM-2149 8bit Enjoy fantastic ZX Spectrum graphics and excellent music. More than 1000 of pictures and 46К of AY/YM music.
 * [Demoscene Documentary](https://www.youtube.com/user/demoscenedoc) — Канал о Финской демосцене
 * [Gaspode](https://www.youtube.com/user/gaspode8) — Личный канал Gaspode
 * [Benjamin Rosseaux aka Bero/Farbrausch](https://www.youtube.com/user/BeRo1985) — My name is Benjamin Rosseaux. I'm a software developer and a musician from germany. I'm also active in the demoscene in the demogroup Farbrausch
@@ -213,6 +211,7 @@ Enjoy demos, intros, gifts, trackmos, crackmos, tunneltros and any other ...tros
 * [Mts | personal site](http://mts.speccy.cz/) — Mts site
 * [Topo Soft | official site](http://topo-sigloxxi.webnode.es/) — Topo Soft 
 * [zx-wanderer site](https://zxwanderer.github.io/) — Some zx spectrum stuff
+* [Notsoft](http://notsoft.ru/) — Сайт группы NOTSoft. Посвящается ретрокомпьютеру ZX Spectrum, печатным изданиям о нём и, в частности, журналу ЗaRulem от группы NOT-Soft
 
 # DISCORD links
 
