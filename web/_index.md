@@ -89,6 +89,7 @@ weight = 2
 * [HotPixel](https://www.youtube.com/c/HotPixel) — Контент о ретро компьютерах, софте,  играх, консолях и прочем старом (и не очень) железе.
 * [Пьяная Муха](https://www.youtube.com/channel/UCJa38lOb0Lg4OZNQcjj3Neg) — Здесь мы общаемся о видеоиграх, ретро-компьютерах и программировании!
 * [Константин Калантай](https://www.youtube.com/channel/UCReLhcHN6HkZ-ty9PAl6pRA) — обзор плат, пайка
+* [Norduk](https://www.youtube.com/c/Norduk) — Стримы на реале клона ZX Spectrum — АТМ Турбо. Здесь время от времени осуществляются странные игровые эксперименты, которые я не видел на других каналах.
 ### Video demos
 * [DEMOSCENE](https://www.youtube.com/channel/UCSnmbUU8S8XlJ8yZCViC7iw) — ZX SPECTRUM and other demoscene videos. Also 8bit retro computers and computer art
 * [Annikras High-Quality Videos](https://www.youtube.com/user/Annikras) — Highquality captures from demos/intros from the demoscene running on the Windows Platform
