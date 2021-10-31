@@ -20,7 +20,7 @@ weight = 1
 * [zxgfx](https://t.me/zxgfx) — ZX Spectrum Graphics
 * [ZX Artist](https://t.me/zxartist) — Здесь выкладывают и обсуждают спектрумский арт и обмениваются опытом
 ### ZX music
-* [Speccy music](https://t.me/speccymusic) — zx spectrum music
+* [Speccy music](https://t.me/speccymusic) — ZX Spectrum music
 * [Vortex Tracker \о/](https://t.me/vt_training) — Группа для людей, которым хочется взять и разобраться с Vortex Tracker'ом. Спрашиваем, уточняем, настраиваем, делаем первые шаги. Понты оставляем в другом месте :)
 ### ZX code
 * [zxcoding](https://t.me/zxcoding) — Группа для людей, которым код на Z80 иногда снится по ночам
@@ -43,9 +43,9 @@ weight = 1
 * [ZX Spectrum Next](https://t.me/specnext) — Русскоязычный чат для общения владельцев и интересующихся компьютером ZX Spectrum Next
 ### ZX other
 * [Speccy offtop](https://t.me/speccyofftop) — zx spectrum offtop themes (RUS/ENG talks)
-* [Speccy flame | group](https://t.me/speccyflame)
+* [Speccy flame | group](https://t.me/speccyflame) — Спекки флейм
 * [Тут БЫЛ дихальт](https://t.me/nedopc_party) — Тут БЫЛ дихальт — неофициальная группа дихальта от лица дихальта
-* [ZX&NIBIRU](https://t.me/join?invite=FnSx4EPOYbB_uqA6dd2dnA)
+* [ZX&NIBIRU](https://t.me/join?invite=FnSx4EPOYbB_uqA6dd2dnA) — Нибиру
 * [ZX Sale](https://t.me/zxsale) — Здесь можно покупать, продавать, менять и отдавать даром Spectrum-совместимые компьютеры, запчасти и аксессуары
 * [ZX Chat](https://t.me/zxchat) — Чат для веселого и непринужденного общения спектрумистов на любые темы
 * [ZX Software](https://t.me/zxsoftware) — Чат для обсуждения спектрумского soft'а.
@@ -53,8 +53,8 @@ weight = 1
 * [ZX.SPECTRUM [RU]](https://t.me/spectrum_zx) — ZX Spectrum и всё, что с ним связано
 * [speccy future](http://t.me/speccyfuture) — Future of ZX Spectrum ecosystem, in Russian & English
 * [Profi1024](https://t.me/Profi1024) — Группа поддержки пользователей компьютера Profi
-* [Sprinter Computer](https://t.me/zx_sprinter) — чат по компьютеру Sprinter
-* [ZX Spectrum reborn](https://t.me/ZxReborn) — пайка спектрумов, советы респекты подсказки
+* [Sprinter Computer](https://t.me/zx_sprinter) — Чат по компьютеру Sprinter
+* [ZX Spectrum reborn](https://t.me/ZxReborn) — Пайка спектрумов, советы респекты подсказки
 * [Паблик Пьяной Мухи](https://t.me/drunkflypublic) — Паблик Пьяной Мухи
 
 ### Demoscene and retroscene other
@@ -64,16 +64,16 @@ weight = 1
 * [/r/Demoscene](https://t.me/join?invite=AAAAAEKB8q1PGOZ48br3nA) — Demoscene from Reddit
 * [Demoscene](https://t.me/demoscenetg) — General demoscene chat (english only)
 * [Секта свидетелей ДЕДА](https://t.me/joinchat/AYIzeEVyi9mndNYtTHfRqA) — Официальный филиал СПОРТЛОТО. BOЯNДЕД (sid'ёж, pi'рдёж). Все премьеры ДЕDFLIX originals, МузыкаДляМужика и много иного угара... Вступай!
-* [Old-Hard флудильня](http://t.me/oldhard) — флудильня old-hard
+* [Old-Hard флудильня](http://t.me/oldhard) — Флудильня old-hard
 #### Coding and programming
 * [Newskool demomaker\`s chat](https://t.me/pcdemomaking) — Newskool Demoscene/Demomakers community (Eng/Rus)
 * [SizeCoders Chat](https://t.me/sizecoders) — SizeCoding tricks discussion
 * [Ассемблирование и микроэлектроника — z80  x86  6502  etc](https://t.me/foxasm) — Чат, в котором могут помочь понять ассемблер и просто поговорить
 #### Music
-* [HYPERADIO](https://t.me/hyperadio) — demoscene online radio Hyperadio
+* [HYPERADIO](https://t.me/hyperadio) — Demoscene online radio Hyperadio
 * [Chipmusic](https://t.me/chipmusic)
 * [Scene music / Artists](https://t.me/scenemusicartists) — An area of demoscene music makers
-* [8bit.fm](https://t.me/bit8fm) — online radio 8bit.fm
+* [8bit.fm](https://t.me/bit8fm) — Online radio 8bit.fm
 #### Amiga
 * [Vamped Amiga](https://t.me/vampedamiga) — Welcome to the Vamped Amiga Super Group (chat)! Act like great Amigans
 * [#amigarus | Наша Амига](https://t.me/amigarus) — amiga.org.ru (группа русских амижников)
@@ -85,7 +85,7 @@ weight = 1
 #### Atari
 * [Atari XL/XE](https://t.me/atari_xl_xe) — Atari 8bit computer community
 #### PDP
-* [Ru_PDP](https://t.me/ru_pdp) — чат посвященный компьютерам Digital Equipment PDP (RUS)
+* [Ru_PDP](https://t.me/ru_pdp) — Чат посвященный компьютерам Digital Equipment PDP (RUS)
 #### 8080 \ 8085
 * [ПК на 8080|8085 — hardware](https://t.me/vm80a) — Радио-86РК, Специалист, Орион, ЮТ-88 и т.д. Hardware.
 ## Telegram channels
@@ -97,7 +97,7 @@ weight = 1
 * [ZX Tabloid](https://t.me/zxtabloid)
 * [ZX memas](https://t.me/truezxmemas)
 * [ZX Spectrum](https://t.me/sinclairspectrum)
-* [ZX-Art](https://t.me/zxart_ee) — updates, changes, events, news
+* [ZX-Art](https://t.me/zxart_ee) — Updates, changes, events, news
 * [Отмороженный пиксель](https://t.me/zxgrafen) — Голландский антиштурвал ZX-сцены
 * [Virtual TR-DOS](https://t.me/vtrdos)
 * [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup)
@@ -123,7 +123,7 @@ weight = 1
 * [Hot Pixel](https://t.me/HotPixel_Channel) — Канал о старых железяках, ретро компьютерах и консолях
 * [Darkman007](https://t.me/Darkman007_Official) — Фанклуб Darkman007
 ## Telegram bots
-* [Hyperadio bot](https://t.me/hyperadio_bot) — nowplay, download, request, convert chiptunes
-* [КОН ВЕР ТЕР](https://t.me/zxconvbot) — конвертер pt3 —> mp3
-* [hype.retroscene.org news](https://t.me/hyprbot) — бот с новостями hype.retroscene.org
+* [Hyperadio bot](https://t.me/hyperadio_bot) — Nowplay, download, request, convert chiptunes
+* [КОН ВЕР ТЕР](https://t.me/zxconvbot) — Конвертер pt3 —> mp3
+* [hype.retroscene.org news](https://t.me/hyprbot) — Бот с новостями hype.retroscene.org
 
