@@ -54,7 +54,10 @@ weight = 2
 * [Planet Sinclair](https://rk.nvg.ntnu.no/sinclair/) — Lots of historical information on Sir Clive, the Sinclair company and its products, mainly the Speccy!
 * [Yolkfolk.com](https://yolkfolk.com/) — The dizzy fansite.
 * [Cracked by Bill Gilbert](https://zxbg.blogspot.com/) — Блог по стопам легендарного хакера.
+* [Tom Dalby](https://www.tomdalby.com/) — Tom`s homepage (retro computing projects and coding)
+
 ## Hardware
+
 * [ZIFI ZX Evo](http://ts.retropc.ru/) — ZIFI-КЛИЕНТ ДЛЯ ДОСТУПА К ИНТЕРНЕТ-РЕСУРСАМ
 * [Mick Laboratory](http://micklab.ru/) — All MickLab projects and information about hardware.
 * [nedopc.com official website](http://nedopc.com/) — Официальный сайт группы NedoPC.
@@ -68,6 +71,7 @@ weight = 2
 * [ZX Spectrum Next official portal](http://www.specnext.com/) — The official portal of all things Next.
 * [АЛЕКСЕЙ МОРОЗОВ | homepage](http://alemorf.ru/comps/index.html) — Советские домашние компьютеры и немного другого.
 * [Sprinter8](http://sprinter8.org) — Sprinter документация
+* [Sinclair hardware collection](https://www.tomdalby.com/retro/sinclair.html) — photo gallery Sinclair`s hardware
 ## Video
 ### Video blogs
 * [Дмитрий Бачило («16 бит тому назад», «кремниевые титаны» и др.)](https://www.youtube.com/user/BachiloDmitry) — Этот канал в основном посвящен обзорам всякого старого железа и софта, впрочем не только старого.
@@ -241,3 +245,7 @@ weight = 2
 * [Xpeccy](https://github.com/samstyle/Xpeccy) — Multiplatform emulator of retro computers
 * [ZMakeBas](https://github.com/z00m128/zmakebas) — zmakebas converts a Spectrum BASIC program written as a text file into an actual speccy BASIC file.
 * [zesarux](https://github.com/chernandezba/zesarux) — ZX Second-Emulator And Released for UniX. Created by Cesar Hernandez Bano. It's a ZX Machines Emulator for UNIX based operating systems (and Windows), including all the Sinclair computers.
+* [ZX0](https://github.com/einar-saukas/ZX0) — optimal data compressor for a custom [LZ77/LZSS](https://en.wikipedia.org/wiki/Lempel–Ziv–Storer–Szymanski) based compression format, that provides a tradeoff between high compression ratio, and extremely simple fast decompression. Therefore it's especially appropriate for low-end platforms, including 8-bit computers like the ZX Spectrum.
+* [salvador — ZX0 compressor](https://github.com/emmanuel-marty/salvador) — a fast, near-optimal compressor for the ZX0 format.
+* [zxbasic](https://github.com/einar-saukas/zxbasic) — ZX BASIC is a [BASIC](http://en.wikipedia.org/wiki/BASIC) ''cross compiler''. It will compile BASIC programs (in your PC) for your [ZX Spectrum](http://en.wikipedia.org/wiki/Sinclair_ZX_Spectrum). ZX BASIC is an SDK entirely written in [python](http://www.python.org). The SDK is implemented using the [PLY](http://www.dabeaz.com/ply/) (Python Lex/Yacc) compiler tool. It translates BASIC to Z80 assembler code, so it is easily portable to other Z80 platforms (Amstrad, MSX). Other non Z80 targets could also be available in the future. ZX BASIC syntax tries to maintain compatibility as much as possible with [Sinclair BASIC](http://en.wikipedia.org/wiki/Sinclair_BASIC), it also have many new features, mostly taken from [FreeBASIC](http://www.freebasic.net/wiki) dialect.
+
