@@ -72,6 +72,7 @@ weight = 2
 * [АЛЕКСЕЙ МОРОЗОВ | homepage](http://alemorf.ru/comps/index.html) — Советские домашние компьютеры и немного другого.
 * [Sprinter8](http://sprinter8.org) — Sprinter документация
 * [Sinclair hardware collection](https://www.tomdalby.com/retro/sinclair.html) — photo gallery Sinclair`s hardware
+* [Tetroid hardware](http://tetroid.nedopc.com/) — Предлагаю собранные платы и конструкторы ZX-Evolution, Neo-GS и сопутствующие товары
 ## Video
 ### Video blogs
 * [Дмитрий Бачило («16 бит тому назад», «кремниевые титаны» и др.)](https://www.youtube.com/user/BachiloDmitry) — Этот канал в основном посвящен обзорам всякого старого железа и софта, впрочем не только старого.

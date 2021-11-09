@@ -56,6 +56,7 @@ weight = 1
 * [Sprinter Computer](https://t.me/zx_sprinter) — Чат по компьютеру Sprinter
 * [ZX Spectrum reborn](https://t.me/ZxReborn) — Пайка спектрумов, советы респекты подсказки
 * [Паблик Пьяной Мухи](https://t.me/drunkflypublic) — Паблик Пьяной Мухи
+* [ZX Дельта-С](https://t.me/zx_delta_s) — Бытовой персональный компьютер Дельта-С
 
 ### Demoscene and retroscene other
 
@@ -82,7 +83,9 @@ weight = 1
 * [БК0010/11М (без политоты)](https://t.me/bk11m) — Группа обсуждения Персональных Компьютеров семейства БК
 #### АГАТ
 * [ПЭВМ АГАТ](https://t.me/pevm_agat) — ПЭВМ АГАТ
+
 #### Atari
+
 * [Atari XL/XE](https://t.me/atari_xl_xe) — Atari 8bit computer community
 #### PDP
 * [Ru_PDP](https://t.me/ru_pdp) — Чат посвященный компьютерам Digital Equipment PDP (RUS)
