@@ -41,6 +41,13 @@ weight = 1
 * [ESP32 для TS-Conf](https://t.me/joinchat/CxWmxmcW0ts4ODNi) — Чат для обсуждения хипстерского железа, связанного с тсконф
 #### ZX Spectrum Next
 * [ZX Spectrum Next](https://t.me/specnext) — Русскоязычный чат для общения владельцев и интересующихся компьютером ZX Spectrum Next
+#### ZX clones
+* [Profi1024](https://t.me/Profi1024) — Группа поддержки пользователей компьютера Profi
+* [Sprinter Computer](https://t.me/zx_sprinter) — Чат по компьютеру Sprinter
+* [ZX Дельта-С](https://t.me/zx_delta_s) — Бытовой персональный компьютер Дельта-С
+* [ZX_Pentagon](https://t.me/zx_pentagon) — Все о Пентагонах. 48\128\512\... BDI\wo-BDI
+* [ZS Scorpion & Ленинград](https://t.me/zs_scorpion) — про компьютеры ZS Scorpion и Ленинград
+* [KAY the Spectrum](https://t.me/kay_nemo) — For the best USSR-clone ZX-Spectrum designed by Nemo — KAY (128, 1024, 2010, etc) and it's satellite board (NemoFDC, NemoIDE ...)
 ### ZX other
 * [Speccy offtop](https://t.me/speccyofftop) — zx spectrum offtop themes (RUS/ENG talks)
 * [Speccy flame | group](https://t.me/speccyflame) — Спекки флейм
@@ -52,19 +59,11 @@ weight = 1
 * [ZX Spectrum Chat](https://t.me/joinchat/CyRx59yXOydmYmMy) — Общение по ретро-компьютерам, в частности ZX Spectrum
 * [ZX.SPECTRUM [RU]](https://t.me/spectrum_zx) — ZX Spectrum и всё, что с ним связано
 * [speccy future](http://t.me/speccyfuture) — Future of ZX Spectrum ecosystem, in Russian & English
-* [Profi1024](https://t.me/Profi1024) — Группа поддержки пользователей компьютера Profi
-* [Sprinter Computer](https://t.me/zx_sprinter) — Чат по компьютеру Sprinter
 * [ZX Spectrum reborn](https://t.me/ZxReborn) — Пайка спектрумов, советы респекты подсказки
 * [Паблик Пьяной Мухи](https://t.me/drunkflypublic) — Паблик Пьяной Мухи
-* [ZX Дельта-С](https://t.me/zx_delta_s) — Бытовой персональный компьютер Дельта-С
-* [ZX_Pentagon](https://t.me/zx_pentagon) — Все о Пентагонах. 48\128\512\... BDI\wo-BDI
-* [ZS Scorpion & Ленинград](https://t.me/zs_scorpion) — про компьютеры ZS Scorpion и Ленинград
 * [Группа ZX-PK.ru](https://t.me/zxpkru_temp) — Филиал форума zx-pk.ru в телеграмм
 * [CP/M](https://t.me/CPM_80) — группа фанатов ОС СР/М , спектрумов-хуектрумов и им сочувствующих
-* [KAY the Spectrum](https://t.me/kay_nemo) — For the best USSR-clone ZX-Spectrum designed by Nemo — KAY (128, 1024, 2010, etc) and it's satellite board (NemoFDC, NemoIDE ...)
-
 ### Demoscene and retroscene other
-
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
 * [z80 /q11](https://t.me/joinchat/Q7uxralB1WiB9Id0) — ZX Spectrum sweet home! Темы: Z80, Spectrum, демосцена, кодинг, музыка, графика, потереть за жизнь, накидать приколов. Не благословляются: скучные и повторяющиеся офтопы, тяжелая политота, невысокий интеллект при активной гражданской позиции.
 * [/r/Demoscene](https://t.me/join?invite=AAAAAEKB8q1PGOZ48br3nA) — Demoscene from Reddit
@@ -88,9 +87,7 @@ weight = 1
 * [БК0010/11М (без политоты)](https://t.me/bk11m) — Группа обсуждения Персональных Компьютеров семейства БК
 #### АГАТ
 * [ПЭВМ АГАТ](https://t.me/pevm_agat) — ПЭВМ АГАТ
-
 #### Atari
-
 * [Atari XL/XE](https://t.me/atari_xl_xe) — Atari 8bit computer community
 #### PDP
 * [Ru_PDP](https://t.me/ru_pdp) — Чат посвященный компьютерам Digital Equipment PDP (RUS)
@@ -134,4 +131,3 @@ weight = 1
 * [Hyperadio bot](https://t.me/hyperadio_bot) — Nowplay, download, request, convert chiptunes
 * [КОН ВЕР ТЕР](https://t.me/zxconvbot) — Конвертер pt3 —> mp3
 * [hype.retroscene.org news](https://t.me/hyprbot) — Бот с новостями hype.retroscene.org
-
