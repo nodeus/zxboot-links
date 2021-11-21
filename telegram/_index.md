@@ -111,6 +111,7 @@ weight = 1
 * [ZX Барахолка](https://t.me/zxfleamarket) — Барахолка
 * [Torn Metal](https://t.me/torn_metal) — Новая RTS для ZX Spectrum (в разработке)
 * [Новости Пьяной Мухи](https://t.me/drunkflyteam)
+* [Давай, Калантай!](https://t.me/davajkalantaj) — Канал о жизни одного сельского спектрумиста...
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
 ### Other
