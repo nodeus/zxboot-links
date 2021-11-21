@@ -55,6 +55,7 @@ weight = 2
 * [Yolkfolk.com](https://yolkfolk.com/) — The dizzy fansite.
 * [Cracked by Bill Gilbert](https://zxbg.blogspot.com/) — Блог по стопам легендарного хакера.
 * [Tom Dalby](https://www.tomdalby.com/) — Tom`s homepage (retro computing projects and coding)
+* [Черный форум BK0010](http://bk0010.forum20.ru/forum/) — форум посвященный эмуляторам БК0100.
 
 ## Hardware
 
