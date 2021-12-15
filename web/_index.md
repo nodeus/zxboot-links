@@ -97,6 +97,7 @@ weight = 2
 * [Константин Калантай](https://www.youtube.com/channel/UCReLhcHN6HkZ-ty9PAl6pRA) — Обзор плат, пайка
 * [Norduk](https://www.youtube.com/c/Norduk) — Стримы на реале клона ZX Spectrum — АТМ Турбо. Здесь время от времени осуществляются странные игровые эксперименты, которые я не видел на других каналах.
 * [ZX Creature](https://www.youtube.com/channel/UCuOfoYtfbfK1KEoHBgVFkqw/videos) — Канал о том как написать игру для ZX-Spectrum.  Друзья, возможно вам хочется узнать что-то другое о ZX-Spectrum, чем  программирование на BASIC. Возможно хотите узнать что-то о других  компьютерах — не стесняйтесь, пишите свои предложения в комментариях. Рассмотрю все заявки.
+* [Spriteworx](https://www.youtube.com/channel/UCYsIdMXwQnoJpwwN_HulHnA/featured) — Join me on my journey of learning to develop and program retro video games for the ZX Spectrum Next personal computer.
 ### Video demos
 * [DEMOSCENE](https://www.youtube.com/channel/UCSnmbUU8S8XlJ8yZCViC7iw) — ZX SPECTRUM and other demoscene videos. Also 8bit retro computers and computer art
 * [Annikras High-Quality Videos](https://www.youtube.com/user/Annikras) — Highquality captures from demos/intros from the demoscene running on the Windows Platform
