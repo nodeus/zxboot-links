@@ -31,7 +31,6 @@ weight = 1
 * [ZX Games](https://t.me/zxgames) — Обсуждение новых и старых игр для ZX Spectrum
 ### ZX hard and emulation
 * [Speccy hardware](https://t.me/speccy_hard) — Speccy hardware in russian and english
-* [ZX Hard](https://t.me/zxhard) — Чат для обсуждения спектрумского железа
 * [Unreal Speccy Portable](https://t.me/unrealspeccypg) — Discuss USP and ZX Spectrum emulators related things
 #### ZX Evo Base config
 * [ZX Evolution](https://t.me/zxevo) — Платформа ZX Evolution (Base config)
