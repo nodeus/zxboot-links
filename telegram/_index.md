@@ -37,7 +37,6 @@ weight = 1
 * [ATM, zxevo, baseconf](https://t.me/atm_zxevo_baseconf) — Всё, что относится к ZX Evolution и бейсконфе, АТМ2, АТМ3 и подобному
 #### ZX Evo TS config
 * [TS Config](https://t.me/tsconf) — Конфигурация TS Config
-* [ESP32 для TS-Conf](https://t.me/joinchat/CxWmxmcW0ts4ODNi) — Чат для обсуждения хипстерского железа, связанного с тсконф
 #### ZX Spectrum Next
 * [ZX Spectrum Next](https://t.me/specnext) — Русскоязычный чат для общения владельцев и интересующихся компьютером ZX Spectrum Next
 #### ZX clones
