@@ -91,6 +91,7 @@ weight = 3
 ## Утилиты и конвертеры
 
 * [Pixel Polizei](http://www.kameli.net/~marq/kode/ppolizei.zip) — free PC
+* [Bitmap to vector converter](https://drububu.com/tutorial/bitmap-to-vector.html) — free web. Converts your bitmap image online into a Scalable Vector Graphics or 3D model.
 
 ## Графические редакторы и утилиты на zx spectrum
 
