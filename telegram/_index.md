@@ -16,6 +16,7 @@ weight = 1
 * [CAFePARTY](https://t.me/CAFe_Demoparty) — CAFe demoparty
 * [CSP anti chat](https://t.me/csp_chatiq) — Crazy Siberian Party
 * [Out Of Compo](https://t.me/ooc_chat) — Общение про Out Of Compo
+* [БуChaos](https://t.me/buhaos) — Неформально абьюзивное объединение ламповых Спектрумистов и Амижников
 ### ZX gfx
 * [zxgfx](https://t.me/zxgfx) — ZX Spectrum Graphics
 * [ZX Artist](https://t.me/zxartist) — Здесь выкладывают и обсуждают спектрумский арт и обмениваются опытом

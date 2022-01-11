@@ -14,6 +14,7 @@ weight = 2
 * [Chaos constructions](https://chaosconstructions.ru/) — Chaos constructions demoparty
 * [DiHalt](http://www.dihalt.org.ru/) — DiHalt demoparty
 * [CAFe](https://cafeparty.org.ru/) — CAFe demoparty
+* [БуChaos](https://buhaos.ru) — Неформально абьюзивное объединение ламповых Спектрумистов и Амижников
 ## Soft and file archieves
 * [Virtual tr-dos](http://vtrd.in/) — Архив программ для zx spectrum
 * [ZXAAA](https://zxaaa.net) — Архив демо, интро, поддерживаемый AAA
