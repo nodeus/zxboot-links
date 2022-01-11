@@ -13,49 +13,27 @@ weight = 3
 ## Графические редакторы без поддержки формата экрана для десктопа и web
 
 * [Aseprite](https://www.aseprite.org/) — paid PC/Mac/Linux
-
 * [Graphics gale](https://graphicsgale.com/us/) — free PC
-
 * [Pro motion NG](https://www.cosmigo.com/) — free/paid PC/Mac/Linux
-
 * [GrafX2](https://grafx2.gitlab.io/grafX2) — free PC/Mac/AmigaOS/Atari/GP2X/Switch
-
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama) — free PC/Mac/linux
-
 * [Piskel](https://www.piskelapp.com/) — free web/PC/Mac/Linux
-
 * [Pixelformer](http://www.qualibyte.com/pixelformer/) — free PC
-
 * [Paint.net](https://www.getpaint.net) — free PC
-
 * [Mtpaint](http://mtpaint.sourceforge.net/) — free PC/Linux
-
 * [Pixen](https://pixenapp.com/mac/) — free Mac
-
 * [IconLover](http://www.aha-soft.com/iconlover/) — free web PC/Mac/Linux
-
 * [Poxi](https://github.com/maierfelix/poxi) — free, github repo
-
 * [Moai](http://members.allegro.cc/sirocco/nav_mo.htm) — free PC
-
 * [JDraw](https://sourceforge.net/projects/jdraw/files/) — free PC
-
 * [PikoPixel](http://twilightedge.com/mac/pikopixel/) — free Mac/Linux/FreeBSD
-
 * [rx](https://rx.cloudhead.io/) — free Linux
-
 * [Pyxel edit](https://pyxeledit.com) — free/paid PC/Mac
-
 * [Pixilart](https://www.pixilart.com/draw) — free web
-
 * [GIMP](https://www.gimp.org/) — free PC/Mac/Linux
-
 * [Krita](https://krita.org/en/) — free PC/Mac/Linux
-
 * [Photoshop](https://www.adobe.com/ru/products/photoshop.html) paid PC/Mac
-
 * **Pixel studio** — free/paid PC/Mac [Steam](https://store.steampowered.com/app/1204050/Pixel_Studio_for_pixel_art/) [MS Store](https://www.microsoft.com/en-us/p/pixel-studio/9p7xs7vh1r3j?activetab=pivot:overviewtab)
-
 * [Pixel Proof](https://dinomage.itch.io/pixel-proof) paid PC/Mac/Linux
 
 ## Графические редакторы с поддержкой формата экрана
@@ -157,3 +135,113 @@ weight = 3
 
 ## Графические редакторы и утилиты на zx spectrum
 
+### Редакторы
+
+* [3Color Studio Beta](https://vtrd.in/system/3CSBETA.zip) by Die Krupps Group'98
+* [3Color Studio v1.17 demo](https://vtrd.in/system/3CS1_17D.zip) by Die Krupps Group'99
+* [3D Cool v1.4](https://vtrd.in/system/3DCOOL-4.zip) by Rage Creative Group'99
+* [4x2 HardRock MGE](https://vtrd.in/system/4x2HR_TT.zip) by Triumph'01
+* [8 Color Editor v0.14](https://vtrd.in/system/8COL014.zip) by Alone Coder'14
+* [Advanced Grafix Arsenal](https://vtrd.in/system/AGA.ZIP) by Childrens Infatuated Computers'98
+* [Art Studio v1.6RD (Rus)](https://vtrd.in/system/ASROVVAD.zip) by Oxford Computer Publishing'85, Oleg Vdovin, VAD'98
+* [Art Studio v1.6RD (Rus)](https://vtrd.in/system/ART_R_OV.zip) by Oxford Computer Publishing'85, Oleg Vdovin
+* [Art Studio v2.01](https://vtrd.in/system/ASTUDSUR.zip) by Oxford Computer Publishing'86, Artem Surunov'96
+* [Art Studio v2.01](https://vtrd.in/system/ARTSTUCG.zip) by Oxford Computer Publishing'86, United Coders Group'96
+* [Art Studio v2.01](https://vtrd.in/system/ARTPHANT.zip) by Oxford Computer Publishing'86, Phantom Group'94
+* [Art Studio v2.01](https://vtrd.in/system/ASTUSMCG.zip) by Oxford Computer Publishing'86, Sinc Masters Creative Group'98
+* [Art Studio v2.01](https://vtrd.in/system/ASTUD_HW.zip) by Oxford Computer Publishing'86, Hardware Wizard'97
+* [Art Studio v2.01](https://vtrd.in/system/ASTUDPHF.zip) by Oxford Computer Publishing'86, Phantom Family'96
+* [Art Studio v2.01](https://vtrd.in/system/ASTUD_RS.zip) by Oxford Computer Publishing'86, Real Software'98
+* [Art Studio v2.01](https://vtrd.in/system/ARTSRLDG.zip) by Oxford Computer Publishing'86, Red Limited Drunkards Group'95
+* [Art Studio v2.01](https://vtrd.in/system/ASTPROFI.zip) by Oxford Computer Publishing'86, TOO Profi'94
+* [Art Studio v2.01 (for AY-Mouse)](https://vtrd.in/system/ARTSTCEG.zip) by Oxford Computer Publishing'86, Enigma Group'96
+* [Art Studio v2.01 (Rus)](https://vtrd.in/system/ART_R_OI.zip) by Oxford Computer Publishing'86, O. Imanov'94
+* [Art Studio v2.01c](https://vtrd.in/system/ART+MUS.zip) by Oxford Computer Publishing'86, Seamans Beer Users Hackers Group
+* [Art Studio v2.3](https://vtrd.in/system/ARTST_23.ZIP) by Oxford Computer Publishing'85, Viator'99
+* [Art Studio v3.0](https://vtrd.in/system/AS128V30.zip) by Oxford Computer Publishing'86, Cybertronic Soft'97
+* [Art Studio v3.04D](https://vtrd.in/system/ARTSKIDS.zip) by Oxford Computer Publishing'85, Kidsonsoft Group'94
+* [Art Studio v3.08](https://vtrd.in/system/ARTSTINT.zip) by Oxford Computer Publishing'86, Intruders Corp'99
+* [Artist](https://vtrd.in/system/ARTIST1.ZIP) by Xcellent Software, Softechnics'85
+* [Artist II](https://vtrd.in/system/ARTIST_2.ZIP) by Xcellent Software, Softechnics'86, Nicolas Rodionov'89
+* [Artist II](https://vtrd.in/system/ART2_VS.zip) by Xcellent Software, Softechnics'86, Vladimir Saveliev'93
+* [Artist II](https://vtrd.in/system/ARTIST2+.ZIP) by Xcellent Software, Softechnics'86, OLSoft Company'96
+* [Artist II](https://vtrd.in/system/ART2PHF.zip) by Xcellent Software, Softechnics'86, Phantom Family
+* [Artist II](https://vtrd.in/system/ART2_AN.zip) by Xcellent Software, Softechnics'86, Alex Nikiforov
+* [Artist III](https://vtrd.in/system/ARTIST3.zip) by Andrew Owen'09, tiboh'17
+* [Artwork Preview Version, The](https://vtrd.in/system/ARTWORK.ZIP) by Bytex Creative Group'98
+* [BMC Editor v1.1](https://vtrd.in/system/BMCED1_1.zip) by Diamond Code Group'98
+* [Burial GFX Editor v2.41](https://vtrd.in/system/BGE241.ZIP) by Delirium Tremens / Freedom'00
+* [Burial GFX Editor v3.05](https://vtrd.in/system/BGE305.zip) by Delirium Tremens / Freedom'01
+* [Burial GFX Editor v3.11 fix 20.12.2019](https://vtrd.in/system/BGE.zip) by Delirium Tremens / Freedom'01, Dart Alver'19 
+* [Chunks Gfx Editor v1.2](https://vtrd.in/system/CGE_12.ZIP) by n-Discovery'99
+* [Double Screen Editor v0.7](https://vtrd.in/system/DBS07.ZIP) by 4th Dimension'01, Alone Coder'04
+* [Editor for Massives](https://vtrd.in/system/E4M.zip) by Beermanz'99
+* [Excess de Luxe Paint v2.1b](https://vtrd.in/system/EDP21B.ZIP) by Excess Team'01
+* [Gfx Maker v1.5](https://vtrd.in/system/GFXMAKER.zip) by Power Hackers Group
+* [Graphic Station v1.21](https://vtrd.in/system/GSTATION.zip) by Myth Corp'99
+* [Hard Core 4x4 Chunks Gfx Editor v3.01](https://vtrd.in/system/HC_301.ZIP) by Master Home Computers Group'99
+* [Hard Core 8x8](https://vtrd.in/system/HC8X8.ZIP) by Prog Master'99
+* [Hewle Spline Studio v0.01](https://vtrd.in/system/HSS.zip) by CyberPunks Unity'04
+* [Lorigraph](https://vtrd.in/system/LORIGRAF.ZIP) by Loriciels'85, Paradox'97
+* [MegaScreen Multicolor Editor v1.08](https://vtrd.in/system/MSCR1_08.zip) by Sergey Krutyko'94, Magic Soft'95
+* [MegaScreen Multicolor Editor v2.5](https://vtrd.in/system/MSCR_25.zip) by Sergey Krutyko'95, Magic Soft'96
+* [Mini Gfx Editor v0.3](https://vtrd.in/system/MGE03.ZIP) by Budder / VTInc'06
+* [Mouse Studio v2.01, v2.02](https://vtrd.in/system/MOUSE_ST.ZIP) by Devidsoft'94
+* [Multi Studio v1.00](https://vtrd.in/system/MULTIST1.zip) by Omega Hackers Group'97
+* [Multi Studio v2.0 pro](https://vtrd.in/system/MULTST20.ZIP) by Omega Hackers Group'97
+* [Multi Studio v2.1 pro](https://vtrd.in/system/MULTST21.zip) by Omega Hackers Group'99
+* [Multicolor Studio v1.208](https://vtrd.in/system/MS1_208.ZIP) by Accept Corp'96
+* [Power Studio v1.0](https://vtrd.in/system/POWERS1.ZIP) by Prog Master / Sinc Masters Creative Group
+* [Pro Graf Demo](https://vtrd.in/system/PROGFX_D.zip) by Technology Interactive Systems'97
+* [VU-3D](https://vtrd.in/system/VU-3D++-.zip) by Psion Software Ltd, Sinclair Research Ltd'82, Speed Company'96
+* [VU-3D](https://vtrd.in/system/VU-3D_T.zip) by Psion Software Ltd, Sinclair Research Ltd'82, tiboh'00
+
+### Утилиты
+
+* [ADS Convertor v1.0](https://vtrd.in/system/ADS-C1_0.zip) by ADS-Company'96
+* [ANI Editor v0.31](https://vtrd.in/system/ANIE031.zip) by SAM style'06
+* [Animation v2.0](https://vtrd.in/system/ANIM2INF.zip) by Nikolay Velichutin'93, Inforcom'93
+* [Animation v2.0](https://vtrd.in/system/ANIM2DT.zip) by Nikolay Velichutin'93, Dream Team'94
+* [Animation v3.0](https://vtrd.in/system/ANIMAT3.zip) by Nikolay Velichutin'94
+* [ASCII Converter v0.1b](https://vtrd.in/system/ACONV01.ZIP) by Jerri / Alien Factory'99
+* [ASCII Convertor v2.71](https://vtrd.in/system/ASCII_2.ZIP) by AiR / Edelweiss Creative Group'98
+* [ASCII GFX Maker v1.0](https://vtrd.in/system/AGM1_0.ZIP) by Art-top / Galaxy Inc'00
+* [Avangard v2.1](https://vtrd.in/system/AVANGRD.zip) by Hrumer'96
+* [Characters Bank 4 Turbo Editor](https://vtrd.in/system/CHRBANK4.zip) by Maxim Spiridonenko'94
+* [CharAde Engine](https://vtrd.in/system/CHARADE.zip) by Joefish'15, baxter'15
+* [Colour Box! v1.1](https://vtrd.in/system/COLBOX11.zip) by S.O.Kupriyanov'93
+* [Convertor GFX to TEXT v1.00](https://vtrd.in/system/GTX1_00.ZIP) by Disabler Production Labaratory'00
+* [Cut Off](https://vtrd.in/system/CUT_OFF.zip) by Pencraft Software'91
+* [Disk Screen Cracker v1.0](https://vtrd.in/system/DSC10_SF.zip) by Speccyfan'00
+* [Enlarg](https://vtrd.in/system/ENLARG.zip) by Nicolas Rodionov
+* [Font Screen Convertor v0.0](https://vtrd.in/system/FSC_V0_0.zip) by PIXel'99
+* [Gfx 2 Txt v2.0](https://vtrd.in/system/GT20KUNF.zip) by Kunf / Stolichnaya'97
+* [GFX Utility v0.5](https://vtrd.in/system/GFX05.ZIP) by MyKAT / Sinclair Club'01
+* [Graphics Print Service v1.2](https://vtrd.in/system/GPS1_2.zip) by KP Corp.'91
+* [Hardcopy v1.25](https://vtrd.in/system/HARDCOPY.zip) by Alansoft'95
+* [Hewle Pecker v0.011](https://vtrd.in/system/HPECKER.zip) by CyberPunks Unity'01
+* [M-Wizard v1.0](https://vtrd.in/system/M-WIZARD.zip) by Ivan Roshin'97
+* [Macroadapter v2.0i](https://vtrd.in/system/MAC2_0I.ZIP) by sq / Digital Dreams Group / Light Future Group'99
+* [Magnify Utility v1.01](https://vtrd.in/system/MAGUT101.ZIP) by Coders' Academy Interactive Group'00
+* [Palchanger](https://vtrd.in/system/PALCHANG.zip) by Alone Coder'14
+* [Picture Fucker v1.0 Demo](https://vtrd.in/system/PF_10.ZIP) by Fenomen'98
+* [POP Screen v0.01](https://vtrd.in/system/POPSCR.zip) by Discipline'03
+* [Print](https://vtrd.in/system/PRINTPRN.zip) by Sergey Glagolev'96
+* [Professional Graphic Utility v1.52](https://vtrd.in/system/PGU1_52.zip) by Seamans Beer Users Hackers Group'96
+* [S.L.A.D. Screen Printer v1.0](https://vtrd.in/system/SLAD1_0.zip) by Doka'01
+* [Scan Screens Optimizer v1.01A](https://vtrd.in/system/SSO1_01A.ZIP) by Rom Corp'98
+* [Screen Grab v1.0](https://vtrd.in/system/SCGRAB10.zip) by John Ivanov / Infosoft Group
+* [Screen Magnify v1.0](https://vtrd.in/system/SCR-MGNF.zip) by Sergey Krutyko / Sunrise Electronic Ltd'93
+* [Screen Optimizer v4.2](https://vtrd.in/system/SCROPT42.ZIP) by PSV'94
+* [Screen Printer v1.0](https://vtrd.in/system/SCRP1_0.zip) by Sergey Krutyko
+* [Screen Printer v2.9](https://vtrd.in/system/SCRPRSJS.zip) by SERG'94, Slavjack Software'96
+* [Screen Printer v2.9](https://vtrd.in/system/SCREENP.zip) by SERG'94
+* [Screen to Font 2x2 Converter v1.05](https://vtrd.in/system/STF2X2C.zip) by Green Bit Group'02
+* [Screen to Text Transformer v1.0](https://vtrd.in/system/SCR-T1_0.ZIP) by GreenMan'98
+* [Screen Visual Optimizer v1.0](https://vtrd.in/system/SVO1_0.ZIP) by psndcj / Light Future Group'00
+* [Super Screen](https://vtrd.in/system/S_SCREEN.zip) by Merlin'98
+* [Turbo V-Screener v2.1](https://vtrd.in/system/TURBO_VS.zip) by Reserve Company'94
+* [User Filtres v002 alfa](https://vtrd.in/system/FILTRES.zip) by Syndrome'99
+* [Video Scaner v2.0](https://vtrd.in/system/VSCAN2_0.zip) by Sergey Krutyko
+* [View & Print v4.5](https://vtrd.in/system/V&PRT4_5.zip) by Spectrum Warriors Corporation'96
+* [Warp Designer v1.0](https://vtrd.in/system/WARPD1_0.ZIP) by Pro Hackers Dynasty'97
