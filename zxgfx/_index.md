@@ -1,5 +1,5 @@
 +++
-title = "ZXgfx"
+title = "ZX gfx"
 description = "ZX graphics links"
 weight = 3
 
@@ -9,7 +9,7 @@ weight = 3
 В этом разделе собраны ссылки на различные графические редакторы и утилиты для производства графики для zx spectrum.
 {{< /lead >}}
 
-# ZX gfx 
+# ZX Spectrum графика
 ## Графические редакторы без поддержки формата экрана для десктопа и web
 
 * [Aseprite](https://www.aseprite.org/) — paid PC/Mac/Linux
