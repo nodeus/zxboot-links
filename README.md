@@ -8,4 +8,5 @@ Demoscene/retroscene telegram and web links
 
 * [zxboot links telegram](https://github.com/nodeus/zxboot-links/blob/master/telegram/_index.md)
 * [zxboot links web](https://github.com/nodeus/zxboot-links/blob/master/web/_index.md)
+* [zxgfx](https://github.com/nodeus/zxboot-links/blob/master/zxgfx/_index.md)
 
