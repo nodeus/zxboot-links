@@ -1,3 +1,5 @@
+
+
 +++
 title = "ZX gfx"
 description = "ZX graphics links"
@@ -90,48 +92,47 @@ weight = 3
 * [Laser Compact v5.2.1 by Hrumer'14](https://vtrd.in/pcutilz/LASER521.zip) — компрессор ZX Spectrum графики
 * [Lethargeek Kompakt v1.1 by Lethargeek'16](https://vtrd.in/pcutilz/!LGKV1.1.zip) — компрессор ZX Spectrum графики
 * [MeGaViEw v0.007 by Paralich Ltd'98](https://vtrd.in/pcutilz/MVIEW007.zip) — free PC(DOS) просмотрщик ZX Spectrum графики
-* *далее необходима редакция*
-* [NDither r0044](https://vtrd.in/pcutilz/NDITHER.zip) by Neo Spectruman'20 - конвертер графики в форматы 256c\16с (Windows)
-* [OpAL v1.0](https://vtrd.in/pcutilz/OPALV1_0.zip) by Lethargeek'17 - оптимизатор атрибутов ZX Spectrum графики (Windows)
-* [pix2scr v0.1 beta 1](https://vtrd.in/pcutilz/PIX2SCR.zip) by introspec'15 - конвертер из формата PNG в формат экрана ZX Spectrum (Windows)
-* [Pixel Polizei](https://vtrd.in/pcutilz/PPOLIZEI.zip) by Fit, Lieves!Tuore'21 - утилита для работы с 8-и битной графикой (Linux, macOS, Windows)
-* [Retro-X Alpha 8](https://vtrd.in/pcutilz/RETRO_X.zip) by LCD'09 - просмотрщик/конвертер/редактор графики (Windows)
-* [SCR2GIF v1.0](https://vtrd.in/pcutilz/SCR2GIF.zip) by ThunderWare Research Center'98 - конвертер ZX Spectrum экрана в формат GIF (DOS)
-* [Screen Optimizer v1.0e](https://vtrd.in/pcutilz/SCROP10E.zip) by g0blinish, Den Popov'16 - утилита для работы с ZX Spectrum графикой (Windows)
-* [Screen to BMP v0.99](https://vtrd.in/pcutilz/SCR2BMP.ZIP) by Zeg / Fenomen'04 - конвертер графики формата Screen в формат BMP (Windows)
-* [ScreenView v1.5](https://vtrd.in/pcutilz/SCR_VIEW.zip) by Vadim Bodrov'99 - просмотрщик ZX Spectrum графики (DOS, Windows)
-* [SCRplus v0.21](https://vtrd.in/pcutilz/SCRPLUS.zip) by Edward Cree'12 - конвертер графики (Windows)
-* [Spectrum Graphics Editor/Ripper](https://vtrd.in/pcutilz/SGE.zip) by Rich Jordan'99, Chris Young'04 - графический редактор (Amiga, DOS, Windows)
-* [Spectrum Screen Viewer v1.43](https://vtrd.in/pcutilz/SSV.zip) by CyberPunks Unity'02 - просмотрщик/конвертер ZX Spectrum графики (Windows)
-* [SpecView SE v2.2.1](https://vtrd.in/pcutilz/SPV221.ZIP) by Pro Hackers Dynasty'01 - просмотрщик/конвертер ZX Spectrum графики (Windows)
-* [SpecView v0.4](https://vtrd.in/pcutilz/SPECVIEW.zip) by Richard Chandler'11 - просмотрщик ZX Spectrum графики, ZX экранов из снапшотов Z80, SNA, SNX, SP, SZX (Windows)
-* [Sprite Editor v2.0](https://vtrd.in/pcutilz/SE20OFG.zip) by OldFartGamer'15 - редактор спрайтов (Windows)
-* [TGV player v1.2](https://vtrd.in/pcutilz/PLAYTGV.zip) by AzAtom'17 - проигрыватель видеофайлов формата TGV (Windows)
-* [theX.ICon v0.4](https://vtrd.in/pcutilz/THEXICON.zip) by HalfElf'10 - конвертер графики, форматов Sсreen, Gigascreen, Multigigascreen, 3Color (Windows)
-* [VSP Player v0.35](https://vtrd.in/pcutilz/VSP035.ZIP) by Vitamin'05 - проигрыватель видеофайлов формата ZX Video Studio (Windows)
-* [Z80 Tools v1.1](https://vtrd.in/pcutilz/Z80TOOLS.zip) by VMA soft'98 - набор утилит для работы с форматами BIN, BMP, TAP, ZX Spectrum экрана (DOS)
-* [Ziewer v1.4.1 build 34](https://vtrd.in/pcutilz/ZIEWER14.ZIP) by Maxuz'02 - просмотрщик/конвертер ZX Spectrum графики (Windows)
-* [ZX $creen Navigator v1.7](https://vtrd.in/pcutilz/ZX$NAV17.ZIP) by WTL'00 - просмотрщик/конвертер ZX Spectrum графики (DOS)
-* [ZX AAA Workshop v1.3](https://vtrd.in/pcutilz/ZXAAA1_3.zip) by mitek'10 - программа для сохранения графики из эмуляторов (Windows)
-* [ZX File Viewer](https://vtrd.in/pcutilz/ZXFILEV.ZIP) - просмотрщик ZX Spectrum графики (Windows)
-* [ZX Font v2.4](https://vtrd.in/pcutilz/ZXFONT24.ZIP) by SGO'07 - редактор ZX Spectrum шрифтов (Windows)
-* [ZX Font v3.3](https://vtrd.in/pcutilz/ZXFONT33.zip) by SGO'20 - редактор ZX Spectrum шрифтов (Windows)
-* [ZX Image Converter v1.2.0.0](https://vtrd.in/pcutilz/ZXIMC120.zip) by Northwood'18 - конвертер графики (Windows)
-* [ZX Maps Creator v1.51](https://vtrd.in/pcutilz/ZXMAPSCR.zip) by Pavero'07 - редактор для создания карт к играм (Windows)
-* [ZX Pascal Sprite generator v2.0.1](https://vtrd.in/pcutilz/ZXSPR201.zip) by AzAtom'16 - генератор спрайтов для ZX Like Pascal (Windows)
-* [ZX Screen](https://vtrd.in/pcutilz/ZXSCRDWA.zip) by Dwa83'20 - конвертер графики (Windows)
-* [ZX Screen Snapper v2.90](https://vtrd.in/pcutilz/ZXSSNAPP.zip) by Pavero'13 - программа для сохранения графики из эмуляторов (Windows)
-* [ZX Screen v1.1.0.0](https://vtrd.in/pcutilz/ZXSCR1_1.zip) by SGO'18 - утилита для просмотра ZX Spectrum графики форматов SCR, IMG (Windows)
-* [ZX Screen View](https://vtrd.in/pcutilz/ZXSCRV.zip) by g0blinish'16 - просмотрщик файлов как картинок с возможностью сохранения (Windows)
-* [ZX Screens v2.03](https://vtrd.in/pcutilz/ZXSCR203.zip) by Pavero'04 - просмотрщик/конвертер ZX Spectrum графики, работает с форматами BMP, GIF, PNG (Windows)
-* [ZX SEA v1.05](https://vtrd.in/pcutilz/ZXSEA105.ZIP) by Craz'00 - просмотрщик ZX Spectrum графики (DOS)
-* [ZX Spectrum Images Batch Converter](https://vtrd.in/pcutilz/BATCHZX.ZIP) by Kpa3 / Delirium Tremens'04 - конвертер из формата Screen в форматы BMP, JPG, PNG (Windows)
-* [ZX Text v0.41](https://vtrd.in/pcutilz/ZXTEX041.zip) by g0blinish'20 - утилита для рисования текста на картинках (Windows)
-* [ZX View v0.2b](https://vtrd.in/pcutilz/ZXV02B.ZIP) by Brainwave'02 - просмотрщик ZX Spectrum графики (Windows)
-* [ZX-scr Viewer v0.2](https://vtrd.in/pcutilz/ZXSCRV2.ZIP) by Destr'09 - просмотрщик ZX Spectrum графики с поддержкой аппаратного глюка с линиями на знакоместах (Windows)
-* [ZXFont](https://vtrd.in/pcutilz/ZXFONTSH.zip) by Reanimator'18 - редактор ZX Spectrum шрифтов (Windows)
-* [ZXGet Screen$](https://vtrd.in/pcutilz/ZXGETSCR.ZIP) by Oleg Origin'10 - утилита для поиска ZX Spectrum экранов в образе TRD, с возможностью сохранения в формате BMP (Windows)
-* [zxsc v3e](https://vtrd.in/pcutilz/ZXSC_V3E.zip) by Tom Dalby'21 - компрессор ZX Spectrum графики (Linux, macOS, Windows)
+* [NDither r0044 by Neo Spectruman'20](https://vtrd.in/pcutilz/NDITHER.zip) — free PC конвертер графики в форматы 256c\16с
+* [OpAL v1.0 by Lethargeek'17](https://vtrd.in/pcutilz/OPALV1_0.zip) — free PC оптимизатор атрибутов ZX Spectrum графики
+* [pix2scr v0.1 beta 1 by introspec'15 ](https://vtrd.in/pcutilz/PIX2SCR.zip) — free PC конвертер из формата PNG в формат экрана ZX Spectrum
+* [Pixel Polizei by Fit, Lieves!Tuore'21](https://vtrd.in/pcutilz/PPOLIZEI.zip) — free PC/Mac/Linux утилита для работы с 8-и битной графикой
+* [Retro-X Alpha 8 by LCD'09 ](https://vtrd.in/pcutilz/RETRO_X.zip) — free PC просмотрщик/конвертер/редактор графики
+* [SCR2GIF v1.0 by ThunderWare Research Center'98](https://vtrd.in/pcutilz/SCR2GIF.zip) — free PC(DOS) конвертер ZX Spectrum экрана в формат GIF
+* [Screen Optimizer v1.0e by g0blinish, Den Popov'16](https://vtrd.in/pcutilz/SCROP10E.zip) — free PC утилита для работы с ZX Spectrum графикой
+* [Screen to BMP v0.99 by Zeg / Fenomen'04 ](https://vtrd.in/pcutilz/SCR2BMP.ZIP) — free PC конвертер графики формата Screen в формат BMP
+* [ScreenView v1.5  by Vadim Bodrov'99](https://vtrd.in/pcutilz/SCR_VIEW.zip) — free PC(DOS) просмотрщик ZX Spectrum графики
+* [SCRplus v0.21 by Edward Cree'12](https://vtrd.in/pcutilz/SCRPLUS.zip) — free PC конвертер графики
+* [Spectrum Graphics Editor/Ripper by Rich Jordan'99, Chris Young'04](https://vtrd.in/pcutilz/SGE.zip) — free PC/Amiga графический редактор
+* [Spectrum Screen Viewer v1.43 by CyberPunks Unity'02](https://vtrd.in/pcutilz/SSV.zip) — free PC просмотрщик/конвертер ZX Spectrum графики
+* [SpecView SE v2.2.1 by Pro Hackers Dynasty'01](https://vtrd.in/pcutilz/SPV221.ZIP) — free PC просмотрщик/конвертер ZX Spectrum графики
+* [SpecView v0.4 by Richard Chandler'11](https://vtrd.in/pcutilz/SPECVIEW.zip) — free PC просмотрщик ZX Spectrum графики, ZX экранов из снапшотов Z80, SNA, SNX, SP, SZX
+* [Sprite Editor v2.0 by OldFartGamer'15](https://vtrd.in/pcutilz/SE20OFG.zip) — free PC редактор спрайтов
+* [TGV player v1.2 by AzAtom'17](https://vtrd.in/pcutilz/PLAYTGV.zip) — free PC проигрыватель видеофайлов формата TGV
+* [theX.ICon v0.4 by HalfElf'10](https://vtrd.in/pcutilz/THEXICON.zip) — free PC конвертер графики, форматов Sсreen, Gigascreen, Multigigascreen, 3Color
+* [VSP Player v0.35 by Vitamin'05](https://vtrd.in/pcutilz/VSP035.ZIP) — free PC проигрыватель видеофайлов формата ZX Video Studio
+* [Z80 Tools v1.1 by VMA soft'98](https://vtrd.in/pcutilz/Z80TOOLS.zip) — free PC(DOS) набор утилит для работы с форматами BIN, BMP, TAP, ZX Spectrum экрана
+* [Ziewer v1.4.1 build 34 by Maxuz'02](https://vtrd.in/pcutilz/ZIEWER14.ZIP) — free PC просмотрщик/конвертер ZX Spectrum графики
+* [ZX $creen Navigator v1.7 by WTL'00](https://vtrd.in/pcutilz/ZX$NAV17.ZIP) — free PC(DOS) просмотрщик/конвертер ZX Spectrum графики
+* [ZX AAA Workshop v1.3 by mitek'10](https://vtrd.in/pcutilz/ZXAAA1_3.zip) — free PC программа для сохранения графики из эмуляторов
+* [ZX File Viewer](https://vtrd.in/pcutilz/ZXFILEV.ZIP) — free PC просмотрщик ZX Spectrum графики
+* [ZX Font v2.4 by SGO'07](https://vtrd.in/pcutilz/ZXFONT24.ZIP) — free PC редактор ZX Spectrum шрифтов
+* [ZX Font v3.3 by SGO'20](https://vtrd.in/pcutilz/ZXFONT33.zip) — free PC редактор ZX Spectrum шрифтов
+* [ZX Image Converter v1.2.0.0 by Northwood'18](https://vtrd.in/pcutilz/ZXIMC120.zip) — free PC конвертер графики
+* [ZX Maps Creator v1.51 by Pavero'07](https://vtrd.in/pcutilz/ZXMAPSCR.zip) — free PC редактор для создания карт к играм
+* [ZX Pascal Sprite generator v2.0.1 by AzAtom'16](https://vtrd.in/pcutilz/ZXSPR201.zip) — free PC генератор спрайтов для ZX Like Pascal
+* [ZX Screen by Dwa83'20](https://vtrd.in/pcutilz/ZXSCRDWA.zip) — free PC конвертер графики
+* [ZX Screen Snapper v2.90 by Pavero'13](https://vtrd.in/pcutilz/ZXSSNAPP.zip) — free PC программа для сохранения графики из эмуляторов
+* [ZX Screen v1.1.0.0 by SGO'18](https://vtrd.in/pcutilz/ZXSCR1_1.zip) — free PC утилита для просмотра ZX Spectrum графики форматов SCR, IMG
+* [ZX Screen View by g0blinish'16](https://vtrd.in/pcutilz/ZXSCRV.zip) — free PC просмотрщик файлов как картинок с возможностью сохранения
+* [ZX Screens v2.03 by Pavero'04](https://vtrd.in/pcutilz/ZXSCR203.zip) — free PC просмотрщик/конвертер ZX Spectrum графики, работает с форматами BMP, GIF, PNG
+* [ZX SEA v1.05 by Craz'00](https://vtrd.in/pcutilz/ZXSEA105.ZIP) — free PC(DOS) просмотрщик ZX Spectrum графики
+* [ZX Spectrum Images Batch Converter by Kpa3 / Delirium Tremens'04](https://vtrd.in/pcutilz/BATCHZX.ZIP) — free PC конвертер из формата Screen в форматы BMP, JPG, PNG
+* [ZX Text v0.41 by g0blinish'20](https://vtrd.in/pcutilz/ZXTEX041.zip) — free PC утилита для рисования текста на картинках
+* [ZX View v0.2b by Brainwave'02](https://vtrd.in/pcutilz/ZXV02B.ZIP) — free PC просмотрщик ZX Spectrum графики
+* [ZX-scr Viewer v0.2 by Destr'09](https://vtrd.in/pcutilz/ZXSCRV2.ZIP) — free PC просмотрщик ZX Spectrum графики с поддержкой аппаратного глюка с линиями на знакоместах
+* [ZXFont by Reanimator'18](https://vtrd.in/pcutilz/ZXFONTSH.zip) — free PC редактор ZX Spectrum шрифтов
+* [ZXGet Screen$ by Oleg Origin'10](https://vtrd.in/pcutilz/ZXGETSCR.ZIP) — free PC утилита для поиска ZX Spectrum экранов в образе TRD, с возможностью сохранения в формате BMP
+* [zxsc v3e by Tom Dalby'21](https://vtrd.in/pcutilz/ZXSC_V3E.zip) — free PC/Mac/Linux компрессор ZX Spectrum графики
 
 ## Графические редакторы и утилиты на zx spectrum
 
