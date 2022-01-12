@@ -57,6 +57,7 @@ weight = 2
 * [Cracked by Bill Gilbert](https://zxbg.blogspot.com/) — Блог по стопам легендарного хакера.
 * [Tom Dalby](https://www.tomdalby.com/) — Tom`s homepage (retro computing projects and coding)
 * [Черный форум BK0010](http://bk0010.forum20.ru/forum/) — форум посвященный эмуляторам БК0100.
+* [Amiga Information Center](http://www.amiga.org.ru/) — информационный портал для пользователей компьютера Амига
 
 ## Hardware
 
