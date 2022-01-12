@@ -19,7 +19,6 @@ weight = 1
 * [БуChaos](https://t.me/buhaos) — Неформально абьюзивное объединение ламповых Спектрумистов и Амижников
 ### ZX gfx
 * [zxgfx](https://t.me/zxgfx) — ZX Spectrum Graphics
-* [ZX Artist](https://t.me/zxartist) — Здесь выкладывают и обсуждают спектрумский арт и обмениваются опытом
 ### ZX music
 * [Speccy music](https://t.me/speccymusic) — ZX Spectrum music
 * [Vortex Tracker \о/](https://t.me/vt_training) — Группа для людей, которым хочется взять и разобраться с Vortex Tracker'ом. Спрашиваем, уточняем, настраиваем, делаем первые шаги. Понты оставляем в другом месте :)
