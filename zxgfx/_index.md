@@ -41,7 +41,7 @@ weight = 3
 ## Графические редакторы с поддержкой формата экрана
 
 * [Multipaint 2020.2 by Dr. TerrorZ'20](https://vtrd.in/pcutilz/MULPAINT.zip) — free PC/Mac/Linux графический редактор [site](http://multipaint.kameli.net/)
-* [MultiArtist v0.94 by TmK, riskej'16](https://vtrd.in/pcutilz/MULTART.zip) — free PC редактор MultiGigascreen графики [site](https://multiartist.untergrund.net)
+* [MultiArtist v0.96 by TmK, riskej'16](https://vtrd.in/pcutilz/MULTA096.zip) — free PC редактор MultiGigascreen графики [site](https://multiartist.untergrund.net)
 * [SevenuP v1.20 by Metalbrain'08](https://vtrd.in/pcutilz/SEVENUP.zip) — free PC/Linux/FreeBSD/Mac графический редактор [site](https://metalbrain.speccy.org)
 * [ZX Spectrum Screen Editor v0.7 by Alexey Susekov'01, moroz1999'08](https://vtrd.in/pcutilz/ZXGFX07.ZIP) — free PC графический редактор
 * [ZX-Draw v1.01 by MaRaf Soft'19](https://vtrd.in/pcutilz/ZXDRAW.zip) — free PC графический редактор
