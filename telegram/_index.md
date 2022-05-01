@@ -46,6 +46,7 @@ weight = 1
 * [ZX_Pentagon](https://t.me/zx_pentagon) — Все о Пентагонах. 48\128\512\... BDI\wo-BDI
 * [ZS Scorpion & Ленинград](https://t.me/zs_scorpion) — про компьютеры ZS Scorpion и Ленинград
 * [KAY the Spectrum](https://t.me/kay_nemo) — For the best USSR-clone ZX-Spectrum designed by Nemo — KAY (128, 1024, 2010, etc) and it's satellite board (NemoFDC, NemoIDE ...)
+* [ZX Pentagon](https://t.me/zx_pentagon) — Все о пентагонах
 ### ZX other
 * [Speccy offtop](https://t.me/speccyofftop) — zx spectrum offtop themes (RUS/ENG talks)
 * [Speccy flame | group](https://t.me/speccyflame) — Спекки флейм
