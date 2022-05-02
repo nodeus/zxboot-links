@@ -137,7 +137,10 @@ weight = 2
 ### Music podcasts
 * [ZX CHIP Podcast](http://zxchip.ru) — Подкаст о чипмузыке на zx spectrum
 * [AYpod — Antique Toy podcast](https://aypod.ru) — Подкаст о музыке созданнной для 8-разрядного коммпьютера ZX Spectrum
+* [Scene podcast archive](https://mega.nz/folder/CJNAmSgD#Y1LIMMsHqX5Zw2Iye2p_Fw) — Архив подкаста Scene
+
 ### Online radio
+
 * [Hyperadio site](https://hyperadio.retroscene.org/) — Demoscene radio
 * [Hyperadio stream 1](http://hyperadio.ru:8000/live.m3u) —  128k-MP3
 * [Hyperadio stream 2](http://hyperadio.ru:8000/live2.m3u) —  128k-OGG
