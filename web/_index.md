@@ -138,9 +138,7 @@ weight = 2
 * [ZX CHIP Podcast](http://zxchip.ru) — Подкаст о чипмузыке на zx spectrum
 * [AYpod — Antique Toy podcast](https://aypod.ru) — Подкаст о музыке созданнной для 8-разрядного коммпьютера ZX Spectrum
 * [Scene podcast archive](https://mega.nz/folder/CJNAmSgD#Y1LIMMsHqX5Zw2Iye2p_Fw) — Архив подкаста Scene
-
 ### Online radio
-
 * [Hyperadio site](https://hyperadio.retroscene.org/) — Demoscene radio
 * [Hyperadio stream 1](http://hyperadio.ru:8000/live.m3u) —  128k-MP3
 * [Hyperadio stream 2](http://hyperadio.ru:8000/live2.m3u) —  128k-OGG
@@ -156,6 +154,7 @@ weight = 2
 * [CVGM.net stream](http://69.195.153.34/cvgm192) — 192k-MP3
 * [Roland radio stream](http://streaming.rolandradio.net/rolandradio) — 256k-MP3
 * [Kaaosradio 24h Chiptune stream](http://stream.kaaosradio.fi:8000/chip) — 224k-MP3
+* [It8bit](https://radio.it8bit.club/) — RetroBit Radio
 ### Music articles
 * [Управление громкостью огибающей YM2149](https://telegra.ph/Upravlenie-gromkostyu-ogibayushchej-YM2149-05-11) — karbofos
 * [VT — Огибающая для самых маленьких](https://telegra.ph/ogiba-dlya-samyh-malenkih-03-14) — karbofos
@@ -177,14 +176,10 @@ weight = 2
 ### GFX Communities
 * [Pixeljoint | pixelart archive](http://pixeljoint.com/) — Big pixelart community
 * [Deviant Art | art community](https://www.deviantart.com/) — Big digital art community
-
 ### GFX Blogs and own sites
-
 * [Gas13 | pixelart artist](http://gas13.ru/) — Личный сайт пиксельарт художника Gas13
 * [Unomoralez | pixelart artist](http://unomoralez.com/) — Личный сайт пиксельарт художника Unomoralez
-
 ### GFX Tools
-
 * [ZX-Extractor 2](http://fight.pp.ua/examples/zx-extractor2/) — Поиск спрайтов в играх
 
 ## Press, wiki, info
@@ -202,6 +197,7 @@ weight = 2
 * [Gamergy | e-paper](http://gamergy.ru/) — Gamergy — electronic newspaper about games on zx-spectrum
 * [ZX Golden years | zx spectrum 1982 — 1986](https://www.zxgoldenyears.org/) — Reviews, stories and interviews from the ZX Spectrum's golden years: 1982-1986
 * [Таблица опкодов Z80](https://clrhome.org/table/) — Удобная таблица опкодов Z80
+
 ## Groups, sceners, peoples
 * [PROGRESS | group](http://pgs-hq.narod.ru/info.html) — PROGRESS — 8bit demomakers team site
 * [Cyber Punx Unity | group](http://cpu.untergrund.net/) — We are CPU
@@ -230,7 +226,6 @@ weight = 2
 * [N10Team](http://n10team.itch.io) — Студия N10 Team
 
 ## DISCORD links
-
 * [ZX Spectrum](https://discord.gg/rSeXp6xFPd) — Alone coder и все, все, все
 * [demoscene](https://discord.gg/THPy9fFM) — Welcome to the Discord Server for the Demoscene! (Eng. language preferred!)
 * [hypr](https://discord.gg/PtBEHaap) — hype.retroscene.org
