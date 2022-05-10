@@ -44,7 +44,7 @@ weight = 1
 * [Sprinter Computer](https://t.me/zx_sprinter) — Чат по компьютеру Sprinter
 * [ZX Дельта-С](https://t.me/zx_delta_s) — Бытовой персональный компьютер Дельта-С
 * [ZX_Pentagon](https://t.me/zx_pentagon) — Все о Пентагонах. 48\128\512\... BDI\wo-BDI
-* [Pentagon ZX chat](https://t.me/Pentagon_ZX_Chat) — Резервы знаний, обмен информацией, файлами, обсуждение ремонта наладки использования. Вежливое и Уважительное общения. Без хамства. Без политики.
+* [Pentagon ZX chat](https://t.me/Pentagon_ZX_Chat) — Резервы знаний, обмен информацией, файлами, обсуждение ремонта наладки использования. Вежливое и Уважительное общение. Без хамства. Без политики.
 * [ZS Scorpion & Ленинград](https://t.me/zs_scorpion) — про компьютеры ZS Scorpion и Ленинград
 * [KAY the Spectrum](https://t.me/kay_nemo) — For the best USSR-clone ZX-Spectrum designed by Nemo — KAY (128, 1024, 2010, etc) and it's satellite board (NemoFDC, NemoIDE ...)
 ### ZX other
