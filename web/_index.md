@@ -228,8 +228,8 @@ weight = 2
 ## DISCORD links
 * [ZX Spectrum](https://discord.gg/rSeXp6xFPd) — Alone coder и все, все, все
 * [demoscene](https://discord.gg/THPy9fFM) — Welcome to the Discord Server for the Demoscene! (Eng. language preferred!)
-* [hypr](https://discord.gg/PtBEHaap) — hype.retroscene.org
-* [Speccy Music](https://discord.gg/nnWSUBYh) — zx spectrum music
+* [hypr](https://discord.gg/0Tax5KjSjCtMm02I) — hype.retroscene.org
+* [Speccy Music](https://discord.gg/zJJMtFP) — zx spectrum music
 * [Sprinter computer](https://discord.gg/x59TnYWkSN) — Sprinter discord server
 * [Speccy Software](https://discord.gg/dZm6TQrv) — zx spectrum software
 
