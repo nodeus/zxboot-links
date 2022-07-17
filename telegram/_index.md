@@ -17,6 +17,7 @@ weight = 1
 * [CSP anti chat](https://t.me/csp_chatiq) — Crazy Siberian Party
 * [Out Of Compo](https://t.me/ooc_chat) — Общение про Out Of Compo
 * [БуChaos](https://t.me/buhaos) — Неформально абьюзивное объединение ламповых Спектрумистов и Амижников
+* [Undefined](https://t.me/undefined_diy_fest) — Фестиваль демосцены, ретро-компьютеров и всего остального
 ### ZX gfx
 * [zxgfx](https://t.me/zxgfx) — ZX Spectrum Graphics
 ### ZX music
@@ -93,7 +94,7 @@ weight = 1
 * [Ru_PDP](https://t.me/ru_pdp) — Чат посвященный компьютерам Digital Equipment PDP (RUS)
 #### 8080 \ 8085
 * [ПК на 8080|8085 — hardware](https://t.me/vm80a) — Радио-86РК, Специалист, Орион, ЮТ-88 и т.д. Hardware.
-## Telegram channels
+# Telegram channels
 ### ZX
 * [ZX Speccy](https://t.me/zxnews) — Телеграм-канал проекта ZX Speccy. Важные новости из мира ZX Spectrum'а: игры, железо, люди
 * [ZX-CHIP podcast](https://t.me/zxchip) — Recent podcast issues
@@ -130,7 +131,7 @@ weight = 1
 * [Sprinter computer](https://t.me/zx_sprinter_computer) — Информационный канал в телеграм о компьютере Sprinter. Новости и исторические данные.
 * [Hot Pixel](https://t.me/HotPixel_Channel) — Канал о старых железяках, ретро компьютерах и консолях
 * [Darkman007](https://t.me/Darkman007_Official) — Фанклуб Darkman007
-## Telegram bots
+# Telegram bots
 * [Hyperadio bot](https://t.me/hyperadio_bot) — Nowplay, download, request, convert chiptunes
 * [КОН ВЕР ТЕР](https://t.me/zxconvbot) — Конвертер pt3 —> mp3
 * [hype.retroscene.org news](https://t.me/hyprbot) — Бот с новостями hype.retroscene.org
