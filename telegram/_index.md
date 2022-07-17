@@ -62,6 +62,7 @@ weight = 1
 * [Паблик Пьяной Мухи](https://t.me/drunkflypublic) — Паблик Пьяной Мухи
 * [Группа ZX-PK.ru](https://t.me/zxpkru_temp) — Филиал форума zx-pk.ru в телеграмм
 * [CP/M](https://t.me/CPM_80) — группа фанатов ОС СР/М , спектрумов-хуектрумов и им сочувствующих
+* [Virtual TR-DOS](https://t.me/vtrdin) — Virtual TR-DOS and Speccy software related
 ### Demoscene and retroscene other
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
 * [z80 /q11](https://t.me/joinchat/Q7uxralB1WiB9Id0) — ZX Spectrum sweet home! Темы: Z80, Spectrum, демосцена, кодинг, музыка, графика, потереть за жизнь, накидать приколов. Не благословляются: скучные и повторяющиеся офтопы, тяжелая политота, невысокий интеллект при активной гражданской позиции.
@@ -111,8 +112,10 @@ weight = 1
 * [Torn Metal](https://t.me/torn_metal) — Новая RTS для ZX Spectrum (в разработке)
 * [Новости Пьяной Мухи](https://t.me/drunkflyteam)
 * [Давай, Калантай!](https://t.me/davajkalantaj) — Канал о жизни одного сельского спектрумиста...
+* [ZX-Art Daily](https://t.me/zxartdaily) — ZX-Art на каждый день, пиксельная графика и чиптюн музыка старого доброго ZX-Spectrum с zxart.ee!
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
+* [DMSCN](https://t.me/demoscene) — На периферии демосцены
 ### Other
 * [HYPERADIO](https://t.me/joinchat/AAAAADua1EIhVuFK6ev0Hg) — info, news and messages
 * [Chiptune](https://t.me/chiptune)
