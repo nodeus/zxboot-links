@@ -255,3 +255,5 @@ weight = 2
 * [UnoXT Hardware](https://gitlab.com/emax73g/unoxt-hardware) — UnoXT is ZX Uno modification Development Board with possibility running ZX Spectrum Next Compatible Core.
 * [AutoSiril](https://github.com/oisee/autosiril) — инструмент для удобного и эффективного конвертирования MIDI-файлов в текстовый формат VortexTracker (с последующей возможностью конвертирования в PT3)
 * [AutoDiver](https://github.com/oisee/autodiver_go) — инструмент для подбора набросков под конвертирование графики на zx spectrum
+* [psg_compressor](https://github.com/vasilenkoroman/psg_compressor) — This software is intended to pack PSG files. It is register dump for music chip AY-3-8910.
+* [zxdocs](https://github.com/ZX-Online/zxdocs) — The collection of manuals for ZX Spectrum developers and amateurs
