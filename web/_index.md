@@ -172,6 +172,8 @@ weight = 2
 ## Graphics
 ### GFX archieves
 * [ZXART | zx graphics archive](http://zxart.ee/eng/graphics/) — ZX Spectrum graphics archive
+* [ZXART bugreports](https://zxart.convas.io/) — Багтрекер ZXART. Если хотите, чтобы на zx-art что-то поменялось или исправилось, добавляйте в список.
+Самым проголосованным фичам будет отдаваться приоритет.
 * [Artcity | graphics archive](http://artcity.bitfellas.org/) — Biggest demoscene graphics archive
 ### GFX Communities
 * [Pixeljoint | pixelart archive](http://pixeljoint.com/) — Big pixelart community
