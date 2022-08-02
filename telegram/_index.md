@@ -53,7 +53,6 @@ weight = 1
 * [Speccy flame | group](https://t.me/speccyflame) — Спекки флейм
 * [Тут БЫЛ дихальт](https://t.me/nedopc_party) — Тут БЫЛ дихальт — неофициальная группа дихальта от лица дихальта
 * [ZX&NIBIRU](https://t.me/join?invite=FnSx4EPOYbB_uqA6dd2dnA) — Нибиру
-* [ZX Sale](https://t.me/zxsale) — Здесь можно покупать, продавать, менять и отдавать даром Spectrum-совместимые компьютеры, запчасти и аксессуары
 * [ZX Chat](https://t.me/zxchat) — Чат для веселого и непринужденного общения спектрумистов на любые темы
 * [ZX Software](https://t.me/zxsoftware) — Чат для обсуждения спектрумского soft'а.
 * [ZX Spectrum Chat](https://t.me/joinchat/CyRx59yXOydmYmMy) — Общение по ретро-компьютерам, в частности ZX Spectrum
@@ -109,7 +108,7 @@ weight = 1
 * [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup)
 * [Архиспектрум](https://t.me/zxarch)
 * [sinc LAIR](https://t.me/sinc_LAIR)
-* [ZX Барахолка](https://t.me/zxfleamarket) — Барахолка
+* [ZX Барахолка](https://t.me/zxfleamarket) — Барахолка. Продажа\покупка.
 * [Torn Metal](https://t.me/torn_metal) — Новая RTS для ZX Spectrum (в разработке)
 * [Новости Пьяной Мухи](https://t.me/drunkflyteam)
 * [Давай, Калантай!](https://t.me/davajkalantaj) — Канал о жизни одного сельского спектрумиста...
