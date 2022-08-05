@@ -113,6 +113,7 @@ weight = 1
 * [Новости Пьяной Мухи](https://t.me/drunkflyteam)
 * [Давай, Калантай!](https://t.me/davajkalantaj) — Канал о жизни одного сельского спектрумиста...
 * [ZX-Art Daily](https://t.me/zxartdaily) — ZX-Art на каждый день, пиксельная графика и чиптюн музыка старого доброго ZX-Spectrum с zxart.ee!
+* [TS-conf video](https://t.me/tsconf_video) — TS-conf video archive
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
 * [DMSCN](https://t.me/demoscene) — На периферии демосцены
