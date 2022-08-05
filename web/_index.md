@@ -199,6 +199,7 @@ weight = 2
 * [Gamergy | e-paper](http://gamergy.ru/) — Gamergy — electronic newspaper about games on zx-spectrum
 * [ZX Golden years | zx spectrum 1982 — 1986](https://www.zxgoldenyears.org/) — Reviews, stories and interviews from the ZX Spectrum's golden years: 1982-1986
 * [Таблица опкодов Z80](https://clrhome.org/table/) — Удобная таблица опкодов Z80
+* [z80ops](https://vtrd.in/z80ops.html) — Справочник по командам Z80 (с тактами и поиском)
 * [ZXDN](http://alexanderk.ru/zxdn/) — Коллекция материалов по творчеству на компьютере ZX-Spectrum: программирование, графика, музыка.
 
 ## Groups, sceners, peoples
