@@ -59,23 +59,6 @@ weight = 2
 * [Черный форум BK0010](http://bk0010.forum20.ru/forum/) — форум посвященный эмуляторам БК0100.
 * [Amiga Information Center](http://www.amiga.org.ru/) — информационный портал для пользователей компьютера Амига
 
-## Hardware
-
-* [ZIFI ZX Evo](http://ts.retropc.ru/) — ZIFI-КЛИЕНТ ДЛЯ ДОСТУПА К ИНТЕРНЕТ-РЕСУРСАМ
-* [Mick Laboratory](http://micklab.ru/) — All MickLab projects and information about hardware.
-* [nedopc.com official website](http://nedopc.com/) — Официальный сайт группы NedoPC.
-* [ATM-turbo official website](http://atmturbo.nedopc.com/) — Официальный сайт поддержки компьютеров ATM-turbo.
-* [zxbyte.ru «zxbyte» computer](http://zxbyte.ru/) — Компьютер «Байт».
-* [Pentagon 1024 SL](http://pentagon.nedopc.com/) — Проект Pentagon 1024 SL.
-* [Scorpion](http://scorpion.ru/spectrum/hard/sc_hard.htm) — ZX Scorpion железо.
-* [SBLive schemes (zx, atari, msx, amiga, sega)](http://sblive.narod.ru/) — Схемы и статьи.
-* [VELESOFT Czech zx hardware fan](http://velesoft.speccy.cz/) — VELESOFT — zx sam timex sprinter.
-* [Swedish ZX Spectrum DIY site](http://user.tninet.se/~vjz762w/) — Swedish ZX Spectrum DIY site.
-* [ZX Spectrum Next official portal](http://www.specnext.com/) — The official portal of all things Next.
-* [АЛЕКСЕЙ МОРОЗОВ | homepage](http://alemorf.ru/comps/index.html) — Советские домашние компьютеры и немного другого.
-* [Sprinter8](http://sprinter8.org) — Sprinter документация
-* [Sinclair hardware collection](https://www.tomdalby.com/retro/sinclair.html) — photo gallery Sinclair`s hardware
-* [Tetroid hardware](http://tetroid.nedopc.com/) — Предлагаю собранные платы и конструкторы ZX-Evolution, Neo-GS и сопутствующие товары
 ## Video
 ### Video blogs
 * [Дмитрий Бачило («16 бит тому назад», «кремниевые титаны» и др.)](https://www.youtube.com/user/BachiloDmitry) — Этот канал в основном посвящен обзорам всякого старого железа и софта, впрочем не только старого.
@@ -198,9 +181,6 @@ weight = 2
 * [Журнал «DOWNGRADE»](http://dgmag.in/) — Журнал «DOWNGRADE» — Старое программное обеспечение.
 * [Gamergy | e-paper](http://gamergy.ru/) — Gamergy — electronic newspaper about games on zx-spectrum
 * [ZX Golden years | zx spectrum 1982 — 1986](https://www.zxgoldenyears.org/) — Reviews, stories and interviews from the ZX Spectrum's golden years: 1982-1986
-* [Таблица опкодов Z80](https://clrhome.org/table/) — Удобная таблица опкодов Z80
-* [z80ops](https://vtrd.in/z80ops.html) — Справочник по командам Z80 (с тактами и поиском)
-* [ZXDN](http://alexanderk.ru/zxdn/) — Коллекция материалов по творчеству на компьютере ZX-Spectrum: программирование, графика, музыка.
 
 ## Groups, sceners, peoples
 * [PROGRESS | group](http://pgs-hq.narod.ru/info.html) — PROGRESS — 8bit demomakers team site
@@ -250,9 +230,7 @@ weight = 2
 * [ZX starter pack](https://github.com/errorcalc/zx_starter_pack) — Стартовый набор для вхождения в разработку под ZX Spectrum // A set of software, source codes, literature, utilities, and a build system for entering development for ZX Spectrum.
 * [zx-evo](https://github.com/tslabs/zx-evo) — TS-Configuration for ZX Spectrum clone named ZX-Evolution.
 * [Chunks parser zx](https://github.com/akanyuk/chunks-parser-zx) — Parser from animated GIF to ZX Spectrum assembler code.
-* [Xpeccy](https://github.com/samstyle/Xpeccy) — Multiplatform emulator of retro computers
 * [ZMakeBas](https://github.com/z00m128/zmakebas) — zmakebas converts a Spectrum BASIC program written as a text file into an actual speccy BASIC file.
-* [zesarux](https://github.com/chernandezba/zesarux) — ZX Second-Emulator And Released for UniX. Created by Cesar Hernandez Bano. It's a ZX Machines Emulator for UNIX based operating systems (and Windows), including all the Sinclair computers.
 * [ZX0](https://github.com/einar-saukas/ZX0) — optimal data compressor for a custom [LZ77/LZSS](https://en.wikipedia.org/wiki/Lempel–Ziv–Storer–Szymanski) based compression format, that provides a tradeoff between high compression ratio, and extremely simple fast decompression. Therefore it's especially appropriate for low-end platforms, including 8-bit computers like the ZX Spectrum.
 * [salvador — ZX0 compressor](https://github.com/emmanuel-marty/salvador) — a fast, near-optimal compressor for the ZX0 format.
 * [zxbasic](https://github.com/einar-saukas/zxbasic) — ZX BASIC is a [BASIC](http://en.wikipedia.org/wiki/BASIC) ''cross compiler''. It will compile BASIC programs (in your PC) for your [ZX Spectrum](http://en.wikipedia.org/wiki/Sinclair_ZX_Spectrum). ZX BASIC is an SDK entirely written in [python](http://www.python.org). The SDK is implemented using the [PLY](http://www.dabeaz.com/ply/) (Python Lex/Yacc) compiler tool. It translates BASIC to Z80 assembler code, so it is easily portable to other Z80 platforms (Amstrad, MSX). Other non Z80 targets could also be available in the future. ZX BASIC syntax tries to maintain compatibility as much as possible with [Sinclair BASIC](http://en.wikipedia.org/wiki/Sinclair_BASIC), it also have many new features, mostly taken from [FreeBASIC](http://www.freebasic.net/wiki) dialect.
@@ -261,4 +239,3 @@ weight = 2
 * [AutoDiver](https://github.com/oisee/autodiver_go) — инструмент для подбора набросков под конвертирование графики на zx spectrum
 * [psg_compressor](https://github.com/vasilenkoroman/psg_compressor) — This software is intended to pack PSG files. It is register dump for music chip AY-3-8910.
 * [zxdocs](https://github.com/ZX-Online/zxdocs) — The collection of manuals for ZX Spectrum developers and amateurs
-* [TSLib](https://github.com/DeadlyKom/TSLib) — TSLib is a library that makes it easy to start developing for ZX-Evolution for TC-conf firmware.
