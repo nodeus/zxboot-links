@@ -22,7 +22,7 @@ weight = 2
 * [Visualz80 Remix](https://floooh.github.io/visualz80remix/) - очень точная (но медленная) визуальная эмуляция z80
 
 ## Hardware
-
+* [speccy4ever](https://speccy4ever.speccy.org/) - дампы ПЗУ
 * [ZIFI ZX Evo](http://ts.retropc.ru/) — ZIFI-КЛИЕНТ ДЛЯ ДОСТУПА К ИНТЕРНЕТ-РЕСУРСАМ
 * [Mick Laboratory](http://micklab.ru/) — All MickLab projects and information about hardware.
 * [nedopc.com official website](http://nedopc.com/) — Официальный сайт группы NedoPC.
