@@ -10,8 +10,7 @@ weight = 3
 
 # Programming
 ## IDE, compilers
-* [DeZog](https://github.com/maziac/DeZog) — Расширение для VSCode для программирования под Spectrum.\
-* [Пример настройки DeZog](https://github.com/maziac/z80-sample-program)
+* [DeZog](https://github.com/maziac/DeZog) — Расширение для VSCode для программирования под Spectrum | [(Пример настройки DeZog)](https://github.com/maziac/z80-sample-program)
 
 ## Libs, code samples
 * [ZXDN](http://alexanderk.ru/zxdn/) — Коллекция материалов по творчеству на компьютере ZX-Spectrum: программирование, графика, музыка.
