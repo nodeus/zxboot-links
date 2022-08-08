@@ -1,7 +1,7 @@
 +++
 title = "Hard"
 description = "Emulators & Hardware links"
-weight = 2
+weight = 4
 +++
 
 {{< lead >}}
@@ -13,16 +13,16 @@ weight = 2
 ## Emulators Spectrum
 * [Xpeccy](https://github.com/samstyle/Xpeccy) — Multiplatform emulator of retro computers
 * [zesarux](https://github.com/chernandezba/zesarux) — ZX Second-Emulator And Released for UniX. Created by Cesar Hernandez Bano. It's a ZX Machines Emulator for UNIX based operating systems (and Windows), including all the Sinclair computers.
-* [ZXMAK2](https://github.com/zxmak/ZXMAK2) - ZX Spectrum Emulator - Virtual Machine.
-* [M.A.M.E.](https://www.mamedev.org/) - MAME is a multi-purpose emulation framework.
-* [Unreal (tslab)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) - Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution.
+* [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator - Virtual Machine.
+* [M.A.M.E.](https://www.mamedev.org/) — MAME is a multi-purpose emulation framework.
+* [Unreal (tslab)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) — Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution.
 
 ## Emulators Z80
-* [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) - библиотека эмуляции z80
-* [Visualz80 Remix](https://floooh.github.io/visualz80remix/) - очень точная (но медленная) визуальная эмуляция z80
+* [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
+* [Visualz80 Remix](https://floooh.github.io/visualz80remix/) — очень точная (но медленная) визуальная эмуляция z80
 
 ## Hardware
-* [speccy4ever](https://speccy4ever.speccy.org/) - дампы ПЗУ
+* [speccy4ever](https://speccy4ever.speccy.org/) — дампы ПЗУ
 * [ZIFI ZX Evo](http://ts.retropc.ru/) — ZIFI-КЛИЕНТ ДЛЯ ДОСТУПА К ИНТЕРНЕТ-РЕСУРСАМ
 * [Mick Laboratory](http://micklab.ru/) — All MickLab projects and information about hardware.
 * [nedopc.com official website](http://nedopc.com/) — Официальный сайт группы NedoPC.
@@ -38,4 +38,4 @@ weight = 2
 * [Sprinter8](http://sprinter8.org) — Sprinter документация
 * [Sinclair hardware collection](https://www.tomdalby.com/retro/sinclair.html) — photo gallery Sinclair`s hardware
 * [Tetroid hardware](http://tetroid.nedopc.com/) — Предлагаю собранные платы и конструкторы ZX-Evolution, Neo-GS и сопутствующие товары
-* [The Brain Dump](https://floooh.github.io/archive/) - Подборка статей о точной эмуляции z80
+* [The Brain Dump](https://floooh.github.io/archive/) — Подборка статей о точной эмуляции z80

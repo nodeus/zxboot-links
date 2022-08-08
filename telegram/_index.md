@@ -46,7 +46,7 @@ weight = 1
 * [ZX Дельта-С](https://t.me/zx_delta_s) — Бытовой персональный компьютер Дельта-С
 * [ZX_Pentagon](https://t.me/zx_pentagon) — Все о Пентагонах. 48\128\512\... BDI\wo-BDI
 * [Pentagon ZX chat](https://t.me/Pentagon_ZX_Chat) — Резервы знаний, обмен информацией, файлами, обсуждение ремонта наладки использования. Вежливое и Уважительное общение. Без хамства. Без политики.
-* [ZS Scorpion & Ленинград](https://t.me/zs_scorpion) — про компьютеры ZS Scorpion и Ленинград
+* [ZS Scorpion & Ленинград](https://t.me/zs_scorpion) — Про компьютеры ZS Scorpion и Ленинград
 * [KAY the Spectrum](https://t.me/kay_nemo) — For the best USSR-clone ZX-Spectrum designed by Nemo — KAY (128, 1024, 2010, etc) and it's satellite board (NemoFDC, NemoIDE ...)
 ### ZX other
 * [Speccy offtop](https://t.me/speccyofftop) — zx spectrum offtop themes (RUS/ENG talks)
@@ -61,7 +61,7 @@ weight = 1
 * [ZX Spectrum reborn](https://t.me/ZxReborn) — Пайка спектрумов, советы респекты подсказки
 * [Паблик Пьяной Мухи](https://t.me/drunkflypublic) — Паблик Пьяной Мухи
 * [Группа ZX-PK.ru](https://t.me/zxpkru_temp) — Филиал форума zx-pk.ru в телеграмм
-* [CP/M](https://t.me/CPM_80) — группа фанатов ОС СР/М , спектрумов-хуектрумов и им сочувствующих
+* [CP/M](https://t.me/CPM_80) — Группа фанатов ОС СР/М , спектрумов-хуектрумов и им сочувствующих
 * [Virtual TR-DOS](https://t.me/vtrdin) — Virtual TR-DOS and Speccy software related
 ### Demoscene and retroscene other
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена

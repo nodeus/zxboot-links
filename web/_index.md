@@ -26,37 +26,37 @@ weight = 2
 * [TS Config soft | demo, games, utils](http://prods.tslabs.info/) — TS Config software
 * [ZX SPECTRUM & | file archive (zx-pc-бк-yamaha etc...)](http://www.zx-spectrum.narod.ru/) — Archive software for old computers
 * [ZX-Soft collection | system file archive](http://zxsoft.zxby.org/) — Коллекция системных программ
-* [TZX vault](https://tzxvault.org/) — The aim of this site is to provide an archive of Sinclair ZX Spectrum games in .TZX tape format for preservation purposes.
-* [RZX archive](http://www.rzxarchive.co.uk/) — Recordings of speccy games.
+* [TZX vault](https://tzxvault.org/) — The aim of this site is to provide an archive of Sinclair ZX Spectrum games in .TZX tape format for preservation purposes
+* [RZX archive](http://www.rzxarchive.co.uk/) — Recordings of speccy games
 * [World of Spectrum](https://worldofspectrum.org/) — The official world archive for the Sinclair ZX Spectrum
-* [World of Spectrum classic](https://worldofspectrum.net/) — The spiritual successor to the official world archive for the Sinclair ZX Spectrum and the largest on-line gaming centre on the Internet.
-* [Speccy screenshot maps](https://maps.speccy.cz/) — You will find here all maps (put together from screenshots) to games for eight-bit computer ZX Spectrum.
+* [World of Spectrum classic](https://worldofspectrum.net/) — The spiritual successor to the official world archive for the Sinclair ZX Spectrum and the largest on-line gaming centre on the Internet
+* [Speccy screenshot maps](https://maps.speccy.cz/) — You will find here all maps (put together from screenshots) to games for eight-bit computer ZX Spectrum
 ## Blogs, news, forums
-* [Hype collective blog](https://hype.retroscene.org/) — Коллективный блог о ретросцене и демосцене.
-* [Speccy live news blog](http://speccy-live.untergrund.net/) — Коллективный новостной блог.
-* [ZXAAA |  aaa forum](https://zxdemos.ru/) — Форум архива zxaaa.net.
-* [SPECCY.PL poland speccy portal](http://www.speccy.pl) — Poland zx spectrum portal (news, forum, soft archive).
-* [DL Corp forum](http://dlcorp.nedopc.com/) — DLCorp forum.
-* [OldСomp.cz forum](http://www.oldcomp.cz/) — Community discussion forum for fans of historical computers.
+* [Hype collective blog](https://hype.retroscene.org/) — Коллективный блог о ретросцене и демосцене
+* [Speccy live news blog](http://speccy-live.untergrund.net/) — Коллективный новостной блог
+* [ZXAAA |  aaa forum](https://zxdemos.ru/) — Форум архива zxaaa.net
+* [SPECCY.PL poland speccy portal](http://www.speccy.pl) — Poland zx spectrum portal (news, forum, soft archive)
+* [DL Corp forum](http://dlcorp.nedopc.com/) — DLCorp forum
+* [OldСomp.cz forum](http://www.oldcomp.cz/) — Community discussion forum for fans of historical computers
 * [NedoPC forum](http://forum.nedopc.com/) — NedoPC forum.
-* [zx.clan.su USSR ZX Spectrum Community forum](https://zx.clan.su/forum/) — Black_Cat portal.
+* [zx.clan.su USSR ZX Spectrum Community forum](https://zx.clan.su/forum/) — Black_Cat portal
 * [zx-pk.ru forum](http://zx-pk.ru/forum.php) — Форум Speccy — наш выбор!
-* [ZX Spectrum Next forum](http://www.specnext.com/forum/) — The ZX Spectrum Next user\`s forum.
-* [TS Labs forum](http://forum.tslabs.info/) — TS Labs forum.
-* [Идеальный пиксель news blog](http://idpixel.ru) — Новостной проект о ретроиграх и ретротехнике.
-* [ZXBY.ORG Belarusian zx news](http://zxby.org/) — Belarusian zx portal.
-* [Новая реальность](http://tv-games.ru/) — Портал об играх.
-* [sinclair.hu Hungary ZX portal](http://www.sinclair.hu/) — Венгерский zx портал.
+* [ZX Spectrum Next forum](http://www.specnext.com/forum/) — The ZX Spectrum Next user\`s forum
+* [TS Labs forum](http://forum.tslabs.info/) — TS Labs forum
+* [Идеальный пиксель news blog](http://idpixel.ru) — Новостной проект о ретроиграх и ретротехнике
+* [ZXBY.ORG Belarusian zx news](http://zxby.org/) — Belarusian zx portal
+* [Новая реальность](http://tv-games.ru/) — Портал об играх
+* [sinclair.hu Hungary ZX portal](http://www.sinclair.hu/) — Венгерский zx портал
 * [Got Papers blog about scene artefacts](http://gotpapers.untergrund.net/) — The most crucial resources on the history of the cracking and demoscene.
-* [nedoPC | Shaos forum](http://www.nedopc.org/forum/index.php) — Community of electronics hobbyists.
+* [nedoPC | Shaos forum](http://www.nedopc.org/forum/index.php) — Community of electronics hobbyists
 * [Vintage is a new old](https://vintageisthenewold.com/) — Vintage is the New old is a product of pure love and dedication for Retro Computing.
 * [Spectrum computing](https://spectrumcomputing.co.uk/) — PROUDLY POWERED BY THE OPEN SOURCE ZXDB DATABASE – THE LARGEST ZX SPECTRUM DATABASE IN THE WORLD!
-* [Philip Kendall — The Sinclair Spectrum](http://www.shadowmagic.org.uk/spectrum/) — This is a collection of various things related to the Sinclair Spectrum.
+* [Philip Kendall — The Sinclair Spectrum](http://www.shadowmagic.org.uk/spectrum/) — This is a collection of various things related to the Sinclair Spectrum
 * [Planet Sinclair](https://rk.nvg.ntnu.no/sinclair/) — Lots of historical information on Sir Clive, the Sinclair company and its products, mainly the Speccy!
-* [Yolkfolk.com](https://yolkfolk.com/) — The dizzy fansite.
-* [Cracked by Bill Gilbert](https://zxbg.blogspot.com/) — Блог по стопам легендарного хакера.
+* [Yolkfolk.com](https://yolkfolk.com/) — The dizzy fansite
+* [Cracked by Bill Gilbert](https://zxbg.blogspot.com/) — Блог по стопам легендарного хакера
 * [Tom Dalby](https://www.tomdalby.com/) — Tom`s homepage (retro computing projects and coding)
-* [Черный форум BK0010](http://bk0010.forum20.ru/forum/) — форум посвященный эмуляторам БК0100.
+* [Черный форум BK0010](http://bk0010.forum20.ru/forum/) — форум посвященный эмуляторам БК0100
 * [Amiga Information Center](http://www.amiga.org.ru/) — информационный портал для пользователей компьютера Амига
 
 ## Video
@@ -221,21 +221,21 @@ weight = 2
 
 ### Andriod Play store
 
-* [z80sky](https://play.google.com/store/apps/details?id=ru.z80sky&hl=en&gl=US) — Cправочное приложение с описанием всех опкодов Z80 и Z80N в удобном прокручиваемом списке. Доступ к краткому  обзору: мнемоника, байты, такты и флаги.
+* [z80sky](https://play.google.com/store/apps/details?id=ru.z80sky&hl=en&gl=US) — Cправочное приложение с описанием всех опкодов Z80 и Z80N в удобном прокручиваемом списке. Доступ к краткому  обзору: мнемоника, байты, такты и флаги
 
 ## GitHub repos
 * [VortexTracker 2.6](https://github.com/ivanpirog/vortextracker) — VortexTracker 2.6 dev 18
 * [ZX Flash animation for Aseprite](https://github.com/AlRado/ZX-flash-animation) — The Aseprite tools to create and import/export ZX-Spectrum flash animation .scr (no pixels, only attributes)
-* [ZXTapeReviver](https://github.com/lgolouz/ZXTapeReviver) — ZxTapeReviver is a tool to convert ZX Spectrum tapes, recorded as WAV file, to a TAP files and provides a ways to manually revive poor records.
-* [ZX starter pack](https://github.com/errorcalc/zx_starter_pack) — Стартовый набор для вхождения в разработку под ZX Spectrum // A set of software, source codes, literature, utilities, and a build system for entering development for ZX Spectrum.
-* [zx-evo](https://github.com/tslabs/zx-evo) — TS-Configuration for ZX Spectrum clone named ZX-Evolution.
-* [Chunks parser zx](https://github.com/akanyuk/chunks-parser-zx) — Parser from animated GIF to ZX Spectrum assembler code.
-* [ZMakeBas](https://github.com/z00m128/zmakebas) — zmakebas converts a Spectrum BASIC program written as a text file into an actual speccy BASIC file.
+* [ZXTapeReviver](https://github.com/lgolouz/ZXTapeReviver) — ZxTapeReviver is a tool to convert ZX Spectrum tapes, recorded as WAV file, to a TAP files and provides a ways to manually revive poor records
+* [ZX starter pack](https://github.com/errorcalc/zx_starter_pack) — Стартовый набор для вхождения в разработку под ZX Spectrum // A set of software, source codes, literature, utilities, and a build system for entering development for ZX Spectrum
+* [zx-evo](https://github.com/tslabs/zx-evo) — TS-Configuration for ZX Spectrum clone named ZX-Evolution
+* [Chunks parser zx](https://github.com/akanyuk/chunks-parser-zx) — Parser from animated GIF to ZX Spectrum assembler code
+* [ZMakeBas](https://github.com/z00m128/zmakebas) — zmakebas converts a Spectrum BASIC program written as a text file into an actual speccy BASIC file
 * [ZX0](https://github.com/einar-saukas/ZX0) — optimal data compressor for a custom [LZ77/LZSS](https://en.wikipedia.org/wiki/Lempel–Ziv–Storer–Szymanski) based compression format, that provides a tradeoff between high compression ratio, and extremely simple fast decompression. Therefore it's especially appropriate for low-end platforms, including 8-bit computers like the ZX Spectrum.
-* [salvador — ZX0 compressor](https://github.com/emmanuel-marty/salvador) — a fast, near-optimal compressor for the ZX0 format.
+* [salvador — ZX0 compressor](https://github.com/emmanuel-marty/salvador) — a fast, near-optimal compressor for the ZX0 format
 * [zxbasic](https://github.com/einar-saukas/zxbasic) — ZX BASIC is a [BASIC](http://en.wikipedia.org/wiki/BASIC) ''cross compiler''. It will compile BASIC programs (in your PC) for your [ZX Spectrum](http://en.wikipedia.org/wiki/Sinclair_ZX_Spectrum). ZX BASIC is an SDK entirely written in [python](http://www.python.org). The SDK is implemented using the [PLY](http://www.dabeaz.com/ply/) (Python Lex/Yacc) compiler tool. It translates BASIC to Z80 assembler code, so it is easily portable to other Z80 platforms (Amstrad, MSX). Other non Z80 targets could also be available in the future. ZX BASIC syntax tries to maintain compatibility as much as possible with [Sinclair BASIC](http://en.wikipedia.org/wiki/Sinclair_BASIC), it also have many new features, mostly taken from [FreeBASIC](http://www.freebasic.net/wiki) dialect.
-* [UnoXT Hardware](https://gitlab.com/emax73g/unoxt-hardware) — UnoXT is ZX Uno modification Development Board with possibility running ZX Spectrum Next Compatible Core.
+* [UnoXT Hardware](https://gitlab.com/emax73g/unoxt-hardware) — UnoXT is ZX Uno modification Development Board with possibility running ZX Spectrum Next Compatible Core
 * [AutoSiril](https://github.com/oisee/autosiril) — инструмент для удобного и эффективного конвертирования MIDI-файлов в текстовый формат VortexTracker (с последующей возможностью конвертирования в PT3)
 * [AutoDiver](https://github.com/oisee/autodiver_go) — инструмент для подбора набросков под конвертирование графики на zx spectrum
-* [psg_compressor](https://github.com/vasilenkoroman/psg_compressor) — This software is intended to pack PSG files. It is register dump for music chip AY-3-8910.
+* [psg_compressor](https://github.com/vasilenkoroman/psg_compressor) — This software is intended to pack PSG files. It is register dump for music chip AY-3-8910
 * [zxdocs](https://github.com/ZX-Online/zxdocs) — The collection of manuals for ZX Spectrum developers and amateurs

@@ -3,7 +3,7 @@
 +++
 title = "ZX gfx"
 description = "ZX graphics links"
-weight = 3
+weight = 5
 
 +++
 
