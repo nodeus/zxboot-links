@@ -6,9 +6,9 @@ Demoscene/retroscene telegram and web links
 
 Уважаемые, если у вас есть в подписках интересные каналы, чаты или боты, а также ссылки на любые интересные тематические ресурсы — пожалуйста, присылайте свои предложения и пулреквесты. Я с большим удовольствием расширю и дополню полезный для всех список.
 
-* [zxboot links telegram](https://github.com/nodeus/zxboot-links/blob/master/telegram/_index.md)
-* [zxboot links web](https://github.com/nodeus/zxboot-links/blob/master/web/_index.md)
-* [zxboot emulators and hardware](https://github.com/nodeus/zxboot-links/blob/master/hard/_index.md)
-* [zxboot programming](https://github.com/nodeus/zxboot-links/blob/master/programming/_index.md)
+* [telegram](https://github.com/nodeus/zxboot-links/blob/master/telegram/_index.md)
+* [web](https://github.com/nodeus/zxboot-links/blob/master/web/_index.md)
+* [programming](https://github.com/nodeus/zxboot-links/blob/master/programming/_index.md)
+* [emulators and hardware](https://github.com/nodeus/zxboot-links/blob/master/hard/_index.md)
 * [zxgfx](https://github.com/nodeus/zxboot-links/blob/master/zxgfx/_index.md)
 
