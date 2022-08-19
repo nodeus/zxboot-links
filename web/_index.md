@@ -173,9 +173,7 @@ weight = 2
 * [zxpress.ru | library](http://zxpress.ru/) — Библиотека книг, журналов и газет zx spectrum тематики
 * [АБЗАЦ | newspaper](http://abzac.retropc.ru/) — Абзац — газета для спектрумистов
 * [ZX-Life | newspaper](http://zx-life.narod.ru/) — ZX-Life — газета для спектрумистов
-* [Open Source ZX](http://opensourcezx.untergrund.net/index.html) — ZX Spectrum open source
 * [ZX-INFO | library](http://zx-info.ru/?rc=10) — Описание программ
-* [ZXDN | материалы по творчеству на ZX Spectrum](http://zxdn.narod.ru/) — Материалы по творчеству на ZX Spectrum
 * [Games Database | online games system repository](http://www.gamesdatabase.org/) — Games Database — online games system repository
 * [MicroHobby](http://microhobby.speccy.cz/) — MicroHobby
 * [Журнал «DOWNGRADE»](http://dgmag.in/) — Журнал «DOWNGRADE» — Старое программное обеспечение.
@@ -218,16 +216,13 @@ weight = 2
 * [Speccy Software](https://discord.gg/dZm6TQrv) — zx spectrum software
 
 ## Mobile Apps
-
 ### Andriod Play store
-
 * [z80sky](https://play.google.com/store/apps/details?id=ru.z80sky&hl=en&gl=US) — Cправочное приложение с описанием всех опкодов Z80 и Z80N в удобном прокручиваемом списке. Доступ к краткому  обзору: мнемоника, байты, такты и флаги
 
 ## GitHub repos
 * [VortexTracker 2.6](https://github.com/ivanpirog/vortextracker) — VortexTracker 2.6 dev 18
 * [ZX Flash animation for Aseprite](https://github.com/AlRado/ZX-flash-animation) — The Aseprite tools to create and import/export ZX-Spectrum flash animation .scr (no pixels, only attributes)
 * [ZXTapeReviver](https://github.com/lgolouz/ZXTapeReviver) — ZxTapeReviver is a tool to convert ZX Spectrum tapes, recorded as WAV file, to a TAP files and provides a ways to manually revive poor records
-* [ZX starter pack](https://github.com/errorcalc/zx_starter_pack) — Стартовый набор для вхождения в разработку под ZX Spectrum // A set of software, source codes, literature, utilities, and a build system for entering development for ZX Spectrum
 * [zx-evo](https://github.com/tslabs/zx-evo) — TS-Configuration for ZX Spectrum clone named ZX-Evolution
 * [Chunks parser zx](https://github.com/akanyuk/chunks-parser-zx) — Parser from animated GIF to ZX Spectrum assembler code
 * [ZMakeBas](https://github.com/z00m128/zmakebas) — zmakebas converts a Spectrum BASIC program written as a text file into an actual speccy BASIC file

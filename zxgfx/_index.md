@@ -13,7 +13,6 @@ weight = 5
 
 # ZX Spectrum графика
 ## Графические редакторы без поддержки формата экрана для десктопа и web
-
 * [Aseprite](https://www.aseprite.org/) — paid PC/Mac/Linux
 * [Graphics gale](https://graphicsgale.com/us/) — free PC
 * [Pro motion NG](https://www.cosmigo.com/) — free/paid PC/Mac/Linux
@@ -39,7 +38,6 @@ weight = 5
 * [Pixel Proof](https://dinomage.itch.io/pixel-proof) paid PC/Mac/Linux
 
 ## Графические редакторы с поддержкой формата экрана
-
 * [Multipaint 2020.2 by Dr. TerrorZ'20](https://vtrd.in/pcutilz/MULPAINT.zip) — free PC/Mac/Linux графический редактор [site](http://multipaint.kameli.net/)
 * [MultiArtist v0.96 by TmK, riskej'16](https://vtrd.in/pcutilz/MULTA096.zip) — free PC редактор MultiGigascreen графики [site](https://multiartist.untergrund.net)
 * [SevenuP v1.20 by Metalbrain'08](https://vtrd.in/pcutilz/SEVENUP.zip) — free PC/Linux/FreeBSD/Mac графический редактор [site](https://metalbrain.speccy.org)
@@ -51,8 +49,10 @@ weight = 5
 * [Multicolor Fli Editor v2.5 build 1 by CyberPunks Unity'03](https://vtrd.in/pcutilz/MFLI.zip) — free PC редактор мултиколорной графики
 * [SpecSCII editor v1.7b by Kordial, dman'18](https://vtrd.in/pcutilz/SPECSCII.zip) — free PC редактор ZX Spectrum UDG графики
 
-## Графические редакторы для мобильных устройств
+### Графические редакторы онлайн
+* [53с chunkypaint](http://53c.verve.space/) — онлайн редактор 53c
 
+## Графические редакторы для мобильных устройств
 * **Pixel studio** — paid iOS/Android [PlayStore](https://play.google.com/store/apps/details?id=com.PixelStudio) [AppStore](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Fps_appstore)
 * [Pixaki](https://pixaki.com) — paid iOS
 * [EDGE touch](https://apps.apple.com/ru/app/edge-touch-pixel-art-tool/id329021851) — paid iOS
@@ -66,7 +66,6 @@ weight = 5
 * [Procreate for pixelart](https://apps.apple.com/ru/app/procreate/id425073498) — paid iPadOS
 
 ## Утилиты и конвертеры
-
 * [Pixel Polizei](http://www.kameli.net/~marq/kode/ppolizei.zip) — free PC
 * [Bitmap to vector converter](https://drububu.com/tutorial/bitmap-to-vector.html) — free web. Converts your bitmap image online into a Scalable Vector Graphics or 3D model.
 * [Autodiver v2.0 by Siril'15](https://vtrd.in/pcutilz/AUTDIVER.zip) — free PC конвертер графики, подбирает наиболее подходящие сочетания соседних цветов для конверсии
@@ -135,9 +134,7 @@ weight = 5
 * [zxsc v3e by Tom Dalby'21](https://vtrd.in/pcutilz/ZXSC_V3E.zip) — free PC/Mac/Linux компрессор ZX Spectrum графики
 
 ## Графические редакторы и утилиты на zx spectrum
-
 ### Редакторы
-
 * [3Color Studio Beta](https://vtrd.in/system/3CSBETA.zip) by Die Krupps Group'98
 * [3Color Studio v1.17 demo](https://vtrd.in/system/3CS1_17D.zip) by Die Krupps Group'99
 * [3D Cool v1.4](https://vtrd.in/system/3DCOOL-4.zip) by Rage Creative Group'99
@@ -198,7 +195,6 @@ weight = 5
 * [VU-3D](https://vtrd.in/system/VU-3D_T.zip) by Psion Software Ltd, Sinclair Research Ltd'82, tiboh'00
 
 ### Утилиты
-
 * [ADS Convertor v1.0](https://vtrd.in/system/ADS-C1_0.zip) by ADS-Company'96
 * [ANI Editor v0.31](https://vtrd.in/system/ANIE031.zip) by SAM style'06
 * [Animation v2.0](https://vtrd.in/system/ANIM2INF.zip) by Nikolay Velichutin'93, Inforcom'93
