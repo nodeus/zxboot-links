@@ -63,6 +63,7 @@ weight = 1
 * [Группа ZX-PK.ru](https://t.me/zxpkru_temp) — Филиал форума zx-pk.ru в телеграмм
 * [CP/M](https://t.me/CPM_80) — Группа фанатов ОС СР/М , спектрумов-хуектрумов и им сочувствующих
 * [Virtual TR-DOS](https://t.me/vtrdin) — Virtual TR-DOS and Speccy software related
+* [ZX Spectrum reborn](https://t.me/zxReborn) — zx reborn чат
 ### Demoscene and retroscene other
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
 * [z80 /q11](https://t.me/joinchat/Q7uxralB1WiB9Id0) — ZX Spectrum sweet home! Темы: Z80, Spectrum, демосцена, кодинг, музыка, графика, потереть за жизнь, накидать приколов. Не благословляются: скучные и повторяющиеся офтопы, тяжелая политота, невысокий интеллект при активной гражданской позиции.

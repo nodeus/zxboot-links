@@ -21,3 +21,4 @@ weight = 3
 ## Справочники
 * [Таблица опкодов Z80](https://clrhome.org/table/) — Удобная таблица опкодов Z80
 * [z80ops](https://vtrd.in/z80ops.html) — Справочник по командам Z80 (с тактами и поиском)
+* [Home of Z80](http://www.z80.info/) — Thomas Scherrer Z80-Family Official Support Page

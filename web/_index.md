@@ -65,7 +65,7 @@ weight = 2
 * [AsteroideZX](https://www.youtube.com/channel/UC2xYxR_LCpHtLz9v5UZrjiQ) — BIENVENID@S al "AsteroideZX" Espacio de VideoJuegos. Canal comentado de contenido retro y actual. Gameplays ARCADE, ATARI, GAME&WATCH, SPECTRUM, AMSTRAD, MS-DOS, PLAYSTATION, PC, ONLINE, Tutoriales ZX BASIC, etc.
 * [Ivan Avdeev personal | code some realtime stuff](https://www.youtube.com/user/floba23) — I like to code some weird realtime stuff. Mostly OpenGL and cross-platform as fuck.
 * [sinc LAIR](https://www.youtube.com/channel/UChC1Gcl-1bOkNPPzN_owcVg) — Канал посвящён нашему любимому компьютеру ZX Spectrum и всему, что с ним связано.
-* [Arnau Jess](https://www.youtube.com/channel/UCAz8lXjzd8TZkbbID_qSakA) — Zx Spectrum y sus juegos pasión. Speccy and passionate games. Subscribe to my channel and enjoys the ZX Spectrum differently Retrogamers time!
+* [Arnau Jess](https://www.youtube.com/channel/UCAz8lXjzd8TZkbbID_qSakA) — ZX Spectrum y sus juegos pasión. Speccy and passionate games. Subscribe to my channel and enjoys the ZX Spectrum differently Retrogamers time!
 * [Hobbies, Inside And Not Only](https://www.youtube.com/channel/UCpdaFDTRcqvCMRt2YqeEvUQ) — ZX Evo сборка, прошивка.
 * [zx spectrum programming](https://www.youtube.com/playlist?list=PL3e88tGs8UviryIoFNa1pJZDN6mJwsiIR) — Программирование на zx spectrum (Пьяная муха).
 * [Timelapse: Making a game for ZX Spectrum 48 in 48 hours (Ludum Dare 48 competition)](https://www.youtube.com/watch?v=gcWKAuzXswk) — Таймлапс создания игры за 48 часов на LD.
@@ -73,7 +73,7 @@ weight = 2
 * [Matt Heffernan - Slithy Games](https://www.youtube.com/c/slithymatt) — This is the official YouTube channel of Matt Heffernan and Slithy Games, featuring tutorials for programming for retro computers and gaming consoles, new games for old-school platforms, 8-bit demos, and archived content from Slithy Studios (2000-2005)
 * [Валерий Лис](https://www.youtube.com/watch?v=GJi4wQoEMvA&list=PLv1zsoiGg4iBGySN-n4MDo4qjTLP8UgUe) —  Цифровая электроника (logisim, ПЛИС, проектирование на макетных платах); Ассемблер (для разных архитектур процессоров); Создание своих операционных систем; Эмуляция процессоров; Графика (2D/3D, демосцена); Математика и алгоритмы.
 * [DeboshNow](https://www.youtube.com/channel/UCyOcpHk0DhOi6pLqlMP9RFg/videos) — Cборка Karabas Pro
-* [retro Daenury](https://www.youtube.com/c/retroDaenury) — ZX-SPECTRUM, Dendy, ностальгия, retro-gaming, ретро атмосфера тёплых ушедших лет, 90-е и не только
+* [retro Daenury](https://www.youtube.com/c/retroDaenury) — ZX SPECTRUM, Dendy, ностальгия, retro-gaming, ретро атмосфера тёплых ушедших лет, 90-е и не только
 * [The 8-Bit Guy](https://www.youtube.com/user/adric22) — A computer video series focusing mainly on retro technology from the 80's, 90's and 2000's.
 * [Hot pixel](https://www.youtube.com/c/HotPixel/featured) — Контент о ретро компьютерах, софте,  играх, консолях и прочем старом (и не очень) железе.
 * [Советы компьютерного энтузиаста](https://www.youtube.com/channel/UCz_ktTqWVekT0P4zVW8Xgcg)
@@ -214,6 +214,7 @@ weight = 2
 * [Speccy Music](https://discord.gg/zJJMtFP) — zx spectrum music
 * [Sprinter computer](https://discord.gg/x59TnYWkSN) — Sprinter discord server
 * [Speccy Software](https://discord.gg/dZm6TQrv) — zx spectrum software
+* [Torn metal](https://discord.gg/2BZ3FQFV) — Torn metal discord server
 
 ## Mobile Apps
 ### Andriod Play store
@@ -234,3 +235,4 @@ weight = 2
 * [AutoDiver](https://github.com/oisee/autodiver_go) — инструмент для подбора набросков под конвертирование графики на zx spectrum
 * [psg_compressor](https://github.com/vasilenkoroman/psg_compressor) — This software is intended to pack PSG files. It is register dump for music chip AY-3-8910
 * [zxdocs](https://github.com/ZX-Online/zxdocs) — The collection of manuals for ZX Spectrum developers and amateurs
+* [ZX Starter pack](https://github.com/errorcalc/zx_starter_pack) — Стартовый набор для вхождения в разработку под ZX Spectrum // A set of software, source codes, literature, utilities, and a build system for entering development for ZX Spectrum

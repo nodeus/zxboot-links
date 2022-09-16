@@ -242,3 +242,37 @@ weight = 5
 * [Video Scaner v2.0](https://vtrd.in/system/VSCAN2_0.zip) by Sergey Krutyko
 * [View & Print v4.5](https://vtrd.in/system/V&PRT4_5.zip) by Spectrum Warriors Corporation'96
 * [Warp Designer v1.0](https://vtrd.in/system/WARPD1_0.ZIP) by Pro Hackers Dynasty'97
+
+### Просмотрщики графики
+* [Big View v1.0](https://vtrd.in/release.php?r=7d941674511781cd72069fa9990982a1) by Siberian Group'04
+* [BMP-Viewer v1.0](https://vtrd.in/release.php?r=3bf8831355d53a2f1806f9e9f782d6a8) by New Age Software'00
+* [Colorful v1.0](https://vtrd.in/release.php?r=e69124b034d3898e70684eeeb8f4bc03) by moroz1999'99
+* [Excess de Luxe Paint PCX View Utility v1.1](https://vtrd.in/release.php?r=c12c439d4391f57f24c43a8540057152) by Excess Team'99
+* [Grand Screen Viewer v2.6DS](https://vtrd.in/release.php?r=c58969acfb1e9ecefda661086b3e41d9) by Grand'07
+* [GRF Viewer v1.6 beta](https://vtrd.in/release.php?r=3cddcc54b2e94440a06d382a9a300a2a) by Dio-Gen'98
+* [Image Viewer v0.0.1](https://vtrd.in/release.php?r=97ed0800c7800ca3ae63222a46232f15) by rajdee'04
+* [JPEG Viewer v0.50](https://vtrd.in/release.php?r=dddf11d5e4916a3cc699303b61cfa103) by Alien Factory, Nedo PC'13
+* [Many Color v1.0+](https://vtrd.in/release.php?r=bffd72ccd57cb3125744ed2fde7bbeeb) by Creator'97
+* [MCX Viewer v0.4](https://vtrd.in/release.php?r=08a0fa499d449f8d4adecfaf1e814f7b) by Alone Coder'13
+* [Mega Screen Viewer v0.00 demo](https://vtrd.in/release.php?r=d26ce68ce46777ff3e3cac9ccf611e79) by Crystal Dream'98
+* [PCX Show v1.1](https://vtrd.in/release.php?r=236fa89739437043262c66164f8f49cb) by FireSoft Group'95
+* [PCX Viewer v1.6](https://vtrd.in/release.php?r=eac46ed9f572263a2d580536730ffd0d) by Brainwave'98
+* [PCX Viewer v2.04](https://vtrd.in/release.php?r=613161f5cc729d3e2c6f6cb54824d860) by S.F.D.'97
+* [Pictures Viewer v1.11+](https://vtrd.in/release.php?r=477b005341e40ac0635fa89cf140f3c4) by Volga Soft'99
+* [Quick Screen Viewer v2.0](https://vtrd.in/release.php?r=3a1b7429025d2842d60fe66295824d15) by Inside Law'99
+* [RGB Viewer v1.01 beta](https://vtrd.in/release.php?r=cd5c2967f21fe6df10416ee39d004763) by Jack Ketch / Boundless League'01
+* [Screen Viewer v0.1](https://vtrd.in/release.php?r=619ea2fdde62eb779eaffe08ba8e29e5) by Sirius / Smash Soft Inc'96
+* [Screen Viewer v1.0b](https://vtrd.in/release.php?r=1430e004fbe7c50c701516584fb5460c) by Boy'98
+* [Screen Viewer v3.0b](https://vtrd.in/release.php?r=eec2133aa6a048aeb4cd4dc2b37297e0) by Virtual Man / X-Com'97
+* [View 1.10](https://vtrd.in/release.php?r=44a72da205364f7446f8b65ec7b2ba2f) by GriV
+* [View Screen v3.0](https://vtrd.in/release.php?r=d37fd931b4f1561d3e292ac92e003511) by Rainbow'97
+* [Viewer for 4 Grayscale BMP's](https://vtrd.in/release.php?r=6d56e1096cb64e17fc1f467e8802fb9e) by CityAceE
+* [X-Jpeg Player v0.1](https://vtrd.in/release.php?r=c176a205d10a633c7923e43da2bef2f9) by Scorpion / Real Soft Makers'05
+### Универсальные просмотрщики
+* [ArtView v1.0](https://vtrd.in/release.php?r=a8f2a7bc5d7b4fe587f1b3b6e016c92d) by n-Discovery'00
+* [BestView v2.19](https://vtrd.in/release.php?r=c153ab5b7180040cbe7a6ffce2156ca4) by Ivan Roshin'04
+* [Excess Multy Viewer v1.1 alfa](https://vtrd.in/release.php?r=b0377c8ea706017be3dfe281eaa7bb16) by Excess Team'98
+* [File Viewer v1.0 beta](https://vtrd.in/release.php?r=d8c0ba868833f07f68c1ed4bc9be1fa0) by Michael Markowsky'93
+* [Little Viewer v0.80](https://vtrd.in/release.php?r=00d3018c44f78dcb8693d9ac68968828) by SAM style'07
+* [The Viewer v1.0](https://vtrd.in/release.php?r=dcc39db3f84eed353d17ae85b24ba0c0) by Kpacku'19
+* [Глаз Вопиющего v0.0](https://vtrd.in/release.php?r=ee3e76b40de02ee5e815e1aaeaac3293) by eYe-Q'00
