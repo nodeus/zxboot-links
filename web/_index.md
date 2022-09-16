@@ -235,4 +235,3 @@ weight = 2
 * [AutoDiver](https://github.com/oisee/autodiver_go) — инструмент для подбора набросков под конвертирование графики на zx spectrum
 * [psg_compressor](https://github.com/vasilenkoroman/psg_compressor) — This software is intended to pack PSG files. It is register dump for music chip AY-3-8910
 * [zxdocs](https://github.com/ZX-Online/zxdocs) — The collection of manuals for ZX Spectrum developers and amateurs
-* [ZX Starter pack](https://github.com/errorcalc/zx_starter_pack) — Стартовый набор для вхождения в разработку под ZX Spectrum // A set of software, source codes, literature, utilities, and a build system for entering development for ZX Spectrum
