@@ -66,7 +66,6 @@ weight = 1
 * [ZX Spectrum reborn](https://t.me/zxReborn) — zx reborn чат
 ### Demoscene and retroscene other
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
-* [z80 /q11](https://t.me/joinchat/Q7uxralB1WiB9Id0) — ZX Spectrum sweet home! Темы: Z80, Spectrum, демосцена, кодинг, музыка, графика, потереть за жизнь, накидать приколов. Не благословляются: скучные и повторяющиеся офтопы, тяжелая политота, невысокий интеллект при активной гражданской позиции.
 * [/r/Demoscene](https://t.me/join?invite=AAAAAEKB8q1PGOZ48br3nA) — Demoscene from Reddit
 * [Demoscene](https://t.me/demoscenetg) — General demoscene chat (english only)
 * [Секта свидетелей ДЕДА](https://t.me/joinchat/AYIzeEVyi9mndNYtTHfRqA) — Официальный филиал СПОРТЛОТО. BOЯNДЕД (sid'ёж, pi'рдёж). Все премьеры ДЕDFLIX originals, МузыкаДляМужика и много иного угара... Вступай!
