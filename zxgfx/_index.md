@@ -66,7 +66,15 @@ weight = 5
 * [Procreate for pixelart](https://apps.apple.com/ru/app/procreate/id425073498) — paid iPadOS
 
 ## Утилиты и конвертеры
-* [Pixel Polizei](http://www.kameli.net/~marq/kode/ppolizei.zip) — free PC
+* [Image Spectrumizer](http://iki.fi/sol/zip/img2spec_40.zip) — free PC. This is a GUI tool to help convert normal images suitable to be used in ZX Spectrum (and similar devices). Note that the resolution is, by default, 256x192. Feeding the tool smaller or bigger images works, but the internal image size remains the same. (The internal resolution can be changed in options, but there are limits).
+Instead of trying to be completely automated, this tool lets you interactively adjust the source image while letting you see the results in real time. Any number of modifiers can be stacked on top of each other, and their order can be changed.
+Output can be saved as a PNG, or in raw, C header, or assembler include file.
+If wanted, the tool can be used to convert image automatically, by feeding it the input image and a workspace file on commandline, along with option to save output.
+[sources](https://github.com/jarikomppa/img2spec)
+* [Pixel Polizei](http://www.kameli.net/~marq/kode/ppolizei.zip) — Pixel Polizei is a tool for the retro/scene/retroscene artist. It lets you automatically check whether an image conforms to the color limits of a particular oldschool platform and save the result in certain native formats. The underlying idea is that you can use whatever paint program you happen to prefer for creating the images and observe – almost real-time – if you’ve made a mistake somewhere. One more fundamental bit is that the tool is multiplatform unlike many others.
+Pixel Polizei is not a paint program or a generic image format converter, even though the aim is to implement at least the most typical file types for the supported platforms. Neither is it meant to be used as a converter for random family photos. You can use it for that purpose too, but the end results won’t be as good as with dedicated tools. For converting various old formats to modern images check out the Recoil project.
+* [Recoil](https://recoil.sourceforge.net/) — RECOIL is a viewer of pictures in native formats of 20th century computers: Amiga, Amstrad CPC, Apple II, Atari 8-bit, Atari Portfolio, Atari ST/TT/Falcon, BBC Micro, Commodore VIC-20, Commodore 64, Commodore 16/116/Plus4, Commodore 128, Electronika BK, FM Towns, HP 48, Macintosh 128K, MSX, NEC PC-80, NEC PC-88, NEC PC-98, Oric, Psion Series 3, SAM Coupé, Sharp X68000, Tandy 1000, Timex 2048, TRS-80, TRS-80 Color Computer, Vector-06C, ZX81 and ZX Spectrum.
+RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [Bitmap to vector converter](https://drububu.com/tutorial/bitmap-to-vector.html) — free web. Converts your bitmap image online into a Scalable Vector Graphics or 3D model.
 * [Autodiver v2.0 by Siril'15](https://vtrd.in/pcutilz/AUTDIVER.zip) — free PC конвертер графики, подбирает наиболее подходящие сочетания соседних цветов для конверсии
 * [3D-View v03.1 by Andrew771'11, MaxxWell'18](https://vtrd.in/pcutilz/3DV031.zip) — free PC утилита для построения 3D-перспективных проекций (Windows)
@@ -132,6 +140,7 @@ weight = 5
 * [ZXFont by Reanimator'18](https://vtrd.in/pcutilz/ZXFONTSH.zip) — free PC редактор ZX Spectrum шрифтов
 * [ZXGet Screen$ by Oleg Origin'10](https://vtrd.in/pcutilz/ZXGETSCR.ZIP) — free PC утилита для поиска ZX Spectrum экранов в образе TRD, с возможностью сохранения в формате BMP
 * [zxsc v3e by Tom Dalby'21](https://vtrd.in/pcutilz/ZXSC_V3E.zip) — free PC/Mac/Linux компрессор ZX Spectrum графики
+* [ZX-Extractor 2](http://fight.pp.ua/examples/zx-extractor2/) — Поиск спрайтов в играх
 
 ## Графические редакторы и утилиты на zx spectrum
 ### Редакторы

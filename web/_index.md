@@ -164,8 +164,6 @@ weight = 2
 ### GFX Blogs and own sites
 * [Gas13 | pixelart artist](http://gas13.ru/) — Личный сайт пиксельарт художника Gas13
 * [Unomoralez | pixelart artist](http://unomoralez.com/) — Личный сайт пиксельарт художника Unomoralez
-### GFX Tools
-* [ZX-Extractor 2](http://fight.pp.ua/examples/zx-extractor2/) — Поиск спрайтов в играх
 
 ## Press, wiki, info
 * [Speccy info | Wiki](http://speccy.info) — Speccy wiki
