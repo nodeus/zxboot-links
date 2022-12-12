@@ -81,7 +81,7 @@ weight = 1
 * [8bit.fm](https://t.me/bit8fm) — Online radio 8bit.fm
 #### Amiga
 * [Vamped Amiga](https://t.me/vampedamiga) — Welcome to the Vamped Amiga Super Group (chat)! Act like great Amigans
-* [#amigarus | Наша Амига](https://t.me/amigarus) — amiga.org.ru (группа русских амижников)
+* [AmigaRu](https://t.me/amigaru) — Русскоязычные амижники
 #### БК
 * [BK0010_11m](http://t.me/bk0010_11m) — БК 0010, 0010Ш, 0010-01, 0011, 0011М. БКшки, которые мы любим
 * [БК0010/11М (без политоты)](https://t.me/bk11m) — Группа обсуждения Персональных Компьютеров семейства БК
