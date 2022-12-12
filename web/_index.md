@@ -138,6 +138,7 @@ weight = 2
 * [Roland radio stream](http://streaming.rolandradio.net/rolandradio) — 256k-MP3
 * [Kaaosradio 24h Chiptune stream](http://stream.kaaosradio.fi:8000/chip) — 224k-MP3
 * [It8bit](https://radio.it8bit.club/) — RetroBit Radio
+* [ZX Spectrum radio](https://zxspectrumradio.com) — 24/7 Live-Streaming Internet Radio Station Playing Beeper, AY & Digital Tunes
 ### Music articles
 * [Управление громкостью огибающей YM2149](https://telegra.ph/Upravlenie-gromkostyu-ogibayushchej-YM2149-05-11) — karbofos
 * [VT — Огибающая для самых маленьких](https://telegra.ph/ogiba-dlya-samyh-malenkih-03-14) — karbofos
