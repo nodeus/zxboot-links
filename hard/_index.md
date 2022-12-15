@@ -15,7 +15,7 @@ weight = 4
 * [zesarux](https://github.com/chernandezba/zesarux) — ZX Second-Emulator And Released for UniX. Created by Cesar Hernandez Bano. It's a ZX Machines Emulator for UNIX based operating systems (and Windows), including all the Sinclair computers.
 * [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator - Virtual Machine.
 * [M.A.M.E.](https://www.mamedev.org/) — MAME is a multi-purpose emulation framework.
-* [Unreal (tslab)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) — Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution.
+* [Unreal (tslabs)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) — Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution.
 
 ## Emulators Z80
 * [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
