@@ -35,7 +35,7 @@ weight = 5
 * [Krita](https://krita.org/en/) — free PC/Mac/Linux
 * [Photoshop](https://www.adobe.com/ru/products/photoshop.html) paid PC/Mac
 * **Pixel studio** — free/paid PC/Mac [Steam](https://store.steampowered.com/app/1204050/Pixel_Studio_for_pixel_art/) [MS Store](https://www.microsoft.com/en-us/p/pixel-studio/9p7xs7vh1r3j?activetab=pivot:overviewtab)
-* [Pixel Proof](https://dinomage.itch.io/pixel-proof) paid PC/Mac/Linux
+* [Pixel Proof](https://dinomage.itch.io/pixel-proof) — paid PC/Mac/Linux
 
 ## Графические редакторы с поддержкой формата экрана
 * [Multipaint 2020.2 by Dr. TerrorZ'20](https://vtrd.in/pcutilz/MULPAINT.zip) — free PC/Mac/Linux графический редактор [site](http://multipaint.kameli.net/)
@@ -49,11 +49,11 @@ weight = 5
 * [Multicolor Fli Editor v2.5 build 1 by CyberPunks Unity'03](https://vtrd.in/pcutilz/MFLI.zip) — free PC редактор мултиколорной графики
 * [SpecSCII editor v1.7b by Kordial, dman'18](https://vtrd.in/pcutilz/SPECSCII.zip) — free PC редактор ZX Spectrum UDG графики
 
-### Графические редакторы онлайн
+## Графические редакторы онлайн
 * [53с chunkypaint](http://53c.verve.space/) — онлайн редактор 53c
 * [53c Chunkypaint](https://53c.nw-lab.com) — онлайн редактор 53c (клон)
 * [Stellarpaint](https://irrlichtproject.de/stellarpaint)
-* 
+
 ## Графические редакторы для мобильных устройств
 * **Pixel studio** — paid iOS/Android [PlayStore](https://play.google.com/store/apps/details?id=com.PixelStudio) [AppStore](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Fps_appstore)
 * [Pixaki](https://pixaki.com) — paid iOS
