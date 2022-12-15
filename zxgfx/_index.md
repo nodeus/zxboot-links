@@ -64,6 +64,7 @@ weight = 5
 [NintendoStore 3DS](https://www.nintendo.com/games/detail/pixelmaker-3ds/) [NintendoStore WiiU](https://www.nintendo.com/games/detail/pixelmaker-wii-u/) [AmazonAppStore](https://www.amazon.com/Nostatic-Software-PixelMaker/dp/B01FRG0W7M)
 * [Affinity Photo for pixelart](https://apps.apple.com/ru/app/affinity-photo/id1117941080) — paid iPadOS
 * [Procreate for pixelart](https://apps.apple.com/ru/app/procreate/id425073498) — paid iPadOS
+* [Krita](https://krita.org/en/item/first-krita-beta-for-android-and-chromeos-in-play-store/) — free Android Tablet [F-Droid](https://f-droid.org/packages/org.krita/) [PlayStore](https://play.google.com/store/apps/details?id=org.krita)
 
 ## Утилиты и конвертеры
 * [Image Spectrumizer](http://iki.fi/sol/zip/img2spec_40.zip) — free PC. This is a GUI tool to help convert normal images suitable to be used in ZX Spectrum (and similar devices). Note that the resolution is, by default, 256x192. Feeding the tool smaller or bigger images works, but the internal image size remains the same. (The internal resolution can be changed in options, but there are limits).
