@@ -16,11 +16,11 @@ weight = 4
 * [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator - Virtual Machine.
 * [M.A.M.E.](https://www.mamedev.org/) — MAME is a multi-purpose emulation framework.
 * [Unreal (tslabs)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) — Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution.
-
+* [SpecEmu](http://www.emucr.com/2022/02/specemu-v32-build-20220221.html?m%3D1) — SpecEmu emulator (for snow/rain "enable ula snow")
+* [Online emulator in browser](https://zxn.ru) — Z80 assembler, disassembler, hex/dec/bin convertor, ZX spectrum emulator in browser
 ## Emulators Z80
 * [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
 * [Visualz80 Remix](https://floooh.github.io/visualz80remix/) — очень точная (но медленная) визуальная эмуляция z80
-
 ## Hardware
 * [speccy4ever](https://speccy4ever.speccy.org/) — дампы ПЗУ
 * [ZIFI ZX Evo](http://ts.retropc.ru/) — ZIFI-КЛИЕНТ ДЛЯ ДОСТУПА К ИНТЕРНЕТ-РЕСУРСАМ

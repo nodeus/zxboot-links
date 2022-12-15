@@ -58,7 +58,6 @@ weight = 2
 * [Tom Dalby](https://www.tomdalby.com/) — Tom`s homepage (retro computing projects and coding)
 * [Черный форум BK0010](http://bk0010.forum20.ru/forum/) — форум посвященный эмуляторам БК0100
 * [Amiga Information Center](http://www.amiga.org.ru/) — информационный портал для пользователей компьютера Амига
-
 ## Video
 ### Video blogs
 * [Дмитрий Бачило («16 бит тому назад», «кремниевые титаны» и др.)](https://www.youtube.com/user/BachiloDmitry) — Этот канал в основном посвящен обзорам всякого старого железа и софта, впрочем не только старого.
@@ -152,20 +151,21 @@ weight = 2
 * [Vortex Tracker AY YM 4 drunkdummies](https://youtu.be/xWbSuihmCfY) — Видеоурок по созданию трека в Vortex Tracker
 * [Основы работы в Vortex Tracker. Часть 1](https://www.youtube.com/watch?v=oV-rTCeFU7c) — Kakos Nonos
 * [Пишем Turbo Sound трек в Vortex tracker с нуля](https://www.youtube.com/watch?v=h2FLaBeG4GM) — Voxel/3umf
-
 ## Graphics
 ### GFX archieves
 * [ZXART | zx graphics archive](http://zxart.ee/eng/graphics/) — ZX Spectrum graphics archive
 * [ZXART bugreports](https://zxart.convas.io/) — Багтрекер ZXART. Если хотите, чтобы на zx-art что-то поменялось или исправилось, добавляйте в список.
 Самым проголосованным фичам будет отдаваться приоритет.
 * [Artcity | graphics archive](http://artcity.bitfellas.org/) — Biggest demoscene graphics archive
+* [zx spectrum fonts 1 (Jim blimey)](https://www.jimblimey.com/blog/24-zx-spectrum-fonts/)
+* [zx spectrum fonts 2 (Jim blimey)](https://www.jimblimey.com/blog/32-more-zx-spectrum-fonts/)
+* [zx origins](https://damieng.com/typography/zx-origins/) — 8x8 pixel fonts
 ### GFX Communities
 * [Pixeljoint | pixelart archive](http://pixeljoint.com/) — Big pixelart community
 * [Deviant Art | art community](https://www.deviantart.com/) — Big digital art community
 ### GFX Blogs and own sites
 * [Gas13 | pixelart artist](http://gas13.ru/) — Личный сайт пиксельарт художника Gas13
 * [Unomoralez | pixelart artist](http://unomoralez.com/) — Личный сайт пиксельарт художника Unomoralez
-
 ## Press, wiki, info
 * [Speccy info | Wiki](http://speccy.info) — Speccy wiki
 * [Техническая литература | scans](http://home.onego.ru/~bav9/87.html) — Техническая литература
@@ -178,7 +178,6 @@ weight = 2
 * [Журнал «DOWNGRADE»](http://dgmag.in/) — Журнал «DOWNGRADE» — Старое программное обеспечение.
 * [Gamergy | e-paper](http://gamergy.ru/) — Gamergy — electronic newspaper about games on zx-spectrum
 * [ZX Golden years | zx spectrum 1982 — 1986](https://www.zxgoldenyears.org/) — Reviews, stories and interviews from the ZX Spectrum's golden years: 1982-1986
-
 ## Groups, sceners, peoples
 * [PROGRESS | group](http://pgs-hq.narod.ru/info.html) — PROGRESS — 8bit demomakers team site
 * [Cyber Punx Unity | group](http://cpu.untergrund.net/) — We are CPU
@@ -205,7 +204,6 @@ weight = 2
 * [zx-wanderer site](https://zxwanderer.github.io/) — Some zx spectrum stuff
 * [Notsoft](http://notsoft.ru/) — Сайт группы NOTSoft. Посвящается ретрокомпьютеру ZX Spectrum, печатным изданиям о нём и, в частности, журналу ЗaRulem от группы NOT-Soft
 * [N10Team](http://n10team.itch.io) — Студия N10 Team
-
 ## DISCORD links
 * [ZX Spectrum](https://discord.gg/rSeXp6xFPd) — Alone coder и все, все, все
 * [demoscene](https://discord.gg/THPy9fFM) — Welcome to the Discord Server for the Demoscene! (Eng. language preferred!)
@@ -214,11 +212,9 @@ weight = 2
 * [Sprinter computer](https://discord.gg/x59TnYWkSN) — Sprinter discord server
 * [Speccy Software](https://discord.gg/dZm6TQrv) — zx spectrum software
 * [Torn metal](https://discord.gg/2BZ3FQFV) — Torn metal discord server
-
 ## Mobile Apps
 ### Andriod Play store
 * [z80sky](https://play.google.com/store/apps/details?id=ru.z80sky&hl=en&gl=US) — Cправочное приложение с описанием всех опкодов Z80 и Z80N в удобном прокручиваемом списке. Доступ к краткому  обзору: мнемоника, байты, такты и флаги
-
 ## GitHub repos
 * [VortexTracker 2.6](https://github.com/ivanpirog/vortextracker) — VortexTracker 2.6 dev 18
 * [ZX Flash animation for Aseprite](https://github.com/AlRado/ZX-flash-animation) — The Aseprite tools to create and import/export ZX-Spectrum flash animation .scr (no pixels, only attributes)
