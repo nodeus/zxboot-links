@@ -144,6 +144,7 @@ RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [ZXGet Screen$ by Oleg Origin'10](https://vtrd.in/pcutilz/ZXGETSCR.ZIP) — free PC утилита для поиска ZX Spectrum экранов в образе TRD, с возможностью сохранения в формате BMP
 * [zxsc v3e by Tom Dalby'21](https://vtrd.in/pcutilz/ZXSC_V3E.zip) — free PC/Mac/Linux компрессор ZX Spectrum графики
 * [ZX-Extractor 2](http://fight.pp.ua/examples/zx-extractor2/) — Поиск спрайтов в играх
+* [zx gimp plugins](https://github.com/UriShap/ZX_GIMP_plugins) — плагин для gimp-а, позволяющий читать и сохранять файлы прямо в .scr формате (при этом цвет (255, 127, 0) выводится как скрытые пиксели
 
 ## Графические редакторы и утилиты на zx spectrum
 ### Редакторы
