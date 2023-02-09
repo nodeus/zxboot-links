@@ -10,13 +10,14 @@ weight = 1
 
 # Telegram groups
 ### Demoparty
-* [Chaos Constructions Demo\Retro](https://t.me/chaosconstructions) — Демопати Сhaos constructions
-* [Multimatograf](https://t.me/multimatograf) — Multimatograf demoparty
-* [DiHalt Demoparty](https://t.me/dihaltdemoparty) — DiHalt demoparty
-* [CAFePARTY](https://t.me/CAFe_Demoparty) — CAFe demoparty
-* [CSP anti chat](https://t.me/csp_chatiq) — Crazy Siberian Party
-* [Out Of Compo](https://t.me/ooc_chat) — Общение про Out Of Compo
 * [БуChaos](https://t.me/buhaos) — Неформально абьюзивное объединение ламповых Спектрумистов и Амижников
+* [CAFePARTY](https://t.me/CAFe_Demoparty) — CAFe demoparty
+* [Chaos Constructions Demo\Retro](https://t.me/chaosconstructions) — Демопати Сhaos constructions
+* [CSP anti chat](https://t.me/csp_chatiq) — Crazy Siberian Party
+* [Demodulation](https://t.me/demodulation_festival) — Сообщество участников фестиваля «Демодуляция», ретроэнтузиастов и демосценеров
+* [DiHalt Demoparty](https://t.me/dihaltdemoparty) — DiHalt demoparty
+* [Multimatograf](https://t.me/multimatograf) — Multimatograf demoparty
+* [Out Of Compo](https://t.me/ooc_chat) — Общение про Out Of Compo
 * [Undefined](https://t.me/undefined_diy_fest) — Фестиваль демосцены, ретро-компьютеров и всего остального
 ### ZX gfx
 * [zxgfx](https://t.me/zxgfx) — ZX Spectrum Graphics
@@ -89,6 +90,7 @@ weight = 1
 * [ПЭВМ АГАТ](https://t.me/pevm_agat) — ПЭВМ АГАТ
 #### Atari
 * [Atari XL/XE](https://t.me/atari_xl_xe) — Atari 8bit computer community
+* [Atari corner](https://t.me/atari_corner) — Тематический чат ATARI, в закрепе есть ссылка на обменник со всем необходимым для ST/STe/Falcon. Гигабайты хорошо отсортированного софта и игр из свежего TOSEC - без брака и дублей. Уникальная подборка HDD-адаптированных игр. Скоро займёмся и 8-битными девайсами
 #### PDP
 * [Ru_PDP](https://t.me/ru_pdp) — Чат посвященный компьютерам Digital Equipment PDP (RUS)
 #### 8080 \ 8085
