@@ -65,8 +65,10 @@ weight = 1
 * [CP/M](https://t.me/CPM_80) — Группа фанатов ОС СР/М , спектрумов-хуектрумов и им сочувствующих
 * [Virtual TR-DOS](https://t.me/vtrdin) — Virtual TR-DOS and Speccy software related
 * [ZX Spectrum reborn](https://t.me/zxReborn) — zx reborn чат
+* [ZX Spectrum [RU] (only ontopic)](https://t.me/zxspectrum_ru) — Группа по общению на любые темы о ZX Spectrum
+* [Bleep Market](https://t.me/bleepmarket) — Продажа, покупка и обмен компьютерной техники и переферии выпущенной до 2000г.
 ### Demoscene and retroscene other
-* [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
+* [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
 * [/r/Demoscene](https://t.me/join?invite=AAAAAEKB8q1PGOZ48br3nA) — Demoscene from Reddit
 * [Demoscene](https://t.me/demoscenetg) — General demoscene chat (english only)
 * [Секта свидетелей ДЕДА](https://t.me/joinchat/AYIzeEVyi9mndNYtTHfRqA) — Официальный филиал СПОРТЛОТО. BOЯNДЕД (sid'ёж, pi'рдёж). Все премьеры ДЕDFLIX originals, МузыкаДляМужика и много иного угара... Вступай!
@@ -137,3 +139,5 @@ weight = 1
 * [Hyperadio bot](https://t.me/hyperadio_bot) — Nowplay, download, request, convert chiptunes
 * [КОН ВЕР ТЕР](https://t.me/zxconvbot) — Конвертер pt3 —> mp3
 * [hype.retroscene.org news](https://t.me/hyprbot) — Бот с новостями hype.retroscene.org
+* [ZXFox_bot](https://t.me/zx_fox_bot) — конвертирование графики, запуск бейсик программ
+* [ZXART getter](https://t.me/ZXArtGetterBot) — Getting random Pixel Art or Chiptune Music! ZX Spectrum retro platform. Bot for «ZX Spectrum Art Daily» channel.
