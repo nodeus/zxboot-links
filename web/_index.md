@@ -15,6 +15,7 @@ weight = 2
 * [DiHalt](http://www.dihalt.org.ru/) — DiHalt demoparty
 * [CAFe](https://cafeparty.org.ru/) — CAFe demoparty
 * [БуChaos](https://buhaos.ru) — Неформально абьюзивное объединение ламповых Спектрумистов и Амижников
+* [Revision](https://2023.revision-party.net/) — [Revision twich](https://www.twitch.tv/revisionparty)
 ## Soft and file archieves
 * [Virtual tr-dos](http://vtrd.in/) — Архив программ для zx spectrum
 * [ZXAAA](https://zxaaa.net) — Архив демо, интро, поддерживаемый AAA
@@ -154,12 +155,12 @@ weight = 2
 ## Graphics
 ### GFX archieves
 * [ZXART | zx graphics archive](http://zxart.ee/eng/graphics/) — ZX Spectrum graphics archive
-* [ZXART bugreports](https://zxart.convas.io/) — Багтрекер ZXART. Если хотите, чтобы на zx-art что-то поменялось или исправилось, добавляйте в список.
-Самым проголосованным фичам будет отдаваться приоритет.
+* [ZXART bugreports](https://zxart.convas.io/) — Багтрекер ZXART. Если хотите, чтобы на zx-art что-то поменялось или исправилось, добавляйте в список. Самым проголосованным фичам будет отдаваться приоритет.
 * [Artcity | graphics archive](http://artcity.bitfellas.org/) — Biggest demoscene graphics archive
 * [zx spectrum fonts 1 (Jim blimey)](https://www.jimblimey.com/blog/24-zx-spectrum-fonts/)
 * [zx spectrum fonts 2 (Jim blimey)](https://www.jimblimey.com/blog/32-more-zx-spectrum-fonts/)
 * [zx origins](https://damieng.com/typography/zx-origins/) — 8x8 pixel fonts
+* [pixel fonts](https://disk.yandex.ru/d/PEHab30JruCNFg) — пиксельные шрифты (png, gif)
 ### GFX Communities
 * [Pixeljoint | pixelart archive](http://pixeljoint.com/) — Big pixelart community
 * [Deviant Art | art community](https://www.deviantart.com/) — Big digital art community
