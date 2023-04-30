@@ -49,7 +49,7 @@ weight = 5
 * [Multicolor Fli Editor v2.5 build 1 by CyberPunks Unity'03](https://vtrd.in/pcutilz/MFLI.zip) — free PC редактор мултиколорной графики
 * [SpecSCII editor v1.7b by Kordial, dman'18](https://vtrd.in/pcutilz/SPECSCII.zip) — free PC редактор ZX Spectrum UDG графики
 
-## Графические редакторы онлайн
+### Графические редакторы с поддержкой формата экрана онлайн
 * [53с chunkypaint](http://53c.verve.space/) — онлайн редактор 53c
 * [53c Chunkypaint](https://53c.nw-lab.com) — онлайн редактор 53c (клон)
 * [Stellarpaint](https://irrlichtproject.de/stellarpaint)
