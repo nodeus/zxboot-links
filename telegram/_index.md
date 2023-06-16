@@ -68,6 +68,7 @@ weight = 1
 * [ZX Spectrum [RU] (only ontopic)](https://t.me/zxspectrum_ru) — Группа по общению на любые темы о ZX Spectrum
 * [Bleep Market](https://t.me/bleepmarket) — Продажа, покупка и обмен компьютерной техники и переферии выпущенной до 2000г.
 * [Кибер-музей в Муроме](https://t.me/museum_computer) — Официальная группа  музея для общения и любых вопросов (сайт http://museum.computer/)
+* [Retro Development](https://t.me/RetroDevelopment) — Если случайно вы что-то делает интересное в ретро теме и хотите делиться своим прогрессом и получать обратную связь, то вам сюда.
 ### Demoscene and retroscene other
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
 * [/r/Demoscene](https://t.me/join?invite=AAAAAEKB8q1PGOZ48br3nA) — Demoscene from Reddit
@@ -142,3 +143,4 @@ weight = 1
 * [hype.retroscene.org news](https://t.me/hyprbot) — Бот с новостями hype.retroscene.org
 * [ZXFox_bot](https://t.me/zx_fox_bot) — конвертирование графики, запуск бейсик программ
 * [ZXART getter](https://t.me/ZXArtGetterBot) — Getting random Pixel Art or Chiptune Music! ZX Spectrum retro platform. Bot for «ZX Spectrum Art Daily» channel.
+* [cafeparty_video_bot](https://t.me/DemosceneVideoBot) — random demoscene video from youtube

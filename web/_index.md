@@ -64,7 +64,7 @@ weight = 2
 * [Дмитрий Бачило («16 бит тому назад», «кремниевые титаны» и др.)](https://www.youtube.com/user/BachiloDmitry) — Этот канал в основном посвящен обзорам всякого старого железа и софта, впрочем не только старого.
 * [AsteroideZX](https://www.youtube.com/channel/UC2xYxR_LCpHtLz9v5UZrjiQ) — BIENVENID@S al "AsteroideZX" Espacio de VideoJuegos. Canal comentado de contenido retro y actual. Gameplays ARCADE, ATARI, GAME&WATCH, SPECTRUM, AMSTRAD, MS-DOS, PLAYSTATION, PC, ONLINE, Tutoriales ZX BASIC, etc.
 * [Ivan Avdeev personal | code some realtime stuff](https://www.youtube.com/user/floba23) — I like to code some weird realtime stuff. Mostly OpenGL and cross-platform as fuck.
-* [sinc LAIR](https://www.youtube.com/channel/UChC1Gcl-1bOkNPPzN_owcVg) — Канал посвящён нашему любимому компьютеру ZX Spectrum и всему, что с ним связано.
+* [sincLAIR_Next](https://www.youtube.com/@sincLAIR_Next) — sincLAIR_Next — канал о нашем любимом компьютере ZX Spectrum и всему, что с ним связано!
 * [Arnau Jess](https://www.youtube.com/channel/UCAz8lXjzd8TZkbbID_qSakA) — ZX Spectrum y sus juegos pasión. Speccy and passionate games. Subscribe to my channel and enjoys the ZX Spectrum differently Retrogamers time!
 * [Hobbies, Inside And Not Only](https://www.youtube.com/channel/UCpdaFDTRcqvCMRt2YqeEvUQ) — ZX Evo сборка, прошивка.
 * [zx spectrum programming](https://www.youtube.com/playlist?list=PL3e88tGs8UviryIoFNa1pJZDN6mJwsiIR) — Программирование на zx spectrum (Пьяная муха).
