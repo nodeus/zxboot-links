@@ -123,9 +123,9 @@ weight = 2
 * [Scene podcast archive](https://mega.nz/folder/CJNAmSgD#Y1LIMMsHqX5Zw2Iye2p_Fw) — Архив подкаста Scene
 ### Online radio
 * [Hyperadio site](https://hyperadio.retroscene.org/) — Demoscene radio
-* [Hyperadio stream 1](http://hyperadio.ru:8000/live.m3u) —  128k-MP3
-* [Hyperadio stream 2](http://hyperadio.ru:8000/live2.m3u) —  128k-OGG
-* [Nectarine site](https://www.scenemusic.eu/demovibes/) — This site is a tribute to all the great computer & demoscene artists. We stream their music for you 24/7.
+* [Hyperadio stream 1](http://hyperadio.ru:8000/live.m3u) — 128k-MP3
+* [Hyperadio stream 2](http://hyperadio.ru:8000/live2.m3u) — 128k-OGG
+* [Nectarine site](https://www.scenemusic.eu/demovibes/) — This site is a tribute to all the great computer & demoscene artists. We stream their music for you 24/7.
 * [Nectarine streams page](https://www.scenemusic.eu/demovibes/streams/)
 * [Nectarine stream](http://nectarine.inversi0n.org:8000/necta192.mp3.m3u) — 192k-MP3
 * [8bit fm stream](http://8bit.fm:8000/ay) — 128k-MP3
@@ -138,7 +138,7 @@ weight = 2
 * [Roland radio stream](http://streaming.rolandradio.net/rolandradio) — 256k-MP3
 * [Kaaosradio 24h Chiptune stream](http://stream.kaaosradio.fi:8000/chip) — 224k-MP3
 * [It8bit](https://radio.it8bit.club/) — RetroBit Radio
-* [ZX Spectrum radio](https://zxspectrumradio.com) — 24/7 Live-Streaming Internet Radio Station Playing Beeper, AY & Digital Tunes
+* [ZX Spectrum radio](https://zxspectrumradio.com) — 24/7 Live-Streaming Internet Radio Station Playing Beeper, AY & Digital Tunes
 ### Music articles
 * [Управление громкостью огибающей YM2149](https://telegra.ph/Upravlenie-gromkostyu-ogibayushchej-YM2149-05-11) — karbofos
 * [VT — Огибающая для самых маленьких](https://telegra.ph/ogiba-dlya-samyh-malenkih-03-14) — karbofos
@@ -155,7 +155,7 @@ weight = 2
 ## Graphics
 ### GFX archieves
 * [ZXART | zx graphics archive](http://zxart.ee/eng/graphics/) — ZX Spectrum graphics archive
-* [ZXART bugreports](https://zxart.convas.io/) — Багтрекер ZXART. Если хотите, чтобы на zx-art что-то поменялось или исправилось, добавляйте в список. Самым проголосованным фичам будет отдаваться приоритет.
+* [ZXART bugreports](https://zxart.convas.io/) — Багтрекер ZXART. Если хотите, чтобы на zx-art что-то поменялось или исправилось, добавляйте в список. Самым проголосованным фичам будет отдаваться приоритет.
 * [Artcity | graphics archive](http://artcity.bitfellas.org/) — Biggest demoscene graphics archive
 * [zx spectrum fonts 1 (Jim blimey)](https://www.jimblimey.com/blog/24-zx-spectrum-fonts/)
 * [zx spectrum fonts 2 (Jim blimey)](https://www.jimblimey.com/blog/32-more-zx-spectrum-fonts/)
@@ -189,7 +189,7 @@ weight = 2
 * [Triumph | group](http://triumph.hop.ru/index.html) — Официальный сайт группировки Triumph
 * [Placebo | group](http://placebo.untergrund.net/) — Placebo demo group
 * [Alone Coder](http://alonecoder.nedopc.com/) — Alone Coder webpage
-* [THD | group](https://www.thd.ru/) — THD — программы и игры для zx spectrum
+* [THD | group](https://www.thd.ru/) — THD — программы и игры для zx spectrum
 * [MoNaRcH](http://monarch-art.ucoz.ru/) — Monarch home page
 * [Omega Hackers Group](http://omegahg.com/) — Omega Hackers Group
 * [Shiru](http://shiru.untergrund.net/) — Shiru webpage
@@ -230,4 +230,4 @@ weight = 2
 * [AutoSiril](https://github.com/oisee/autosiril) — инструмент для удобного и эффективного конвертирования MIDI-файлов в текстовый формат VortexTracker (с последующей возможностью конвертирования в PT3)
 * [AutoDiver](https://github.com/oisee/autodiver_go) — инструмент для подбора набросков под конвертирование графики на zx spectrum
 * [psg_compressor](https://github.com/vasilenkoroman/psg_compressor) — This software is intended to pack PSG files. It is register dump for music chip AY-3-8910
-* [zxdocs](https://github.com/ZX-Online/zxdocs) — The collection of manuals for ZX Spectrum developers and amateurs
+* [zxdocs](https://github.com/ZX-Online/zxdocs) — The collection of manuals for ZX Spectrum developers and amateurs
