@@ -69,6 +69,7 @@ weight = 1
 * [Bleep Market](https://t.me/bleepmarket) — Продажа, покупка и обмен компьютерной техники и переферии выпущенной до 2000г.
 * [Кибер-музей в Муроме](https://t.me/museum_computer) — Официальная группа  музея для общения и любых вопросов (сайт http://museum.computer/)
 * [Retro Development](https://t.me/RetroDevelopment) — Если случайно вы что-то делает интересное в ретро теме и хотите делиться своим прогрессом и получать обратную связь, то вам сюда.
+* [ZX_MURMULATOR](https://t.me/ZX_MURMULATOR) - Основная тема - эмуляторы спектрум совместимых компьютеров. Но и смежные тематики по ZX Spectrum'у не осуждаются.
 ### Demoscene and retroscene other
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
 * [/r/Demoscene](https://t.me/join?invite=AAAAAEKB8q1PGOZ48br3nA) — Demoscene from Reddit
