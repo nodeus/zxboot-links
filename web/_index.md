@@ -110,6 +110,11 @@ weight = 2
 * [ZXART | music archive](http://zxart.ee/rus/muzyka/) — Архив музыки, графики и программ
 ### Music soft
 * [ZXTUNE — chiptune player](https://zxtune.bitbucket.io/) — Crossplatform chiptune player
+* [Arkos Tracker](http://www.julien-nevo.com/arkostracker/) — Ultimate musical tool (or "Tracker") for 8/16-bit computers from the 80's, such as Amstrad CPC, Atari ST/XE/XL, ZX Spectrum, MSX, Oric, Apple 2, Vectrex, and SHARP MZ-700! Cross-platform (Windows, Linux, Mac).
+* [CHIPNSFX tracker+player suite](http://cngsoft.no-ip.org/chipnsfx.htm) — Musical software suite focused on lightweight code and data (the player itself is under 950 bytes long, and can be as small as 550 bytes) for the Amstrad CPC, Sinclair Spectrum 128 and MSX1 platforms
+* [LnxTracker](https://www.ilnx.cz/lnxtr/) — ProTracker type music editor, supporting AY 3-891x and SAA1099 sound chips . It is primarily intended for creating music and sound for games on ZX Spectrum computers, or other computers based on Z80 processors (such as SamCoupé and others).
+* [WYZTracker](https://github.com/AugustoRuiz/WYZTracker) — Tool developed by Augusto Ruiz, from Retroworks, that can be used to compose music for [WYZ's Player](https://github.com/AugustoRuiz/WYZPlayer) - Z80 assembly coded player for AY-3-8912, the chip present in MSX, Spectrum, CPC and Atari ST computers.
+* [SAA1099Tracker](https://saa1099tracker.borik.net/) — Progressive web application of chiptune music tracker for Philips SAA 1099 soundchip with 6 channels which was used in some 8bit computers. [GitHub](https://github.com/mborik/SAA1099Tracker)
 ### Music bands and musicians
 * [Mister Beep | musician](http://mister_beep.republika.pl/) — I'm Mister Beep. I make micromusic/chiptunes but it's not typical micromusic. It is real ONE BIT music made using TIMEX 2048 (48Kb of RAM) and its BEEPER
 * [MmcM Studio | musician](http://mmcm.ru/) — MmcM homepage
