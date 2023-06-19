@@ -28,7 +28,7 @@ weight = 4
 * [M.CU.M.E](https://github.com/Jean-MarcHarvengt/MCUME) — M.CU.M.E = Multi CompUter Machine Emulator. A collection of 80th game Console and Computer emulators ported to Teensy, raspberry PICO and ESP32 MCUs.
 * [Unreal (tslabs)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) — Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution.
 * [CSpect](http://www.cspect.org/) — Emulates many features of the Next and includes a fully featured debugger, complete with 24bit breakpoints and an assembler.
-* [SpecEmu](http://www.emucr.com/2022/02/specemu-v32-build-20220221.html?m%3D1) — SpecEmu emulator (for snow/rain "enable ula snow").
+* [SpecEmu](https://specemu.zxe.io/) — SpecEmu emulator (for snow/rain "enable ula snow").
 * [Online emulator in browser](https://zxn.ru) — Z80 assembler, disassembler, hex/dec/bin convertor, ZX spectrum emulator in browser.
 * [RVMPlayer](https://www.retrovirtualmachine.org/rvmplayer/) — Embedable emulator of Amstrad CPC and ZX Spectrum.
 * [Sprinter Sp2000](https://emu.sprinter.ru/) — Online Sprinter 2000 Emulator.
