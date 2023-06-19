@@ -24,17 +24,17 @@ weight = 4
 * [X128](https://x128.speccy.cz/x128wip/x128wip.htm) - WIP Windows Version.
 * [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/) — Emulator for the range of ZX home computers made by Sinclair Research (and their clones) in the 1980s, primarily the ZX80 and ZX81 but also includes the ZX Spectrum models.
 * [Plus-F](http://plus-f.socialthingy.com/) — A ZX Spectrum emulator with network play capabilities.
-* [M.A.M.E.](https://www.mamedev.org/) — MAME is a multi-purpose emulation framework.
+* [M.A.M.E.](https://www.mamedev.org/) — Multi-purpose emulation framework.
 * [RetroArch](https://www.retroarch.com/index.php) — Бесплатный кроссплатформенный интерфейс с открытым исходным кодом для эмуляторов различных платформ. ZX Spectrum эмулируется через ядро FUSE.
-* [M.CU.M.E](https://github.com/Jean-MarcHarvengt/MCUME) — M.CU.M.E = Multi CompUter Machine Emulator. A collection of 80th game Console and Computer emulators ported to Teensy, raspberry PICO and ESP32 MCUs.
+* [M.CU.M.E](https://github.com/Jean-MarcHarvengt/MCUME) — Multi CompUter Machine Emulator. A collection of 80th game Console and Computer emulators ported to Teensy, raspberry PICO and ESP32 MCUs.
 * [Unreal (tslabs)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) — Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution.
 * [CSpect](http://www.cspect.org/) — Emulates many features of the Next and includes a fully featured debugger, complete with 24bit breakpoints and an assembler.
 * [SpecEmu](https://specemu.zxe.io/) — SpecEmu emulator (for snow/rain "enable ula snow").
 * [Online emulator in browser](https://zxn.ru) — Z80 assembler, disassembler, hex/dec/bin convertor, ZX spectrum emulator in browser.
 * [RVMPlayer](https://www.retrovirtualmachine.org/rvmplayer/) — Embedable emulator of Amstrad CPC and ZX Spectrum.
 * [Sprinter Sp2000](https://emu.sprinter.ru/) — Online Sprinter 2000 Emulator.
-* [ZXDS](http://zxds.raxoft.cz/) — ZXDS is an emulator of Sinclair ZX Spectrum for Nintendo DS and 3DS, written by Patrik Rak. It accurately emulates Spectrum 48k, 128k, +2/+2A/+3, and Pentagon.
-* [ZXVita](https://vitadb.rinnegatamante.it/#/info/478) — ZXVita is a Sinclair ZX Spectrum 48k emulator for the PSVita.
+* [ZXDS](http://zxds.raxoft.cz/) — Emulator of Sinclair ZX Spectrum for Nintendo DS and 3DS, written by Patrik Rak. It accurately emulates Spectrum 48k, 128k, +2/+2A/+3, and Pentagon.
+* [ZXVita](https://vitadb.rinnegatamante.it/#/info/478) — Sinclair ZX Spectrum 48k emulator for the PSVita.
 * [Fuse PSP](http://psp.akop.org/fuse.htm) — Sinclair Spectrum emulator for PlayStation Portable.
 ## Emulators Z80
 * [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
