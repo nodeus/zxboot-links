@@ -19,8 +19,9 @@ weight = 4
 * [Speccy](https://fms.komkon.org/Speccy/) — Portable Sinclair ZX Spectrum and Sam Coupe Emulator by Marat Fayzullin. It runs under Windows/Linux/Android/MS-DOS/Symbian/Maemo
 * [RETRO Virtual Machine](https://www.retrovirtualmachine.org/) — The Zx Spectrum, Amstrad CPC, MSX-1, SG-1000 and Sega Master System emulator for Windows, MacOs and Linux.
 * [LnxSpectrum](https://www.ilnx.cz/lnxsp/) — Emulator of the vintage computer Sinclair ZX Spectrum 48, ZX Spectrum 128, Didaktik Gama 80 clone and the less common Didaktik Gama 192, Sparrow 48K clones. It also emulates the MB03+ interface.
-* [Es.pectrum](https://habisoft.com/espectrum/EN.htm) — Эмулирует различные версии компьютеров Spectrum, Timex, TK-90x/95x, Pentagon (включая 1024 SL), Scorpion, ATM 1 и 2, Альф, Дубна и т.д. А также раздличное железо: Gun Stick, MIDI, IDE интерфейсы, P.D.S., Spectranet, MB02+, Dandanator, 16C и так далее.
-* [InkSpector 2.0.5](http://www.inkland.org.uk/inkspector/index.htm) — Accurate Sinclair ZX Spectrum emulator for Windows.
+* [Es.pectrum](https://habisoft.com/espectrum/EN.htm) — Эмулирует различные версии компьютеров Spectrum, Timex, TK-90x/95x, Pentagon (включая 1024 SL), Scorpion, ATM 1 и 2, Альф, Дубна и т.д. А также различное железо: Gun Stick, MIDI, IDE интерфейсы, P.D.S., Spectranet, MB02+, Dandanator, 16C и так далее.
+* [InkSpector 2](http://www.inkland.org.uk/inkspector/index.htm) — Accurate Sinclair ZX Spectrum emulator for Windows.
+* [X128](https://x128.speccy.cz/x128wip/x128wip.htm) - WIP Windows Version.
 * [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/) — Emulator for the range of ZX home computers made by Sinclair Research (and their clones) in the 1980s, primarily the ZX80 and ZX81 but also includes the ZX Spectrum models.
 * [Plus-F](http://plus-f.socialthingy.com/) — A ZX Spectrum emulator with network play capabilities.
 * [M.A.M.E.](https://www.mamedev.org/) — MAME is a multi-purpose emulation framework.
@@ -51,8 +52,11 @@ weight = 4
 * [VELESOFT Czech zx hardware fan](http://velesoft.speccy.cz/) — VELESOFT — zx sam timex sprinter.
 * [Swedish ZX Spectrum DIY site](http://user.tninet.se/~vjz762w/) — Swedish ZX Spectrum DIY site.
 * [ZX Spectrum Next official portal](http://www.specnext.com/) — The official portal of all things Next.
+* [ZX Spectrum Next Official Developer Wiki](https://wiki.specnext.dev/) - WIKI по "железу" и "софту" ZX Spectrum Next
 * [АЛЕКСЕЙ МОРОЗОВ | homepage](http://alemorf.ru/comps/index.html) — Советские домашние компьютеры и немного другого.
 * [Sprinter8](http://sprinter8.org) — Sprinter документация
 * [Sinclair hardware collection](https://www.tomdalby.com/retro/sinclair.html) — photo gallery Sinclair`s hardware
 * [Tetroid hardware](http://tetroid.nedopc.com/) — Предлагаю собранные платы и конструкторы ZX-Evolution, Neo-GS и сопутствующие товары
 * [The Brain Dump](https://floooh.github.io/archive/) — Подборка статей о точной эмуляции z80
+* [ZX-BUS](https://github.com/atsidaev/zxbus) — ZX-BUS Kicad symbols and footprints
+
