@@ -34,6 +34,7 @@ weight = 3
 * [ZX1](https://github.com/einar-saukas/ZX1)
 * [ZX2](https://github.com/einar-saukas/ZX2)
 * [ZX5](https://github.com/einar-saukas/ZX5)
+* [ZX7b](https://github.com/antoniovillena/zx7b)
 * [UPKR](https://github.com/exoticorn/upkr/)
 * [Shrinkler](https://github.com/askeksa/Shrinkler)
 * [bzpack](https://github.com/mbaze/bzpack)
