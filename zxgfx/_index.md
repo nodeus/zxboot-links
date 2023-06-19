@@ -89,7 +89,8 @@ RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [BZither v0.1 by Baze'05](https://vtrd.in/pcutilz/BZITH01.ZIP) — free PC конвертер из форматов JPG, PNG, TGA в формат Gigascreen
 * [CMV v1.0 by Flying / Digital Reality'98](https://vtrd.in/pcutilz/CMV10_DR.zip) — free PC (DOS) пакет программ для работы с анимацией
 * [Con18pal Gfx Convertor by Alone Coder'20](https://vtrd.in/pcutilz/CON18PAL.zip) — free PC конвертер графики
-* [DaDither v1.54 by Dec Software'21](https://vtrd.in/pcutilz/DADITHER1.zip) - free PC конвертер графики из форматов BMP, PNG, GIF, JPG в форматы SCR, IFL, MLT, MC, IMG, 3Color, NXI, GRF, GMX
+* [DaDither by Dec Software](https://www.dadither.com/) - free PC конвертер графики из форматов BMP, PNG, GIF, JPG в форматы SCR, IFL, MLT, MC, IMG, 3Color, NXI, GRF, GMX
+* [Image To ZX Spec](https://silentdevelopment.blogspot.com/) - Simple to use program which applies a Sinclair ZX Spectrum effect to images, creates Spectrum playable slideshows from images or "video" from compatible video files
 * [De-AAAtor v1.0 by g0blinish'17](https://vtrd.in/pcutilz/DEAAA.zip) — free PC утилита для работы с анимацией
 * [Fonter v2.1 by Shiru'02](https://vtrd.in/pcutilz/FONTER21.zip) — free PC редактор ZX Spectrum шрифтов
 * [GfxSpeConvertor v0.01 by Aprisobal'03](https://vtrd.in/pcutilz/GSC001.ZIP) — free PC конвертер графики из форматов BMP, GIF, JPG, TIF в форматы Screen, Gigascreen, Multicolor, Multigigascreen, 3Color
