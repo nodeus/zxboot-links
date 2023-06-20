@@ -12,6 +12,9 @@ weight = 4
 # Emulators & Hardware
 ## Emulators Spectrum
 * [Xpeccy](https://github.com/samstyle/Xpeccy) — Multiplatform emulator of retro computers
+* [Unreal](http://dlcorp.nedopc.com/viewtopic.php?f=27&t=1525) - Version 0.39.0 25 jan 2019 от deathsoft.
+* [Unreal (tslabs)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) — Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution.
+* [Unreal_NS](https://github.com/NEO-SPECTRUMAN/Unreal_NS/) - запилен на основе UnrealSpeccy 0.39.0 от DeathSoft-а смерженного с Unreal r1006 из NedoPC repo. Основными целями заведения новой ветки унриала есть повышение удобства дебага, фикс багов которые не фиксятсо 20-летиями и добавление новых железок.
 * [zesarux](https://github.com/chernandezba/zesarux) — ZX Second-Emulator And Released for UniX. Created by Cesar Hernandez Bano. It's a ZX Machines Emulator for UNIX based operating systems (and Windows), including all the Sinclair computers.
 * [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator — Virtual Machine.
 * [FUSE](https://fuse-emulator.sourceforge.net/) — Fuse (the Free Unix Spectrum Emulator) was originally, and somewhat unsurprisingly, a ZX Spectrum emulator for Unix. However, it has now also been ported to Mac OS X, Windows, Android, Haiku, AmigaOS 4, MorphOS, PSP, Wii, etc.
@@ -24,10 +27,10 @@ weight = 4
 * [X128](https://x128.speccy.cz/x128wip/x128wip.htm) - WIP Windows Version.
 * [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/) — Emulator for the range of ZX home computers made by Sinclair Research (and their clones) in the 1980s, primarily the ZX80 and ZX81 but also includes the ZX Spectrum models.
 * [Plus-F](http://plus-f.socialthingy.com/) — A ZX Spectrum emulator with network play capabilities.
+* [Спектрамин](https://www.emu-land.net/computers/zx_spectrum/emuls/windows?act=showonly&id=4238) - Приоритеты при разработке: удобство использования; точность эмуляции - z80, задержки, порты, недокументированные особенности. [Самый новый апдейт v.1.06b](https://files.fm/u/q5wjvqhtk)
 * [M.A.M.E.](https://www.mamedev.org/) — Multi-purpose emulation framework.
 * [RetroArch](https://www.retroarch.com/index.php) — Бесплатный кроссплатформенный интерфейс с открытым исходным кодом для эмуляторов различных платформ. ZX Spectrum эмулируется через ядро FUSE.
 * [M.CU.M.E](https://github.com/Jean-MarcHarvengt/MCUME) — Multi CompUter Machine Emulator. A collection of 80th game Console and Computer emulators ported to Teensy, raspberry PICO and ESP32 MCUs.
-* [Unreal (tslabs)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) — Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution.
 * [CSpect](http://www.cspect.org/) — Emulates many features of the Next and includes a fully featured debugger, complete with 24bit breakpoints and an assembler.
 * [SpecEmu](https://specemu.zxe.io/) — SpecEmu emulator (for snow/rain "enable ula snow").
 * [Online emulator in browser](https://zxn.ru) — Z80 assembler, disassembler, hex/dec/bin convertor, ZX spectrum emulator in browser.
