@@ -11,4 +11,3 @@ Demoscene/retroscene telegram and web links
 * [programming](https://github.com/nodeus/zxboot-links/blob/master/programming/_index.md)
 * [emulators and hardware](https://github.com/nodeus/zxboot-links/blob/master/hard/_index.md)
 * [zxgfx](https://github.com/nodeus/zxboot-links/blob/master/zxgfx/_index.md)
-
