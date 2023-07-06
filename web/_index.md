@@ -173,7 +173,8 @@ weight = 2
 * [Gas13 | pixelart artist](http://gas13.ru/) — Личный сайт пиксельарт художника Gas13
 * [Unomoralez | pixelart artist](http://unomoralez.com/) — Личный сайт пиксельарт художника Unomoralez
 ## Press, wiki, info
-* [Speccy info | Wiki](http://speccy.info) — Speccy wiki
+* [Speccy info | Wiki](http://speccy.info) — Speccy wiki. ✟ Неспешно восстанавливается [тут](http://wiki.zxevo.ru).
+* [Sinclair Wiki](https://sinclair.wiki.zxnet.co.uk/wiki/Main_Page) - The aim of this wiki is to provide an up to date repository for Sinclair related information on the internet.
 * [Техническая литература | scans](http://home.onego.ru/~bav9/87.html) — Техническая литература
 * [zxpress.ru | library](http://zxpress.ru/) — Библиотека книг, журналов и газет zx spectrum тематики
 * [АБЗАЦ | newspaper](http://abzac.retropc.ru/) — Абзац — газета для спектрумистов
