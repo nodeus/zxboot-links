@@ -18,7 +18,7 @@ weight = 1
 * [DiHalt Demoparty](https://t.me/dihaltdemoparty) — DiHalt demoparty
 * [Multimatograf](https://t.me/multimatograf) — Multimatograf demoparty
 * [Out Of Compo](https://t.me/ooc_chat) — Общение про Out Of Compo
-* [Undefined](https://t.me/undefined_diy_fest) — Фестиваль демосцены, ретро-компьютеров и всего остального
+* [Undefined](https://t.me/undefined_diy_fest) — Фестиваль демосцены, ретро-компьютеров и всего остального
 ### ZX gfx
 * [zxgfx](https://t.me/zxgfx) — ZX Spectrum Graphics
 ### ZX music
@@ -69,7 +69,7 @@ weight = 1
 * [Bleep Market](https://t.me/bleepmarket) — Продажа, покупка и обмен компьютерной техники и переферии выпущенной до 2000г.
 * [Кибер-музей в Муроме](https://t.me/museum_computer) — Официальная группа  музея для общения и любых вопросов (сайт http://museum.computer/)
 * [Retro Development](https://t.me/RetroDevelopment) — Если случайно вы что-то делает интересное в ретро теме и хотите делиться своим прогрессом и получать обратную связь, то вам сюда.
-* [ZX_MURMULATOR](https://t.me/ZX_MURMULATOR) - Основная тема - эмуляторы спектрум совместимых компьютеров. Но и смежные тематики по ZX Spectrum'у не осуждаются.
+* [ZX_MURMULATOR](https://t.me/ZX_MURMULATOR) — Основная тема – эмуляторы спектрум совместимых компьютеров. Но и смежные тематики по ZX Spectrum'у не осуждаются
 ### Demoscene and retroscene other
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
 * [/r/Demoscene](https://t.me/join?invite=AAAAAEKB8q1PGOZ48br3nA) — Demoscene from Reddit
@@ -119,8 +119,8 @@ weight = 1
 * [Torn Metal](https://t.me/torn_metal) — Новая RTS для ZX Spectrum (в разработке)
 * [Новости Пьяной Мухи](https://t.me/drunkflyteam)
 * [Давай, Калантай!](https://t.me/davajkalantaj) — Канал о жизни одного сельского спектрумиста...
-* [ZX-Art Daily](https://t.me/zxartdaily) — ZX-Art на каждый день, пиксельная графика и чиптюн музыка старого доброго ZX-Spectrum с zxart.ee!
-* [TS-conf video](https://t.me/tsconf_video) — TS-conf video archive
+* [ZX-Art Daily](https://t.me/zxartdaily) — ZX-Art на каждый день, пиксельная графика и чиптюн музыка старого доброго ZX-Spectrum с zxart.ee
+* [TS-conf video](https://t.me/tsconf_video) — TS-conf video archive
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
 * [DMSCN](https://t.me/demoscene) — На периферии демосцены
@@ -139,9 +139,9 @@ weight = 1
 * [Hot Pixel](https://t.me/HotPixel_Channel) — Канал о старых железяках, ретро компьютерах и консолях
 * [Darkman007](https://t.me/Darkman007_Official) — Фанклуб Darkman007
 # Telegram bots
-* [Hyperadio bot](https://t.me/hyperadio_bot) — Nowplay, download, request, convert chiptunes
+* [Hyperadio bot](https://t.me/hyperadio_bot) — Nowplay, request
 * [КОН ВЕР ТЕР](https://t.me/zxconvbot) — Конвертер pt3 —> mp3
 * [hype.retroscene.org news](https://t.me/hyprbot) — Бот с новостями hype.retroscene.org
 * [ZXFox_bot](https://t.me/zx_fox_bot) — конвертирование графики, запуск бейсик программ
-* [ZXART getter](https://t.me/ZXArtGetterBot) — Getting random Pixel Art or Chiptune Music! ZX Spectrum retro platform. Bot for «ZX Spectrum Art Daily» channel.
+* [ZXART getter](https://t.me/ZXArtGetterBot) — Getting random Pixel Art or Chiptune Music! ZX Spectrum retro platform. Bot for «ZX Spectrum Art Daily» channel
 * [cafeparty_video_bot](https://t.me/DemosceneVideoBot) — random demoscene video from youtube
