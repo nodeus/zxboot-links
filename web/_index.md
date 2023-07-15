@@ -222,19 +222,3 @@ weight = 2
 ## Mobile Apps
 ### Andriod Play store
 * [z80sky](https://play.google.com/store/apps/details?id=ru.z80sky&hl=en&gl=US) — Cправочное приложение с описанием всех опкодов Z80 и Z80N в удобном прокручиваемом списке. Доступ к краткому  обзору: мнемоника, байты, такты и флаги
-## GitHub repos
-* [VortexTracker 2.6](https://github.com/ivanpirog/vortextracker) — VortexTracker 2.6 dev 18
-* [VortexTrzcker 2.6 TS3](https://github.com/Volutar/vortextracker/tree/TS3) — VortexTracker 2.6 (Volutar edition)
-* [ZX Flash animation for Aseprite](https://github.com/AlRado/ZX-flash-animation) — The Aseprite tools to create and import/export ZX-Spectrum flash animation .scr (no pixels, only attributes)
-* [ZXTapeReviver](https://github.com/lgolouz/ZXTapeReviver) — ZxTapeReviver is a tool to convert ZX Spectrum tapes, recorded as WAV file, to a TAP files and provides a ways to manually revive poor records
-* [zx-evo](https://github.com/tslabs/zx-evo) — TS-Configuration for ZX Spectrum clone named ZX-Evolution
-* [Chunks parser zx](https://github.com/akanyuk/chunks-parser-zx) — Parser from animated GIF to ZX Spectrum assembler code
-* [ZMakeBas](https://github.com/z00m128/zmakebas) — zmakebas converts a Spectrum BASIC program written as a text file into an actual speccy BASIC file
-* [ZX0](https://github.com/einar-saukas/ZX0) — optimal data compressor for a custom [LZ77/LZSS](https://en.wikipedia.org/wiki/Lempel–Ziv–Storer–Szymanski) based compression format, that provides a tradeoff between high compression ratio, and extremely simple fast decompression. Therefore it's especially appropriate for low-end platforms, including 8-bit computers like the ZX Spectrum.
-* [salvador — ZX0 compressor](https://github.com/emmanuel-marty/salvador) — a fast, near-optimal compressor for the ZX0 format
-* [zxbasic](https://github.com/einar-saukas/zxbasic) — ZX BASIC is a [BASIC](http://en.wikipedia.org/wiki/BASIC) ''cross compiler''. It will compile BASIC programs (in your PC) for your [ZX Spectrum](http://en.wikipedia.org/wiki/Sinclair_ZX_Spectrum). ZX BASIC is an SDK entirely written in [python](http://www.python.org). The SDK is implemented using the [PLY](http://www.dabeaz.com/ply/) (Python Lex/Yacc) compiler tool. It translates BASIC to Z80 assembler code, so it is easily portable to other Z80 platforms (Amstrad, MSX). Other non Z80 targets could also be available in the future. ZX BASIC syntax tries to maintain compatibility as much as possible with [Sinclair BASIC](http://en.wikipedia.org/wiki/Sinclair_BASIC), it also have many new features, mostly taken from [FreeBASIC](http://www.freebasic.net/wiki) dialect.
-* [UnoXT Hardware](https://gitlab.com/emax73g/unoxt-hardware) — UnoXT is ZX Uno modification Development Board with possibility running ZX Spectrum Next Compatible Core
-* [AutoSiril](https://github.com/oisee/autosiril) — инструмент для удобного и эффективного конвертирования MIDI-файлов в текстовый формат VortexTracker (с последующей возможностью конвертирования в PT3)
-* [AutoDiver](https://github.com/oisee/autodiver_go) — инструмент для подбора набросков под конвертирование графики на zx spectrum
-* [psg_compressor](https://github.com/vasilenkoroman/psg_compressor) — This software is intended to pack PSG files. It is register dump for music chip AY-3-8910
-* [zxdocs](https://github.com/ZX-Online/zxdocs) — The collection of manuals for ZX Spectrum developers and amateurs
