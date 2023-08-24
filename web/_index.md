@@ -108,6 +108,7 @@ weight = 2
 * [Keygen music | archive](http://keygenmusic.net/) — Music from keygens, cracks etc. (XM, S3M)
 * [MirSoft — world of game music | archive](http://www.mirsoft.info/index.php) — Archieve of game music (MOD, MID)
 * [ZXART | music archive](http://zxart.ee/rus/muzyka/) — Архив музыки, графики и программ
+* [Chiptune.app](https://chiptune.app/) — библиотека музыки для ретрокомпьютеров и приставок
 ### Music soft
 * [ZXTUNE — chiptune player](https://zxtune.bitbucket.io/) — Crossplatform chiptune player
 * [Arkos Tracker](http://www.julien-nevo.com/arkostracker/) — Ultimate musical tool (or "Tracker") for 8/16-bit computers from the 80's, such as Amstrad CPC, Atari ST/XE/XL, ZX Spectrum, MSX, Oric, Apple 2, Vectrex, and SHARP MZ-700! Cross-platform (Windows, Linux, Mac)
