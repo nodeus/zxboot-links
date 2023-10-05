@@ -53,6 +53,7 @@ weight = 5
 * [53с chunkypaint](http://53c.verve.space/) — онлайн редактор 53c
 * [53c Chunkypaint](https://53c.nw-lab.com) — онлайн редактор 53c (клон)
 * [Stellarpaint](https://irrlichtproject.de/stellarpaint)
+* [SpecSCII online editor](https://zxart.ee/specscii/) — онлайн редактор ZX Spectrum UDG графики
 
 ## Графические редакторы для мобильных устройств
 * **Pixel studio** — paid iOS/Android [PlayStore](https://play.google.com/store/apps/details?id=com.PixelStudio) [AppStore](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Fps_appstore)
