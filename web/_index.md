@@ -116,6 +116,7 @@ weight = 2
 * [LnxTracker](https://www.ilnx.cz/lnxtr/) — ProTracker type music editor, supporting AY 3-891x and SAA1099 sound chips . It is primarily intended for creating music and sound for games on ZX Spectrum computers, or other computers based on Z80 processors (such as SamCoupé and others)
 * [WYZTracker](https://github.com/AugustoRuiz/WYZTracker) — Tool developed by Augusto Ruiz, from Retroworks, that can be used to compose music for [WYZ's Player](https://github.com/AugustoRuiz/WYZPlayer) - Z80 assembly coded player for AY-3-8912, the chip present in MSX, Spectrum, CPC and Atari ST computers.
 * [SAA1099Tracker](https://saa1099tracker.borik.net/) — Progressive web application of chiptune music tracker for Philips SAA 1099 soundchip with 6 channels which was used in some 8bit computers. [GitHub](https://github.com/mborik/SAA1099Tracker)
+* [Vortex Tracker II nightly builds by Volutar](https://volutar.myds.me/vortextracker/) — Vortex Tracker II улучшения и дополнения от Volutar [Github](https://github.com/Volutar/vortextracker/commits/TS3)
 ### Music bands and musicians
 * [Mister Beep | musician](http://mister_beep.republika.pl/) — I'm Mister Beep. I make micromusic/chiptunes but it's not typical micromusic. It is real ONE BIT music made using TIMEX 2048 (48Kb of RAM) and its BEEPER
 * [MmcM Studio | musician](http://mmcm.ru/) — MmcM homepage
