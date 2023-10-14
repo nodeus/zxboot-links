@@ -54,6 +54,7 @@ weight = 5
 * [53c Chunkypaint](https://53c.nw-lab.com) — онлайн редактор 53c (клон)
 * [Stellarpaint](https://irrlichtproject.de/stellarpaint)
 * [SpecSCII online editor](https://zxart.ee/specscii/) — онлайн редактор ZX Spectrum UDG графики
+* [ZXPaintyONE v2.0](https://chunkypaint.zxdemo.org/zxpaintyone/) — онлайн редактор ZX80/ZX81 UDG графики
 
 ## Графические редакторы для мобильных устройств
 * **Pixel studio** — paid iOS/Android [PlayStore](https://play.google.com/store/apps/details?id=com.PixelStudio) [AppStore](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Fps_appstore)
@@ -72,13 +73,13 @@ weight = 5
 
 ## Утилиты и конвертеры
 * [Image Spectrumizer](http://iki.fi/sol/zip/img2spec_40.zip) — free PC. This is a GUI tool to help convert normal images suitable to be used in ZX Spectrum (and similar devices). Note that the resolution is, by default, 256x192. Feeding the tool smaller or bigger images works, but the internal image size remains the same. (The internal resolution can be changed in options, but there are limits).
-Instead of trying to be completely automated, this tool lets you interactively adjust the source image while letting you see the results in real time. Any number of modifiers can be stacked on top of each other, and their order can be changed.
+Instead of trying to be completely automated, this tool lets you interactively adjust the source image while letting you see the results in real-time. Any number of modifiers can be stacked on top of each other, and their order can be changed.
 Output can be saved as a PNG, or in raw, C header, or assembler include file.
-If wanted, the tool can be used to convert image automatically, by feeding it the input image and a workspace file on commandline, along with option to save output.
+If wanted, the tool can be used to convert images automatically, by feeding it the input image and a workspace file on commandline, along with an option to save output.
 [sources](https://github.com/jarikomppa/img2spec)
-* [Pixel Polizei](http://www.kameli.net/~marq/kode/ppolizei.zip) — Pixel Polizei is a tool for the retro/scene/retroscene artist. It lets you automatically check whether an image conforms to the color limits of a particular oldschool platform and save the result in certain native formats. The underlying idea is that you can use whatever paint program you happen to prefer for creating the images and observe – almost real-time – if you’ve made a mistake somewhere. One more fundamental bit is that the tool is multiplatform unlike many others.
+* [Pixel Polizei](http://www.kameli.net/~marq/kode/ppolizei.zip) — Pixel Polizei is a tool for the retro/scene/retroscene artist. It lets you automatically check whether an image conforms to the color limits of a particular oldschool platform and save the result in certain native formats. The underlying idea is that you can use whatever paint program you happen to prefer for creating the images and observe – almost real-time – if you’ve made a mistake somewhere. One more fundamental bit is that the tool is multiplatform, unlike many others.
 Pixel Polizei is not a paint program or a generic image format converter, even though the aim is to implement at least the most typical file types for the supported platforms. Neither is it meant to be used as a converter for random family photos. You can use it for that purpose too, but the end results won’t be as good as with dedicated tools. For converting various old formats to modern images check out the Recoil project.
-* [Recoil](https://recoil.sourceforge.net/) — RECOIL is a viewer of pictures in native formats of 20th century computers: Amiga, Amstrad CPC, Apple II, Atari 8-bit, Atari Portfolio, Atari ST/TT/Falcon, BBC Micro, Commodore VIC-20, Commodore 64, Commodore 16/116/Plus4, Commodore 128, Electronika BK, FM Towns, HP 48, Macintosh 128K, MSX, NEC PC-80, NEC PC-88, NEC PC-98, Oric, Psion Series 3, SAM Coupé, Sharp X68000, Tandy 1000, Timex 2048, TRS-80, TRS-80 Color Computer, Vector-06C, ZX81 and ZX Spectrum.
+* [Recoil](https://recoil.sourceforge.net/) — RECOIL is a viewer of pictures in native formats of 20th-century computers: Amiga, Amstrad CPC, Apple II, Atari 8-bit, Atari Portfolio, Atari ST/TT/Falcon, BBC Micro, Commodore VIC-20, Commodore 64, Commodore 16/116/Plus4, Commodore 128, Electronika BK, FM Towns, HP 48, Macintosh 128K, MSX, NEC PC-80, NEC PC-88, NEC PC-98, Oric, Psion Series 3, SAM Coupé, Sharp X68000, Tandy 1000, Timex 2048, TRS-80, TRS-80 Color Computer, Vector-06C, ZX81 and ZX Spectrum.
 RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [Bitmap to vector converter](https://drububu.com/tutorial/bitmap-to-vector.html) — free web. Converts your bitmap image online into a Scalable Vector Graphics or 3D model.
 * [Autodiver v2.0 by Siril'15](https://vtrd.in/pcutilz/AUTDIVER.zip) — free PC конвертер графики, подбирает наиболее подходящие сочетания соседних цветов для конверсии
@@ -92,7 +93,7 @@ RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [CMV v1.0 by Flying / Digital Reality'98](https://vtrd.in/pcutilz/CMV10_DR.zip) — free PC (DOS) пакет программ для работы с анимацией
 * [Con18pal Gfx Convertor by Alone Coder'20](https://vtrd.in/pcutilz/CON18PAL.zip) — free PC конвертер графики
 * [DaDither by Dec Software](https://www.dadither.com/) - free PC конвертер графики из форматов BMP, PNG, GIF, JPG в форматы SCR, IFL, MLT, MC, IMG, 3Color, NXI, GRF, GMX
-* [Image To ZX Spec](https://silentdevelopment.blogspot.com/) - Simple to use program which applies a Sinclair ZX Spectrum effect to images, creates Spectrum playable slideshows from images or "video" from compatible video files
+* [Image To ZX Spec](https://silentdevelopment.blogspot.com/) - Simple to use program which applies a Sinclair ZX Spectrum effect to images, creates Spectrum playable slideshows from images or "video" from compatible video files. В [репозитории](https://github.com/KodeMunkie/imagetozxspec) более свежие версии.
 * [De-AAAtor v1.0 by g0blinish'17](https://vtrd.in/pcutilz/DEAAA.zip) — free PC утилита для работы с анимацией
 * [Fonter v2.1 by Shiru'02](https://vtrd.in/pcutilz/FONTER21.zip) — free PC редактор ZX Spectrum шрифтов
 * [GfxSpeConvertor v0.01 by Aprisobal'03](https://vtrd.in/pcutilz/GSC001.ZIP) — free PC конвертер графики из форматов BMP, GIF, JPG, TIF в форматы Screen, Gigascreen, Multicolor, Multigigascreen, 3Color
@@ -148,6 +149,7 @@ RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [zxsc v3e by Tom Dalby'21](https://vtrd.in/pcutilz/ZXSC_V3E.zip) — free PC/Mac/Linux компрессор ZX Spectrum графики
 * [ZX-Extractor 2](http://fight.pp.ua/examples/zx-extractor2/) — Поиск спрайтов в играх
 * [zx gimp plugins](https://github.com/UriShap/ZX_GIMP_plugins) — плагин для gimp-а, позволяющий читать и сохранять файлы прямо в .scr формате (при этом цвет (255, 127, 0) выводится как скрытые пиксели
+* [Gfx2Next](https://github.com/benbaker76/Gfx2Next) — ZX Spectrum Next graphics conversion tool. Converts an uncompressed 8-bit BMP or PNG file to the Sinclair ZX Spectrum Next graphics format(s).
 
 ## Графические редакторы и утилиты на zx spectrum
 ### Редакторы
