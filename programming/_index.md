@@ -64,9 +64,10 @@ weight = 3
 * [Mini-SCUMMVM for ZXNext](https://github.com/Dovgalyuk/scummnext) — Supports only Maniac Mansion from NES
 * [ZX Spectrum Next Library Routines](https://github.com/breakintoprogram/lib-spectrum-next) — A suite of Z80 modules for the ZX Spectrum Next with routines for: Reading the mouse, Vector graphics (fast line, circle, and plot routines), Filled vector graphics with simple flat texturing (triangle, quadrilateral and circle), DMA, Maths (taking advantage of the extended Z80N opcodes)
 * [PixelWorld](https://github.com/damieng/pixelworld) — ZX Spectrum font conversion, ripping and manipulation tool made public! This is a tool I have been using for a number of years to convert my own fonts into a variety of formats available from https://damieng.com/fonts/zx-origins/
-* [AYMaker](https://github.com/Abrimaal/AYMaker) — Tools for creating and editing .ay audio files
-* [ZX Tools](https://github.com/remy/zx-tools) — A collection of ZX [web based tools](zx.remysharp.com) and libraries
-* [Ringo-8](https://github.com/DenisGrachev/Ringo-8) — 64x48 Graphics Library For ZX Spectrum 128KB based on my render engine from [Ringo](https://zxonline.net/game/ringo)
-* [TR-DOS Disassembled](https://github.com/programandala-net/tr-dos) — The goal of this project is to disassemble TR-DOS 5.03, in order to study it and fix some problems found during the development of its support for Solo Forth
-* [Solo Forth](https://github.com/programandala-net/solo-forth) — Standard Forth system for ZX Spectrum 128 and compatible computers, with disk drives
+* [AYMaker](https://github.com/Abrimaal/AYMaker) — Tools for creating and editing .ay audio files.
+* [ZX Tools](https://github.com/remy/zx-tools) — A collection of ZX [web based tools](zx.remysharp.com) and libraries.
+* [Ringo-8](https://github.com/DenisGrachev/Ringo-8) — 64x48 Graphics Library For ZX Spectrum 128KB based on my render engine from [Ringo](https://zxonline.net/game/ringo).
+* [TR-DOS Disassembled](https://github.com/programandala-net/tr-dos) — The goal of this project is to disassemble TR-DOS 5.03, in order to study it and fix some problems found during the development of its support for Solo Forth.
+* [Solo Forth](https://github.com/programandala-net/solo-forth) — Standard Forth system for ZX Spectrum 128 and compatible computers, with disk drives.
+* [Rebelstar Raiders - game source code](https://github.com/mrcook/rebelstar-raiders-BASIC) — BASIC source code for Rebelstar Raiders, a 1984 ZX Spectrum game
 * [HiSoft-C](https://github.com/oldcompcz/HiSoft-C) — Disassembled code of HiSoft C compiler for ZX Spectrum
