@@ -69,3 +69,4 @@ weight = 3
 * [Ringo-8](https://github.com/DenisGrachev/Ringo-8) — 64x48 Graphics Library For ZX Spectrum 128KB based on my render engine from [Ringo](https://zxonline.net/game/ringo).
 * [TR-DOS Disassembled](https://github.com/programandala-net/tr-dos) — The goal of this project is to disassemble TR-DOS 5.03, in order to study it and fix some problems found during the development of its support for Solo Forth.
 * [Solo Forth](https://github.com/programandala-net/solo-forth) — Standard Forth system for ZX Spectrum 128 and compatible computers, with disk drives.
+* [Rebelstar Raiders - game source code](https://github.com/mrcook/rebelstar-raiders-BASIC) — BASIC source code for Rebelstar Raiders, a 1984 ZX Spectrum game
