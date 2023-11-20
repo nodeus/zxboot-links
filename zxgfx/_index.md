@@ -55,6 +55,7 @@ weight = 5
 * [Stellarpaint](https://irrlichtproject.de/stellarpaint)
 * [SpecSCII online editor](https://zxart.ee/specscii/) — онлайн редактор ZX Spectrum UDG графики
 * [ZXPaintyONE v2.0](https://chunkypaint.zxdemo.org/zxpaintyone/) — онлайн редактор ZX80/ZX81 UDG графики
+* [lvllvl](https://lvllvl.com/) — онлайн редактор текстовых режимов всевозможных ретро ПК, включая Specscii ZX Spectrum  
 
 ## Графические редакторы для мобильных устройств
 * **Pixel studio** — paid iOS/Android [PlayStore](https://play.google.com/store/apps/details?id=com.PixelStudio) [AppStore](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Fps_appstore)
