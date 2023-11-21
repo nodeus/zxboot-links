@@ -149,7 +149,12 @@ RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [zxsc v3e by Tom Dalby'21](https://vtrd.in/pcutilz/ZXSC_V3E.zip) — free PC/Mac/Linux компрессор ZX Spectrum графики
 * [ZX-Extractor 2](http://fight.pp.ua/examples/zx-extractor2/) — Поиск спрайтов в играх
 * [zx gimp plugins](https://github.com/UriShap/ZX_GIMP_plugins) — плагин для gimp-а, позволяющий читать и сохранять файлы прямо в .scr формате (при этом цвет (255, 127, 0) выводится как скрытые пиксели
-* [Gfx2Next](https://github.com/benbaker76/Gfx2Next) — ZX Spectrum Next graphics conversion tool. Converts an uncompressed 8-bit BMP or PNG file to the Sinclair ZX Spectrum Next graphics format(s).
+* [Gfx2Next](https://github.com/benbaker76/Gfx2Next) — ZX Spectrum Next graphics conversion tool. Converts an uncompressed 8-bit BMP or PNG file to the Sinclair ZX Spectrum Next graphics format(s)
+* [ZX Graphics Editor by DuefectuCorp](https://marketplace.visualstudio.com/items?itemName=DuefectuCorp.zxgraphics) — free PC extension for Visual Studio Code that allows to manage extensions .gdu / .udg (User Defined Graphics) and .fnt (custom fonts) files for classic ZX Spectrum
+* [ZX Spectrum UDG Editor](https://mosaicmap.itch.io/zx-spectrum-udg-editor) — free PC Simple UDG (User Defined Graphics) character editor for Sinclair ZX Spectrum BASIC
+* [zxED](https://sourceforge.net/projects/zxed/) allows users to load in popular ZX Spectrum emulator file formats and view it contents. Currently you can display the memory as bitmaps allowing you to rip any sprites or graphics and save them as images
+* [Spectrum Graphics Editor 2.00](https://spectrum-graphics-editor.software.informer.com/) — utility for viewing, editing, copying, exporting, and animating graphics from Speccy snapshot files. Послдений релиз из 1998-го
+* [Spectrum Graphics Editor](http://bitglint.co.uk/sge/) — онлайн версия SGE.
 
 ## Графические редакторы и утилиты на zx spectrum
 ### Редакторы
