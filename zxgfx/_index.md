@@ -48,6 +48,7 @@ weight = 5
 * [Retro-painter (part of Retro-X)](http://members.inode.at/838331/index.html) — free PC
 * [Multicolor Fli Editor v2.5 build 1 by CyberPunks Unity'03](https://vtrd.in/pcutilz/MFLI.zip) — free PC редактор мултиколорной графики
 * [SpecSCII editor v1.7b by Kordial, dman'18](https://vtrd.in/pcutilz/SPECSCII.zip) — free PC редактор ZX Spectrum UDG графики
+* [REXPaint](https://www.gridsagegames.com/rexpaint/index.html) — free Windows редактор "текстовой" графики с поддержкой различных наборов символов и палитр, в т.ч. есть [шрифты](https://www.gridsagegames.com/rexpaint/resources.html#Fonts) ZX Spectrum/ZX81/Evolution и Sam Coupe + их [палитры](https://www.gridsagegames.com/rexpaint/resources.html#Palettes)
 
 ### Графические редакторы с поддержкой формата экрана онлайн
 * [53с chunkypaint](http://53c.verve.space/) — онлайн редактор 53c
