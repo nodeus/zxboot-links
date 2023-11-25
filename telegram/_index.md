@@ -53,7 +53,6 @@ weight = 1
 * [Speccy offtop](https://t.me/speccyofftop) — zx spectrum offtop themes (RUS/ENG talks)
 * [Speccy flame | group](https://t.me/speccyflame) — Спекки флейм
 * [Тут БЫЛ дихальт](https://t.me/nedopc_party) — Тут БЫЛ дихальт — неофициальная группа дихальта от лица дихальта
-* [ZX&NIBIRU](https://t.me/join?invite=FnSx4EPOYbB_uqA6dd2dnA) — Нибиру
 * [ZX Chat](https://t.me/zxchat) — Чат для веселого и непринужденного общения спектрумистов на любые темы
 * [ZX Software](https://t.me/zxsoftware) — Чат для обсуждения спектрумского soft'а.
 * [ZX Spectrum Chat](https://t.me/joinchat/CyRx59yXOydmYmMy) — Общение по ретро-компьютерам, в частности ZX Spectrum
@@ -79,7 +78,6 @@ weight = 1
 #### Coding and programming
 * [Newskool demomaker\`s chat](https://t.me/pcdemomaking) — Newskool Demoscene/Demomakers community (Eng/Rus)
 * [SizeCoders Chat](https://t.me/sizecoders) — SizeCoding tricks discussion
-* [Ассемблирование и микроэлектроника — z80  x86  6502  etc](https://t.me/foxasm) — Чат, в котором могут помочь понять ассемблер и просто поговорить
 #### Music
 * [HYPERADIO](https://t.me/hyperadio) — Demoscene online radio Hyperadio
 * [Chipmusic](https://t.me/chipmusic)
@@ -108,7 +106,6 @@ weight = 1
 * [ZX-CHIP podcast](https://t.me/zxchip) — Recent podcast issues
 * [Unreal speccy portable](https://t.me/unrealspeccyp)
 * [Speccy Games](https://t.me/speccygames)
-* [ZX Tabloid](https://t.me/zxtabloid)
 * [ZX memas](https://t.me/truezxmemas)
 * [ZX Spectrum](https://t.me/sinclairspectrum)
 * [ZX-Art](https://t.me/zxart_ee) — Updates, changes, events, news
