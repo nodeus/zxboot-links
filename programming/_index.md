@@ -63,6 +63,9 @@ weight = 3
 * [Turbo Loader](https://github.com/mcleod-ideafix/turboloader) — Parametrized turbo loader for ZX Spectrum (and possibly, other Z80-based computers)
 * [Mini-SCUMMVM for ZXNext](https://github.com/Dovgalyuk/scummnext) — Supports only Maniac Mansion from NES
 * [ZX Spectrum Next Library Routines](https://github.com/breakintoprogram/lib-spectrum-next) — A suite of Z80 modules for the ZX Spectrum Next with routines for: Reading the mouse, Vector graphics (fast line, circle, and plot routines), Filled vector graphics with simple flat texturing (triangle, quadrilateral and circle), DMA, Maths (taking advantage of the extended Z80N opcodes)
+* [ZX Next Tools](https://github.com/varmfskii/zxnext_tools/) — Tools for creating files for the ZX Spectrum Next
+* [ZXNFTP](https://github.com/varmfskii/zxnftp) — FTP like client/server pair for ZX Spectrum Next
+* [showsimg](https://gitlab.com/varmfskii/showsimg) — DOT-command .showsimg: display ZX Next image formats
 * [PixelWorld](https://github.com/damieng/pixelworld) — ZX Spectrum font conversion, ripping and manipulation tool made public! This is a tool I have been using for a number of years to convert my own fonts into a variety of formats available from https://damieng.com/fonts/zx-origins/
 * [AYMaker](https://github.com/Abrimaal/AYMaker) — Tools for creating and editing .ay audio files.
 * [ZX Tools](https://github.com/remy/zx-tools) — A collection of ZX [web based tools](zx.remysharp.com) and libraries.
@@ -71,3 +74,6 @@ weight = 3
 * [Solo Forth](https://github.com/programandala-net/solo-forth) — Standard Forth system for ZX Spectrum 128 and compatible computers, with disk drives.
 * [Rebelstar Raiders - game source code](https://github.com/mrcook/rebelstar-raiders-BASIC) — BASIC source code for Rebelstar Raiders, a 1984 ZX Spectrum game
 * [HiSoft-C](https://github.com/oldcompcz/HiSoft-C) — Disassembled code of HiSoft C compiler for ZX Spectrum
+* [ZX-Spectrum-1-Bit-Routines](https://github.com/utz82/ZX-Spectrum-1-Bit-Routines) — Z80 music routines for ZX Spectrum beeper and compatibles
+* [Chronos ZX Beeper Music Disassembly](https://github.com/ZoomTen/chronos-zxbeeper) — WIP disassembly of music code from Chronos (ZX Spectrum)
+* [ARCHIVE-FOLLIN](https://github.com/breakintoprogram/archive-follin/tree/main) — An archive of music source code and drivers donated by Tim and Geoff Follin
