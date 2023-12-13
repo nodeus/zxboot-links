@@ -52,6 +52,7 @@ weight = 5
 * [REXPaint](https://www.gridsagegames.com/rexpaint/index.html) — free Windows редактор "текстовой" графики с поддержкой различных наборов символов и палитр, в т.ч. есть [шрифты](https://www.gridsagegames.com/rexpaint/resources.html#Fonts) ZX Spectrum/ZX81/Evolution и Sam Coupe + их [палитры](https://www.gridsagegames.com/rexpaint/resources.html#Palettes)
 
 ### Графические редакторы с поддержкой формата экрана онлайн
+* [SpeccyArt](https://worldofpaul.com/speccyart/) — онлайн редактор 6912 с подержкой атрибутов 8x8 и 8x1 (Timex)
 * [53с chunkypaint](http://53c.verve.space/) — онлайн редактор 53c
 * [53c Chunkypaint](https://53c.nw-lab.com) — онлайн редактор 53c (клон)
 * [Stellarpaint](https://irrlichtproject.de/stellarpaint)
