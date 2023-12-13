@@ -14,6 +14,7 @@ weight = 5
 # ZX Spectrum графика
 ## Графические редакторы без поддержки формата экрана для десктопа и web
 * [Aseprite](https://www.aseprite.org/) — paid PC/Mac/Linux
+* [Libresprite](https://libresprite.github.io/#!/) — free PC/Mac/Linux (Fork of Aseprite)
 * [Graphics gale](https://graphicsgale.com/us/) — free PC
 * [Pro motion NG](https://www.cosmigo.com/) — free/paid PC/Mac/Linux
 * [GrafX2](https://grafx2.gitlab.io/grafX2) — free PC/Mac/AmigaOS/Atari/GP2X/Switch
