@@ -117,6 +117,10 @@ weight = 2
 * [WYZTracker](https://github.com/AugustoRuiz/WYZTracker) — Tool developed by Augusto Ruiz, from Retroworks, that can be used to compose music for [WYZ's Player](https://github.com/AugustoRuiz/WYZPlayer) - Z80 assembly coded player for AY-3-8912, the chip present in MSX, Spectrum, CPC and Atari ST computers.
 * [SAA1099Tracker](https://saa1099tracker.borik.net/) — Progressive web application of chiptune music tracker for Philips SAA 1099 soundchip with 6 channels which was used in some 8bit computers. [GitHub](https://github.com/mborik/SAA1099Tracker)
 * [Vortex Tracker II nightly builds by Volutar](https://volutar.myds.me/vortextracker/) — Vortex Tracker II улучшения и дополнения от Volutar [Github](https://github.com/Volutar/vortextracker/commits/TS3)
+* [Bintracker](https://bintracker.org/) — a modern programmable Chiptune music editor. It is currently in development, with a beta release coming soon. Bintracker supports any music engine on any plaform through the versatile MDAL abstraction layer, so you can compose for SID, AY, FM, Beeper... all with one tool
+* [Beepola](http://freestuff.grok.co.uk/beepola/) — Beepola is a tracker-style music editor for Windows, capable of compiling songs into a form suitable for playback on Sinclair Spectrum and compatible computers
+* [1tracker](http://shiru.untergrund.net/files/1tracker.zip) — 1tracker is an always-experimental multiplatform chiptune cross-tracker, a 'multitracker' for short
+  
 ### Music bands and musicians
 * [Mister Beep | musician](http://mister_beep.republika.pl/) — I'm Mister Beep. I make micromusic/chiptunes but it's not typical micromusic. It is real ONE BIT music made using TIMEX 2048 (48Kb of RAM) and its BEEPER
 * [MmcM Studio | musician](http://mmcm.ru/) — MmcM homepage
