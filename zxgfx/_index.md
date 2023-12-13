@@ -14,6 +14,7 @@ weight = 5
 # ZX Spectrum графика
 ## Графические редакторы без поддержки формата экрана для десктопа и web
 * [Aseprite](https://www.aseprite.org/) — paid PC/Mac/Linux
+* [Libresprite](https://libresprite.github.io/#!/) — free PC/Mac/Linux (Fork of Aseprite)
 * [Graphics gale](https://graphicsgale.com/us/) — free PC
 * [Pro motion NG](https://www.cosmigo.com/) — free/paid PC/Mac/Linux
 * [GrafX2](https://grafx2.gitlab.io/grafX2) — free PC/Mac/AmigaOS/Atari/GP2X/Switch
@@ -51,6 +52,7 @@ weight = 5
 * [REXPaint](https://www.gridsagegames.com/rexpaint/index.html) — free Windows редактор "текстовой" графики с поддержкой различных наборов символов и палитр, в т.ч. есть [шрифты](https://www.gridsagegames.com/rexpaint/resources.html#Fonts) ZX Spectrum/ZX81/Evolution и Sam Coupe + их [палитры](https://www.gridsagegames.com/rexpaint/resources.html#Palettes)
 
 ### Графические редакторы с поддержкой формата экрана онлайн
+* [SpeccyArt](https://worldofpaul.com/speccyart/) — онлайн редактор 6912 с подержкой атрибутов 8x8 и 8x1 (Timex)
 * [53с chunkypaint](http://53c.verve.space/) — онлайн редактор 53c
 * [53c Chunkypaint](https://53c.nw-lab.com) — онлайн редактор 53c (клон)
 * [Stellarpaint](https://irrlichtproject.de/stellarpaint)
