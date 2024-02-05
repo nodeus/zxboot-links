@@ -50,6 +50,7 @@ weight = 5
 * [Multicolor Fli Editor v2.5 build 1 by CyberPunks Unity'03](https://vtrd.in/pcutilz/MFLI.zip) — free PC редактор мултиколорной графики
 * [SpecSCII editor v1.7b by Kordial, dman'18](https://vtrd.in/pcutilz/SPECSCII.zip) — free PC редактор ZX Spectrum UDG графики
 * [REXPaint](https://www.gridsagegames.com/rexpaint/index.html) — free Windows редактор "текстовой" графики с поддержкой различных наборов символов и палитр, в т.ч. есть [шрифты](https://www.gridsagegames.com/rexpaint/resources.html#Fonts) ZX Spectrum/ZX81/Evolution и Sam Coupe + их [палитры](https://www.gridsagegames.com/rexpaint/resources.html#Palettes)
+* [Retro Game Asset Studio](https://www.cpcwiki.eu/index.php/Retro_Game_Asset_Studio) — Редактор ресурсов (графика, звук/музыка, уровни) для Amstrad CPC, ZX Spectrum и Commodore 64. Есть встроенный простенький редактор графики с возможностью конвертирования из png/jpg/gif и т.д.
 
 ### Графические редакторы с поддержкой формата экрана онлайн
 * [SpeccyArt](https://worldofpaul.com/speccyart/) — онлайн редактор 6912 с подержкой атрибутов 8x8 и 8x1 (Timex)

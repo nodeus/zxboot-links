@@ -17,8 +17,8 @@ weight = 4
 * [Unreal (tslabs)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) — Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution
 * [Unreal_NS](https://github.com/NEO-SPECTRUMAN/Unreal_NS/) — запилен на основе UnrealSpeccy 0.39.0 от DeathSoft-а смерженного с Unreal r1006 из NedoPC repo. Основными целями заведения новой ветки унриала есть повышение удобства дебага, фикс багов которые не фиксятсо 20-летиями и добавление новых железок
 * [UNREAL-NG](https://github.com/alfishe/unreal-ng) — Fully re-engineered Unreal Speccy emulator. Cross-platform emulation core: Windows 32-bit, Windows 64-bit, Linux 32/64-bit, macOS 64-bit
-* [zesarux](https://github.com/chernandezba/zesarux) — ZX Second-Emulator And Released for UniX. Created by Cesar Hernandez Bano. It's a ZX Machines Emulator for UNIX-based operating systems (and Windows), including all the Sinclair computers
-* [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator — Virtual Machine
+* [ZEsarUX](https://github.com/chernandezba/zesarux) — ZX Second-Emulator And Released for UniX. Created by Cesar Hernandez Bano. It's a ZX Machines Emulator for UNIX-based operating systems (and Windows), including all the Sinclair computers.
+* [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator — Virtual Machine.
 * [FUSE](https://fuse-emulator.sourceforge.net/) — Fuse (the Free Unix Spectrum Emulator) was originally, and somewhat unsurprisingly, a ZX Spectrum emulator for Unix. However, it has now also been ported to Mac OS X, Windows, Android, Haiku, AmigaOS 4, MorphOS, PSP, Wii, etc.
 * [ZXSpectr](https://github.com/chernandezba/zxspectr) — It's a ZX Spectrum emulator written entirely in Assembler. It runs under MS-DOS
 * [Speccy](https://fms.komkon.org/Speccy/) — Portable Sinclair ZX Spectrum and Sam Coupe Emulator by Marat Fayzullin. It runs under Windows/Linux/Android/MS-DOS/Symbian/Maemo
