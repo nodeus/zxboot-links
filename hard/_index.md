@@ -44,7 +44,7 @@ weight = 4
 * [Fuse PSP](http://psp.akop.org/fuse.htm) — Sinclair Spectrum emulator for PlayStation Portable
 * [ZX Recoloring Project](https://github.com/rg-software/zxrecolor) — Эмулятор на базе Unreal с возможностью "перекрашивать" старые игры
 * [ZX-Poly](https://github.com/raydac/zxpoly) — a multi-CPU ZX-Spectrum 128 concept platform. Эмуляция ZX128 с 4мя z80 работаюшими параллельно для увеличения разрешения/устранения клэшинга атрибутов
-* 
+* [Z80Stealth](https://z80.emu-russia.net/index.html) — Версия 1.23 под Windows
 
 ## Emulators Z80
 * [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
