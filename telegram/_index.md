@@ -33,7 +33,7 @@ weight = 1
 * [ZX Games](https://t.me/zxgames) — Обсуждение новых и старых игр для ZX Spectrum
 ### ZX hard and emulation
 * [Speccy hardware](https://t.me/speccy_hard) — Speccy hardware in russian and english
-* [Unreal Speccy Portable](https://t.me/unrealspeccypg) — Discuss USP and ZX Spectrum emulators related things
+* [Unreal Speccy Portable](https://t.me/unrealspeccypg) — Discuss USP and ZX Spectrum emulators-related things
 #### ZX Evo Base config
 * [ZX Evolution](https://t.me/zxevo) — Платформа ZX Evolution (Base config)
 * [ATM, zxevo, baseconf](https://t.me/atm_zxevo_baseconf) — Всё, что относится к ZX Evolution и бейсконфе, АТМ2, АТМ3 и подобному
@@ -50,17 +50,17 @@ weight = 1
 * [ZS Scorpion & Ленинград](https://t.me/zs_scorpion) — Про компьютеры ZS Scorpion и Ленинград
 * [KAY the Spectrum](https://t.me/kay_nemo) — For the best USSR-clone ZX-Spectrum designed by Nemo — KAY (128, 1024, 2010, etc) and it's satellite board (NemoFDC, NemoIDE ...)
 ### ZX other
-* [Speccy offtop](https://t.me/speccyofftop) — zx spectrum offtop themes (RUS/ENG talks)
+* [Speccy offtop](https://t.me/speccyofftop) — zx spectrum off-topic themes (RUS/ENG talks)
 * [Speccy flame | group](https://t.me/speccyflame) — Спекки флейм
 * [Тут БЫЛ дихальт](https://t.me/nedopc_party) — Тут БЫЛ дихальт — неофициальная группа дихальта от лица дихальта
 * [ZX Chat](https://t.me/zxchat) — Чат для веселого и непринужденного общения спектрумистов на любые темы
-* [ZX Software](https://t.me/zxsoftware) — Чат для обсуждения спектрумского soft'а.
-* [ZX Spectrum Chat](https://t.me/joinchat/CyRx59yXOydmYmMy) — Общение по ретро-компьютерам, в частности ZX Spectrum
+* [~~ZX Software~~](https://t.me/zxsoftware) — Чат для обсуждения спектрумского soft'а
+* [~~ZX Spectrum Chat~~](https://t.me/joinchat/CyRx59yXOydmYmMy) — Общение по ретро-компьютерам, в частности ZX Spectrum
 * [ZX.SPECTRUM [RU]](https://t.me/spectrum_zx) — ZX Spectrum и всё, что с ним связано
 * [speccy future](http://t.me/speccyfuture) — Future of ZX Spectrum ecosystem, in Russian & English
 * [ZX Spectrum reborn](https://t.me/ZxReborn) — Пайка спектрумов, советы респекты подсказки
 * [Паблик Пьяной Мухи](https://t.me/drunkflypublic) — Паблик Пьяной Мухи
-* [Группа ZX-PK.ru](https://t.me/zxpkru_temp) — Филиал форума zx-pk.ru в телеграмм
+* [~~Группа ZX-PK.ru~~](https://t.me/zxpkru_temp) — Филиал форума zx-pk.ru в телеграмм
 * [CP/M](https://t.me/CPM_80) — Группа фанатов ОС СР/М , спектрумов-хуектрумов и им сочувствующих
 * [Virtual TR-DOS](https://t.me/vtrdin) — Virtual TR-DOS and Speccy software related
 * [ZX Spectrum reborn](https://t.me/zxReborn) — zx reborn чат
@@ -106,14 +106,14 @@ weight = 1
 * [ZX Speccy](https://t.me/zxnews) — Телеграм-канал проекта ZX Speccy. Важные новости из мира ZX Spectrum'а: игры, железо, люди
 * [ZX-CHIP podcast](https://t.me/zxchip) — Recent podcast issues
 * [Unreal speccy portable](https://t.me/unrealspeccyp)
-* [Speccy Games](https://t.me/speccygames)
+* [~~Speccy Games~~](https://t.me/speccygames)
 * [ZX memas](https://t.me/truezxmemas)
 * [ZX Spectrum](https://t.me/sinclairspectrum)
 * [ZX-Art](https://t.me/zxart_ee) — Updates, changes, events, news
 * [Отмороженный пиксель](https://t.me/zxgrafen) — Голландский антиштурвал ZX-сцены
 * [Virtual TR-DOS](https://t.me/vtrdos)
 * [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup)
-* [Архиспектрум](https://t.me/zxarch)
+* [~~Архиспектрум~~](https://t.me/zxarch)
 * [sinc LAIR](https://t.me/sinc_LAIR)
 * [ZX Барахолка](https://t.me/zxfleamarket) — Барахолка. Продажа\покупка.
 * [Torn Metal](https://t.me/torn_metal) — Новая RTS для ZX Spectrum (в разработке)
