@@ -17,13 +17,14 @@ weight = 4
 * [Unreal (tslabs)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) — Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution
 * [Unreal_NS](https://github.com/NEO-SPECTRUMAN/Unreal_NS/) — запилен на основе UnrealSpeccy 0.39.0 от DeathSoft-а смерженного с Unreal r1006 из NedoPC repo. Основными целями заведения новой ветки унриала есть повышение удобства дебага, фикс багов которые не фиксятсо 20-летиями и добавление новых железок
 * [UNREAL-NG](https://github.com/alfishe/unreal-ng) — Fully re-engineered Unreal Speccy emulator. Cross-platform emulation core: Windows 32-bit, Windows 64-bit, Linux 32/64-bit, macOS 64-bit
-* [ZEsarUX](https://github.com/chernandezba/zesarux) — ZX Second-Emulator And Released for UniX. Created by Cesar Hernandez Bano. It's a ZX Machines Emulator for UNIX-based operating systems (and Windows), including all the Sinclair computers.
-* [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator — Virtual Machine.
-* [FUSE](https://fuse-emulator.sourceforge.net/) — Fuse (the Free Unix Spectrum Emulator) was originally, and somewhat unsurprisingly, a ZX Spectrum emulator for Unix. However, it has now also been ported to Mac OS X, Windows, Android, Haiku, AmigaOS 4, MorphOS, PSP, Wii, etc.
+* [ZEsarUX](https://github.com/chernandezba/zesarux) — ZX Second-Emulator And Released for UniX. Created by Cesar Hernandez Bano. It's a ZX Machines Emulator for UNIX-based operating systems (and Windows), including all the Sinclair computers
+* [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator — Virtual Machine
+* [ZXMAK.NET](https://sourceforge.net/projects/zxmak-dotnet/) — The Free .NET ZX Spectrum Emulator, written in C#
+* [FUSE](https://fuse-emulator.sourceforge.net/) — Fuse (the Free Unix Spectrum Emulator) was originally, and somewhat unsurprisingly, a ZX Spectrum emulator for Unix. However, it has now also been ported to Mac OS X, Windows, Android, Haiku, AmigaOS 4, MorphOS, PSP, Wii, etc
 * [ZXSpectr](https://github.com/chernandezba/zxspectr) — It's a ZX Spectrum emulator written entirely in Assembler. It runs under MS-DOS
 * [Speccy](https://fms.komkon.org/Speccy/) — Portable Sinclair ZX Spectrum and Sam Coupe Emulator by Marat Fayzullin. It runs under Windows/Linux/Android/MS-DOS/Symbian/Maemo
 * [Glukalka ZX Spectrum Emulator](http://www.sanarin.ru/glukalka/) — Glukalka is a emulator of ZX Spectrum 48K/128K and Spectrum clones. It runs on Linux/Windows/MacOS/Anroid
-* [RETRO Virtual Machine](https://www.retrovirtualmachine.org/) — The Zx Spectrum, Amstrad CPC, MSX-1, SG-1000, and Sega Master System emulator for Windows, macOS, and Linux.
+* [RETRO Virtual Machine](https://www.retrovirtualmachine.org/) — The Zx Spectrum, Amstrad CPC, MSX-1, SG-1000, and Sega Master System emulator for Windows, macOS, and Linux
 * [LnxSpectrum](https://www.ilnx.cz/lnxsp/) — Emulator of the vintage computer Sinclair ZX Spectrum 48, ZX Spectrum 128, Didaktik Gama 80 clone, and the less common Didaktik Gama 192, Sparrow 48K clones. It also emulates the MB03+ interface
 * [Es.pectrum](https://habisoft.com/espectrum/EN.htm) — Эмулирует различные версии компьютеров Spectrum, Timex, TK-90x/95x, Pentagon (включая 1024 SL), Scorpion, ATM 1 и 2, Альф, Дубна и т.д. А также различное железо: Gun Stick, MIDI, IDE интерфейсы, P.D.S., Spectranet, MB02+, Dandanator, 16C и так далее
 * [InkSpector 2](http://www.inkland.org.uk/inkspector/index.htm) — Accurate Sinclair ZX Spectrum emulator for Windows
