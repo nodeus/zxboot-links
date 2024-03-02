@@ -28,6 +28,7 @@ weight = 4
 * [LnxSpectrum](https://www.ilnx.cz/lnxsp/) — Emulator of the vintage computer Sinclair ZX Spectrum 48, ZX Spectrum 128, Didaktik Gama 80 clone, and the less common Didaktik Gama 192, Sparrow 48K clones. It also emulates the MB03+ interface
 * [Es.pectrum](https://habisoft.com/espectrum/EN.htm) — Эмулирует различные версии компьютеров Spectrum, Timex, TK-90x/95x, Pentagon (включая 1024 SL), Scorpion, ATM 1 и 2, Альф, Дубна и т.д. А также различное железо: Gun Stick, MIDI, IDE интерфейсы, P.D.S., Spectranet, MB02+, Dandanator, 16C и так далее
 * [InkSpector 2](http://www.inkland.org.uk/inkspector/index.htm) — Accurate Sinclair ZX Spectrum emulator for Windows
+* [ZX Speculator](https://github.com/deanthecoder/ZXSpeculator) — cross-platform ZX Spectrum 48K emulator written in C# (Win/Mac Os)
 * [X128](https://x128.speccy.cz/x128wip/x128wip.htm) - WIP Windows Version
 * [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/) — Emulator for the range of ZX home computers made by Sinclair Research (and their clones) in the 1980s, primarily the ZX80 and ZX81 but also includes the ZX Spectrum models
 * [Plus-F](http://plus-f.socialthingy.com/) — A ZX Spectrum emulator with network play capabilities [Git](https://github.com/alangibson27/plus-f)
