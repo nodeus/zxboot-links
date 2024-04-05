@@ -140,6 +140,7 @@ RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [ZX Maps Creator v1.51 by Pavero'07](https://vtrd.in/pcutilz/ZXMAPSCR.zip) — free PC редактор для создания карт к играм
 * [ZX Pascal Sprite generator v2.0.1 by AzAtom'16](https://vtrd.in/pcutilz/ZXSPR201.zip) — free PC генератор спрайтов для ZX Like Pascal
 * [ZX Screen by Dwa83'20](https://vtrd.in/pcutilz/ZXSCRDWA.zip) — free PC конвертер графики
+* [scrconv - ZX Spectrum SCR converter](https://github.com/mrcook/scrconv) — CLI app to convert ZX Spectrum 8-bit SCR images to PNG/GIF/JPG
 * [ZX Screen Snapper v2.90 by Pavero'13](https://vtrd.in/pcutilz/ZXSSNAPP.zip) — free PC программа для сохранения графики из эмуляторов
 * [ZX Screen v1.1.0.0 by SGO'18](https://vtrd.in/pcutilz/ZXSCR1_1.zip) — free PC утилита для просмотра ZX Spectrum графики форматов SCR, IMG
 * [ZX Screen View by g0blinish'16](https://vtrd.in/pcutilz/ZXSCRV.zip) — free PC просмотрщик файлов как картинок с возможностью сохранения
@@ -155,6 +156,7 @@ RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [ZX-Extractor 2](http://fight.pp.ua/examples/zx-extractor2/) — Поиск спрайтов в играх
 * [zx gimp plugins](https://github.com/UriShap/ZX_GIMP_plugins) — плагин для gimp-а, позволяющий читать и сохранять файлы прямо в .scr формате (при этом цвет (255, 127, 0) выводится как скрытые пиксели
 * [Gfx2Next](https://github.com/benbaker76/Gfx2Next) — ZX Spectrum Next graphics conversion tool. Converts an uncompressed 8-bit BMP or PNG file to the Sinclair ZX Spectrum Next graphics format(s)
+* [imageconvert by Ben Daluz 2020](https://github.com/bendyzx/imageconvert) — Конвертор графики для ZX Spectrum Next на Питоне
 * [ZX Graphics Editor by DuefectuCorp](https://marketplace.visualstudio.com/items?itemName=DuefectuCorp.zxgraphics) — free PC extension for Visual Studio Code that allows to manage extensions .gdu / .udg (User Defined Graphics) and .fnt (custom fonts) files for classic ZX Spectrum
 * [ZX Spectrum UDG Editor](https://mosaicmap.itch.io/zx-spectrum-udg-editor) — free PC Simple UDG (User Defined Graphics) character editor for Sinclair ZX Spectrum BASIC
 * [zxED](https://sourceforge.net/projects/zxed/) allows users to load in popular ZX Spectrum emulator file formats and view it contents. Currently you can display the memory as bitmaps allowing you to rip any sprites or graphics and save them as images
