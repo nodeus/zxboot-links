@@ -13,6 +13,11 @@ weight = 3
 * [DeZog](https://github.com/maziac/DeZog) — Расширение для VSCode для программирования под Spectrum | [(Пример настройки DeZog)](https://github.com/maziac/z80-sample-program)
 * [BasinC](https://arda.kisafilm.org/blog/?cat=13&lang=en) — Эмулятор и полезные утилиты для программирования и разработки на zx basic
 * [Klive IDE Project](https://github.com/Dotneteer/kliveide) — a Sinclair retro computer emulator and Integrated Development Environment running on Mac, Linux and Windows
+* [SpectNet IDE](https://dotneteer.github.io/spectnetide/) — Visual Studio 2017/2019 integrated ZX Spectrum IDE
+* [zx80-dev-tools](https://github.com/joegasewicz/zx80-dev-tools) — ZX Spectrum NEXT development tools for MacOS
+* [8bitworkshop IDE](https://8bitworkshop.com/) — Online IDE для разработки программ для различных систем включая ZX Spectrum 48k, NES, Atari 2600, Sega Game Gear, MSX, C64, Amstrad CPC6128
+* [zx-basic-syntax](https://github.com/patters-match/zx-basic-syntax) — ZX BASIC language syntax for editing .bas files in Sublime Text 3 code editor. It also supports regular Sinclair BASIC, and zmakebas listings
+* [Z80 Development Toolchain](http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/assembly-language/z80-development-toolchain) — IDE на базе Visual Studio Code
 ## Libs, code samples
 * [ZXDN](http://alexanderk.ru/zxdn/) — Коллекция материалов по творчеству на компьютере ZX Spectrum: программирование, графика, музыка. [ZXDN | оригинал на uCoz](http://zxdn.narod.ru/)
 * [Open Source ZX](http://opensourcezx.untergrund.net/index.html) — ZX Spectrum open source
@@ -23,6 +28,7 @@ weight = 3
 ## Справочники
 * [Таблица опкодов Z80](https://clrhome.org/table/) — Удобная таблица опкодов Z80
 * [z80ops](https://vtrd.in/z80ops.html) — Справочник по командам Z80 (с тактами и поиском)
+* [Z80N (ZX Spectrum Next) extended instructions](https://table.specnext.dev/) — Таблица опкодов Z80N 
 * [Home of Z80](http://www.z80.info/) — Thomas Scherrer Z80-Family Official Support Page
 * [Z80 ASM Optimization Tricks - v2.1 (by Adam Ziemba, 2006)](https://www.ticalc.org/archives/files/fileinfo/285/28502.html) — Learn all the optimization tricks used in Z80 Assembly. Topics include Z80 ASM Literacy (how to properly communicate Z80 ASM notion), Time Consvervation, and Memory Conservation. This guide covers everything you'll need in order to write assembly programs with optimal efficiency
 * [Z80 Optimization Technies v1.1 (by Christopher Tremblay, 2000)](https://www.ticalc.org/archives/files/fileinfo/108/10821.html) — Advanced Z80 Assembler optimization techniques. Learn how to get the tighest code & most performing code to add those extra features
@@ -31,6 +37,9 @@ weight = 3
 * [First Steps in Z80 Assembly Language v1.2.4 (by Darryl Sloan)] [pdf](http://ped.7gods.org/z80.pdf) + [YouTube](https://www.youtube.com/watch?v=1gHlMpO8gqw)
 * [Z80 Assembly Language Subroutines PDF (by Lance A. Leventhal and Winthrop Saville, 1983)](http://www.bitsavers.org/pdf/osborne/books/Z80_Assembly_Language_Subroutines_1983.pdf)
 * [ZX Spectrum Next Assembly Developer Guide](https://github.com/tomaz/zx-next-dev-guide) — The book is divided into three parts. First, it looks into Zilog Z80, history, registers, flags, timing, and interrupts and less known features like undocumented effects and instructions. The second part is devoted to ZX Spectrum Next. It explains new technologies from the perspective of assembler developers. Many are accompanied by example code or even fully working companion projects. The last part of the book lists all Z80 and Next extended instructions. It attempts to cover them from multiple perspectives: a quick list with basic information, a detailed list with descriptions, effects, timing tables, and sorted lists of all variants with their hex opcodes.
+* [NXtel FAQ](https://github.com/Threetwosevensixseven/NXtel/wiki/FAQ) — NXtel is a complete viewdata BBS system using teletext graphics, designed to be used by modern, retro and mobile devices
+* [nxtp FAQ](https://github.com/Threetwosevensixseven/nxtp/wiki/FAQ) — Network neXt Time Protocol
+* 
 ## Compression tools
 * [ZX0](https://github.com/einar-saukas/ZX0) — optimal data compressor for a custom [LZ77/LZSS](https://en.wikipedia.org/wiki/Lempel–Ziv–Storer–Szymanski) based compression format, that provides a tradeoff between high compression ratio, and extremely simple fast decompression. Therefore it's especially appropriate for low-end platforms, including 8-bit computers like the ZX Spectrum.
 * [Salvador](https://github.com/emmanuel-marty/salvador) (ZX0 friend)
