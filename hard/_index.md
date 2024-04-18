@@ -37,6 +37,7 @@ weight = 4
 * [M.A.M.E.](https://www.mamedev.org/) — Multi-purpose emulation framework
 * [RetroArch](https://www.retroarch.com/index.php) — Бесплатный кроссплатформенный интерфейс с открытым исходным кодом для эмуляторов различных платформ. ZX Spectrum эмулируется через ядро FUSE
 * [DSP](https://github.com/leniad/dsp-emulator) — Еще один эмулятор много-в-одном - аркадные автоматы, консоли, Спектрумы-Амстрады, вот это все
+* [ARES](https://ares-emu.net/) — кроссплатформенный, опенсорсный, мультисистемный эмулятор - начиналось все с эмуляции домашних консолей, постепенно дошли до MSX и ZX Spectrum
 * [M.CU.M.E](https://github.com/Jean-MarcHarvengt/MCUME) — Multi CompUter Machine Emulator. A collection of 80th game Console and Computer emulators ported to Teensy, raspberry PICO, and ESP32 MCUs
 * [CSpect](http://www.cspect.org/) — Emulates many features of the Next and includes a fully featured debugger, complete with 24-bit breakpoints and an assembler
 * [SpecEmu](https://specemu.zxe.io/) — SpecEmu emulator (for snow/rain "enable ula snow")
@@ -50,6 +51,7 @@ weight = 4
 * [ZX-Poly](https://github.com/raydac/zxpoly) — a multi-CPU ZX-Spectrum 128 concept platform. Эмуляция ZX128 с 4мя z80 работаюшими параллельно для увеличения разрешения/устранения клэшинга атрибутов
 * [EmuZWin] — Windows-версия эмулятора Кладова. Эмуляция различных моделей, включая +3/Scorpion/ATM-1/2, Встроенный debugger + debugger GS, поддержка 256-цветных игр и сетевой игры! Оф.ссылки более не активны, последнюю доступную версию v2.7 release 2.8 можно скачать с [emu-land](https://www.emu-land.net/computers/zx_spectrum/emuls/windows)
 * [Z80Stealth](https://z80.emu-russia.net/index.html) — Версия 1.23 под Windows
+* [ZXSpectrum4.net](https://www.zxspectrum4.net/index.php) — Эмулятор для .net. Платный. В бесплатной версии только 48к. В платной добавляется 128/+2/+3 с AY, ассемблер, дебаггер, сеть и пр.
 * [pico-zxspectrum](https://github.com/fruit-bat/pico-zxspectrum) — ZX Spectrum for Raspberry Pico Pi RP2040
 * [ZXBaremulator](https://zxmini.speccy.org/en/index.html) — the first complete ZX Spectrum 48K/128K/+2A bare-metal emulator for the Raspberry Pi computers
 * [ESPectrum](https://github.com/EremusOne/ESPectrum) — A ZX spectrum 48K, 128K, and Pentagon 128 emulator running on the Espressif ESP32 SoC
