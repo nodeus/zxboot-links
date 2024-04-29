@@ -19,6 +19,7 @@ weight = 3
 * [zx-basic-syntax](https://github.com/patters-match/zx-basic-syntax) — ZX BASIC language syntax for editing .bas files in Sublime Text 3 code editor. It also supports regular Sinclair BASIC, and zmakebas listings
 * [BorIDE](http://members.inode.at/838331/pc.html) — IDE для Boriels ZX BASIC, правда обновлялось последний раз в 2013
 * [Z80 Development Toolchain](http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/assembly-language/z80-development-toolchain) — IDE на базе Visual Studio Code
+* [Disark](https://julien-nevo.com/disark/) — Disark is a Z80 disassembler by Julien Névo a.k.a. Targhan/Arkos. Disark can create “universal” Z80 source from a binary, allowing you to convert any of your Z80 source into a source that can be understood by a target assembler.
 ## Libs, code samples
 * [ZXDN](http://alexanderk.ru/zxdn/) — Коллекция материалов по творчеству на компьютере ZX Spectrum: программирование, графика, музыка. [ZXDN | оригинал на uCoz](http://zxdn.narod.ru/)
 * [Open Source ZX](http://opensourcezx.untergrund.net/index.html) — ZX Spectrum open source
