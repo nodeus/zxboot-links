@@ -41,6 +41,10 @@ weight = 4
 * [M.CU.M.E](https://github.com/Jean-MarcHarvengt/MCUME) — Multi CompUter Machine Emulator. A collection of 80th game Console and Computer emulators ported to Teensy, raspberry PICO, and ESP32 MCUs
 * [CSpect](http://www.cspect.org/) — Emulates many features of the Next and includes a fully featured debugger, complete with 24-bit breakpoints and an assembler
 * [SpecEmu](https://specemu.zxe.io/) — SpecEmu emulator (for snow/rain "enable ula snow")
+* [ZXSEC](http://cngsoft.no-ip.org/cpcec.htm) — CPCEC Amstrad CPC emulator and its siblings ZXSEC, CSFEC and MSXEC
+* [Swan](https://github.com/zoran-vucenovic/swan) — ZX Spectrum emulator for Windows and Linux. Might compile and run on Mac, but not tested
+* [vbSpec](https://sourceforge.net/projects/vbspec/) — ZX Spectrum emulator written in Visual Basic 6. This is a quite old project and quite a dead one, to be honest. Back in 2003 I took over this project from Chris Cowley and added a UI for introducing POKEs, full screen and joystick support ... and since then, nothing happened. The application is still functional and can be installed
+* [WinXZX](http://www.emu-france.com/emulateurs/10-ordinateurs/173-sinclair-zx-spectrum/1000/1237-winxzx/) — Эмулятор Spectrum 48k/128, работающий под Windows. Не очень быстрый, рекомендуется процессор Pentium II ;)
 * [Online emulator in browser](https://zxn.ru) — Z80 assembler, disassembler, hex/dec/bin converter, ZX spectrum emulator in the browser
 * [RVMPlayer](https://www.retrovirtualmachine.org/rvmplayer/) — Embedable emulator of Amstrad CPC and ZX Spectrum
 * [Sprinter Sp2000](https://emu.sprinter.ru/) — Online Sprinter 2000 Emulator
