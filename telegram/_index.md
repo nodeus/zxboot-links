@@ -106,9 +106,9 @@ weight = 1
 #### Enterprise
 * [ retrocompEnterprise](https://t.me/Enterprise_retrocomp) — Сообщество по компьютеру ENTERPRISE
 #### Other
-[ПЭВМ ИРИША](https://t.me/pevm_irisha) — ПЭВМ ИРИША
-[ПК8000 СУРА и др](https://t.me/PK8000Sura) — ПК8000 Сура и другие
-[МЦВМ Сетунь](https://t.me/setun_1958) — Ternary Computers: The Setun
+* [ПЭВМ ИРИША](https://t.me/pevm_irisha) — ПЭВМ ИРИША
+* [ПК8000 СУРА и др](https://t.me/PK8000Sura) — ПК8000 Сура и другие
+* [МЦВМ Сетунь](https://t.me/setun_1958) — Ternary Computers: The Setun
 # Telegram channels
 ### ZX
 * [ZX Speccy](https://t.me/zxnews) — Телеграм-канал проекта ZX Speccy. Важные новости из мира ZX Spectrum'а: игры, железо, люди
