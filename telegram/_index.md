@@ -131,7 +131,7 @@ weight = 1
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
 * [DMSCN](https://t.me/demoscene) — На периферии демосцены
-### Other
+### Other chans
 * [HYPERADIO](https://t.me/joinchat/AAAAADua1EIhVuFK6ev0Hg) — info, news and messages
 * [Chiptune](https://t.me/chiptune)
 * [Revision demoparty](https://t.me/revisionparty) — Revision demoparty
@@ -139,7 +139,6 @@ weight = 1
 * [EMULATE.SU](https://t.me/emulate)
 * [Chaos good news](https://t.me/chaosconstructionsnews) — Chaos constructions news
 * [SunVox news](https://t.me/sunvox)
-* [zxaaa](https://t.me/zxaaa_bot)
 * [News Out Of Compo](https://t.me/outofcompo)
 * [ЭлектроКот — Техноблог](https://t.me/electro_kot) — Техноновости из будущего и прошлого
 * [Sprinter computer](https://t.me/zx_sprinter_computer) — Информационный канал в телеграм о компьютере Sprinter. Новости и исторические данные.
@@ -154,3 +153,4 @@ weight = 1
 * [ZXFox_bot](https://t.me/zx_fox_bot) — конвертирование графики, запуск бейсик программ
 * [ZXART getter](https://t.me/ZXArtGetterBot) — Getting random Pixel Art or Chiptune Music! ZX Spectrum retro platform. Bot for «ZX Spectrum Art Daily» channel
 * [cafeparty_video_bot](https://t.me/DemosceneVideoBot) — random demoscene video from youtube
+* [zxaaa](https://t.me/zxaaa_bot)
