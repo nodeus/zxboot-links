@@ -59,6 +59,7 @@ weight = 2
 * [Tom Dalby](https://www.tomdalby.com/) — Tom`s homepage (retro computing projects and coding)
 * [Черный форум BK0010](http://bk0010.forum20.ru/forum/) — форум посвященный эмуляторам БК0100
 * [Amiga Information Center](http://www.amiga.org.ru/) — информационный портал для пользователей компьютера Амига
+* [Компьютерный музей retro-computer.ru](https://retro-computer.ru) — сайт компьютерного музея
 ## Video
 ### Video blogs
 * [Дмитрий Бачило («16 бит тому назад», «кремниевые титаны» и др.)](https://www.youtube.com/user/BachiloDmitry) — Этот канал в основном посвящен обзорам всякого старого железа и софта, впрочем не только старого

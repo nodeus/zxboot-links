@@ -74,9 +74,13 @@ weight = 1
 * [Секта свидетелей ДЕДА](https://t.me/joinchat/AYIzeEVyi9mndNYtTHfRqA) — Официальный филиал СПОРТЛОТО. BOЯNДЕД (sid'ёж, pi'рдёж). Все премьеры ДЕDFLIX originals, МузыкаДляМужика и много иного угара... Вступай!
 * [Old-Hard флудильня](http://t.me/oldhard) — Флудильня old-hard
 * [Реставрация ретро-ЭВМ](https://t.me/restore_not_save) — Обсуждение реставрации и восстановления (кроме схемотехники) - подходы, лайф-хаки, физика, химия и философия
+#### Hardware
+* [mice farm](https://t.me/mice_farm) — Коллекция компьютерных мышек «Мышиная возня»
+* [old mice and hw](https://t.me/old_mice_and_hw) — Коллекция компьютерных мышек «Old mice & hardware by Pavlov»
 #### Coding and programming
 * [Newskool demomaker\`s chat](https://t.me/pcdemomaking) — Newskool Demoscene/Demomakers community (Eng/Rus)
 * [SizeCoders Chat](https://t.me/sizecoders) — SizeCoding tricks discussion
+* [[TF] Форт и общение фортеров](https://t.me/ruforth) — чат для общения фортеров
 #### Music
 * [HYPERADIO](https://t.me/hyperadio) — Demoscene online radio Hyperadio
 * [Chipmusic](https://t.me/chipmusic)
@@ -99,6 +103,12 @@ weight = 1
 #### 8080 \ 8085 \ 8086
 * [ПК на 8080|8085 — hardware](https://t.me/vm80a) — Радио-86РК, Специалист, Орион, ЮТ-88 и т.д. Hardware.
 * [PC8086](https://t.me/PC8086) — ПК на 8088|8086
+#### Enterprise
+* [ retrocompEnterprise](https://t.me/Enterprise_retrocomp) — Сообщество по компьютеру ENTERPRISE
+#### Other
+[ПЭВМ ИРИША](https://t.me/pevm_irisha) — ПЭВМ ИРИША
+[ПК8000 СУРА и др](https://t.me/PK8000Sura) — ПК8000 Сура и другие
+[МЦВМ Сетунь](https://t.me/setun_1958) — Ternary Computers: The Setun
 # Telegram channels
 ### ZX
 * [ZX Speccy](https://t.me/zxnews) — Телеграм-канал проекта ZX Speccy. Важные новости из мира ZX Spectrum'а: игры, железо, люди
@@ -135,6 +145,8 @@ weight = 1
 * [Sprinter computer](https://t.me/zx_sprinter_computer) — Информационный канал в телеграм о компьютере Sprinter. Новости и исторические данные.
 * [Hot Pixel](https://t.me/HotPixel_Channel) — Канал о старых железяках, ретро компьютерах и консолях
 * [Darkman007](https://t.me/Darkman007_Official) — Фанклуб Darkman007
+* [XLAT](https://t.me/xlat8086_retro) — My collection of retrocomputers & other retrotech @xlat8086 (коллекционер Наталья aka XLAT)
+* [Компьютерный музей retro-computer.ru](https://t.me/retro_computer_ru) — канал компьютеного музея retro-computer
 # Telegram bots
 * [Hyperadio bot](https://t.me/hyperadio_bot) — Nowplay, request
 * [КОН ВЕР ТЕР](https://t.me/zxconvbot) — Конвертер pt3 —> mp3
