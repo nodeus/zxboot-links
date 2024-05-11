@@ -54,20 +54,18 @@ weight = 1
 * [Speccy flame | group](https://t.me/speccyflame) — Спекки флейм
 * [Тут БЫЛ дихальт](https://t.me/nedopc_party) — Тут БЫЛ дихальт — неофициальная группа дихальта от лица дихальта
 * [ZX Chat](https://t.me/zxchat) — Чат для веселого и непринужденного общения спектрумистов на любые темы
-* [~~ZX Software~~](https://t.me/zxsoftware) — Чат для обсуждения спектрумского soft'а
-* [~~ZX Spectrum Chat~~](https://t.me/joinchat/CyRx59yXOydmYmMy) — Общение по ретро-компьютерам, в частности ZX Spectrum
 * [ZX.SPECTRUM [RU]](https://t.me/spectrum_zx) — ZX Spectrum и всё, что с ним связано
 * [speccy future](http://t.me/speccyfuture) — Future of ZX Spectrum ecosystem, in Russian & English
 * [ZX Spectrum reborn](https://t.me/ZxReborn) — Пайка спектрумов, советы респекты подсказки
 * [Паблик Пьяной Мухи](https://t.me/drunkflypublic) — Паблик Пьяной Мухи
-* [~~Группа ZX-PK.ru~~](https://t.me/zxpkru_temp) — Филиал форума zx-pk.ru в телеграмм
 * [CP/M](https://t.me/CPM_80) — Группа фанатов ОС СР/М , спектрумов-хуектрумов и им сочувствующих
 * [Virtual TR-DOS](https://t.me/vtrdin) — Virtual TR-DOS and Speccy software related
 * [ZX Spectrum reborn](https://t.me/zxReborn) — zx reborn чат
 * [ZX Spectrum [RU] (only ontopic)](https://t.me/zxspectrum_ru) — Группа по общению на любые темы о ZX Spectrum
 * [Bleep Market](https://t.me/bleepmarket) — Продажа, покупка и обмен компьютерной техники и переферии выпущенной до 2000г.
 * [Кибер-музей в Муроме](https://t.me/museum_computer) — Официальная группа  музея для общения и любых вопросов (сайт http://museum.computer/)
-* [Retro Development](https://t.me/RetroDevelopment) — Если случайно вы что-то делает интересное в ретро теме и хотите делиться своим прогрессом и получать обратную связь, то вам сюда.
+* [Retro Development](https://t.me/RetroDevelopment) — Если случайно вы что-то делает интересное в ретро теме и хотите делиться своим прогрессом и получать обратную связь, то вам сюда
+* [Sinclair QL](https://t.me/sinclair_ql) — Чат посвещен старшему брату ZX Spectrum - Sinclair QL, обсуждение, сборка, софт
 * [ZX_MURMULATOR](https://t.me/ZX_MURMULATOR) — Основная тема – эмуляторы спектрум совместимых компьютеров. Но и смежные тематики по ZX Spectrum'у не осуждаются
 ### Demoscene and retroscene other
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
@@ -113,7 +111,6 @@ weight = 1
 * [Отмороженный пиксель](https://t.me/zxgrafen) — Голландский антиштурвал ZX-сцены
 * [Virtual TR-DOS](https://t.me/vtrdos)
 * [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup)
-* [~~Архиспектрум~~](https://t.me/zxarch)
 * [sinc LAIR](https://t.me/sinc_LAIR)
 * [ZX Барахолка](https://t.me/zxfleamarket) — Барахолка. Продажа\покупка.
 * [Torn Metal](https://t.me/torn_metal) — Новая RTS для ZX Spectrum (в разработке)
