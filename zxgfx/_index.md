@@ -203,6 +203,7 @@ RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [Burial GFX Editor v3.05](https://vtrd.in/system/BGE305.zip) by Delirium Tremens / Freedom'01
 * [Burial GFX Editor v3.11 fix 20.12.2019](https://vtrd.in/system/BGE.zip) by Delirium Tremens / Freedom'01, Dart Alver'19 
 * [Chunks Gfx Editor v1.2](https://vtrd.in/system/CGE_12.ZIP) by n-Discovery'99
+* [Phanes](https://zxart.ee/eng/software/tool/graphics/graficheskie-redaktory/phanes/) by PLM'24 - графический редактор с поддержкой формата Scorpion GMX 640x200
 * [Double Screen Editor v0.7](https://vtrd.in/system/DBS07.ZIP) by 4th Dimension'01, Alone Coder'04
 * [Editor for Massives](https://vtrd.in/system/E4M.zip) by Beermanz'99
 * [Excess de Luxe Paint v2.1b](https://vtrd.in/system/EDP21B.ZIP) by Excess Team'01
