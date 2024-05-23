@@ -121,7 +121,6 @@ weight = 2
 * [Bintracker](https://bintracker.org/) — a modern programmable Chiptune music editor. It is currently in development, with a beta release coming soon. Bintracker supports any music engine on any plaform through the versatile MDAL abstraction layer, so you can compose for SID, AY, FM, Beeper... all with one tool
 * [Beepola](http://freestuff.grok.co.uk/beepola/) — Beepola is a tracker-style music editor for Windows, capable of compiling songs into a form suitable for playback on Sinclair Spectrum and compatible computers
 * [1tracker](http://shiru.untergrund.net/files/1tracker.zip) — 1tracker is an always-experimental multiplatform chiptune cross-tracker, a 'multitracker' for short
-  
 ### Music bands and musicians
 * [Mister Beep | musician](http://mister_beep.republika.pl/) — I'm Mister Beep. I make micromusic/chiptunes but it's not typical micromusic. It is real ONE BIT music made using TIMEX 2048 (48Kb of RAM) and its BEEPER
 * [MmcM Studio | musician](http://mmcm.ru/) — MmcM homepage
@@ -173,6 +172,7 @@ weight = 2
 * [zx spectrum fonts 2 (Jim blimey)](https://www.jimblimey.com/blog/32-more-zx-spectrum-fonts/)
 * [zx origins](https://damieng.com/typography/zx-origins/) — 8x8 pixel fonts
 * [pixel fonts](https://disk.yandex.ru/d/PEHab30JruCNFg) — пиксельные шрифты (png, gif)
+* [zx-fonts](https://github.com/ZXSpectrumVault/zx-fonts) — подборка шрифтов, извлеченныехиз игр ZX Spectrum
 ### GFX Communities
 * [Pixeljoint | pixelart archive](http://pixeljoint.com/) — Big pixelart community
 * [Deviant Art | art community](https://www.deviantart.com/) — Big digital art community

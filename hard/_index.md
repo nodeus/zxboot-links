@@ -84,5 +84,7 @@ weight = 4
 * [Tetroid hardware](http://tetroid.nedopc.com/) — Предлагаю собранные платы и конструкторы ZX-Evolution, Neo-GS и сопутствующие товары
 * [The Brain Dump](https://floooh.github.io/archive/) — Подборка статей о точной эмуляции z80
 * [ZX-BUS](https://github.com/atsidaev/zxbus) — ZX-BUS Kicad symbols and footprints
-* [VGA и HDMI для ZX Spectrum](https://boosty.to/alexekb/posts/f4d7d8a4-ba0f-495e-a0c2-21ab5faf1da3) — Несколько вариантов подключить ZX Spectrum к современным телевизорам и мониторам.
+* [VGA и HDMI для ZX Spectrum](https://boosty.to/alexekb/posts/f4d7d8a4-ba0f-495e-a0c2-21ab5faf1da3) — Несколько вариантов подключить ZX Spectrum к современным телевизорам и мониторам
+* [MiSTer FPGA (Rus)](https://t.me/misterfpgarus) — Всё о проекте MiSTer FPGA на русском (канал)
+* [MiSTer FPGA (Rus chat)](https://t.me/+3cA6njGL0O1jMzBi) — Русский чат проекта MiSTer
 

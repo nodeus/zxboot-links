@@ -128,6 +128,7 @@ weight = 1
 * [Давай, Калантай!](https://t.me/davajkalantaj) — Канал о жизни одного сельского спектрумиста...
 * [ZX-Art Daily](https://t.me/zxartdaily) — ZX-Art на каждый день, пиксельная графика и чиптюн музыка старого доброго ZX-Spectrum с zxart.ee
 * [TS-conf video](https://t.me/tsconf_video) — TS-conf video archive
+* [zx-tabloid](https://t.me/zx_tabloid) — speccy rumors / scene tabloid (слухи спектрума и демосцены)
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
 * [DMSCN](https://t.me/demoscene) — На периферии демосцены
