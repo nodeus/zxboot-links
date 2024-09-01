@@ -8,7 +8,7 @@ weight = 3
 В этом разделе собраны ссылки о программировании для z80
 {{< /lead >}}
 
-## IDE, compilers
+## IDE, compilers, tools
 * [SjASMPlus](https://github.com/z00m128/sjasmplus/releases) + [Documentation](https://z00m128.github.io/sjasmplus/documentation.html)
 * [DeZog](https://github.com/maziac/DeZog) — Расширение для VSCode для программирования под Spectrum | [(Пример настройки DeZog)](https://github.com/maziac/z80-sample-program)
 * [BasinC](https://arda.kisafilm.org/blog/?cat=13&lang=en) — Эмулятор и полезные утилиты для программирования и разработки на zx basic
@@ -20,6 +20,7 @@ weight = 3
 * [BorIDE](http://members.inode.at/838331/pc.html) — IDE для Boriels ZX BASIC, правда обновлялось последний раз в 2013
 * [Z80 Development Toolchain](http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/assembly-language/z80-development-toolchain) — IDE на базе Visual Studio Code
 * [Disark](https://julien-nevo.com/disark/) — Disark is a Z80 disassembler by Julien Névo a.k.a. Targhan/Arkos. Disark can create “universal” Z80 source from a binary, allowing you to convert any of your Z80 source into a source that can be understood by a target assembler.
+* [spectrum-analyser](https://colourclash.co.uk/spectrum-analyser/) — tool that is designed to help reverse engineer ZX Spectrum games & programs. It is a combination of an emulator, debugger & interactive disassembler. Programs are loaded and run in the emulator and their state can be inspected using the tools provided.
 ## Libs, code samples
 * [ZXDN](http://alexanderk.ru/zxdn/) — Коллекция материалов по творчеству на компьютере ZX Spectrum: программирование, графика, музыка. [ZXDN | оригинал на uCoz](http://zxdn.narod.ru/)
 * [Open Source ZX](http://opensourcezx.untergrund.net/index.html) — ZX Spectrum open source
@@ -41,7 +42,7 @@ weight = 3
 * [ZX Spectrum Next Assembly Developer Guide](https://github.com/tomaz/zx-next-dev-guide) — The book is divided into three parts. First, it looks into Zilog Z80, history, registers, flags, timing, and interrupts and less known features like undocumented effects and instructions. The second part is devoted to ZX Spectrum Next. It explains new technologies from the perspective of assembler developers. Many are accompanied by example code or even fully working companion projects. The last part of the book lists all Z80 and Next extended instructions. It attempts to cover them from multiple perspectives: a quick list with basic information, a detailed list with descriptions, effects, timing tables, and sorted lists of all variants with their hex opcodes.
 * [NXtel FAQ](https://github.com/Threetwosevensixseven/NXtel/wiki/FAQ) — NXtel is a complete viewdata BBS system using teletext graphics, designed to be used by modern, retro and mobile devices
 * [nxtp FAQ](https://github.com/Threetwosevensixseven/nxtp/wiki/FAQ) — Network neXt Time Protocol
-* 
+* [zxe.io](https://zxe.io/depot/documents/technical) — техническая документация по ретрокомпьютерам и процессорам
 ## Compression tools
 * [ZX0](https://github.com/einar-saukas/ZX0) — optimal data compressor for a custom [LZ77/LZSS](https://en.wikipedia.org/wiki/Lempel–Ziv–Storer–Szymanski) based compression format, that provides a tradeoff between high compression ratio, and extremely simple fast decompression. Therefore it's especially appropriate for low-end platforms, including 8-bit computers like the ZX Spectrum.
 * [Salvador](https://github.com/emmanuel-marty/salvador) (ZX0 friend)
