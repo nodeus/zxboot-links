@@ -172,7 +172,7 @@ weight = 2
 * [zx spectrum fonts 2 (Jim blimey)](https://www.jimblimey.com/blog/32-more-zx-spectrum-fonts/)
 * [zx origins](https://damieng.com/typography/zx-origins/) — 8x8 pixel fonts
 * [pixel fonts](https://disk.yandex.ru/d/PEHab30JruCNFg) — пиксельные шрифты (png, gif)
-* [zx-fonts](https://github.com/ZXSpectrumVault/zx-fonts) — подборка шрифтов, извлеченныехиз игр ZX Spectrum
+* [zx-fonts](https://github.com/ZXSpectrumVault/zx-fonts) — подборка шрифтов, извлеченных из игр ZX Spectrum
 ### GFX Communities
 * [Pixeljoint | pixelart archive](http://pixeljoint.com/) — Big pixelart community
 * [Deviant Art | art community](https://www.deviantart.com/) — Big digital art community
