@@ -63,6 +63,7 @@ weight = 4
 * [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
 * [Visualz80 Remix](https://floooh.github.io/visualz80remix/) — очень точная (но медленная) визуальная эмуляция z80
 * [Z80](https://github.com/Megatokio/Z80) — Configurable & fast Z80 CPU emulation written in c++
+* [Список эмуляторов zx spectrum](https://github.com/redcode/ZXSpectrum/wiki/Emulators) — репозиторий сылок на эмуляторы
 ## Hardware
 * [speccy4ever](https://speccy4ever.speccy.org/) — дампы ПЗУ
 * [ZIFI ZX Evo](http://ts.retropc.ru/) — ZIFI-КЛИЕНТ ДЛЯ ДОСТУПА К ИНТЕРНЕТ-РЕСУРСАМ

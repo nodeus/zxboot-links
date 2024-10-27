@@ -43,6 +43,9 @@ weight = 3
 * [NXtel FAQ](https://github.com/Threetwosevensixseven/NXtel/wiki/FAQ) — NXtel is a complete viewdata BBS system using teletext graphics, designed to be used by modern, retro and mobile devices
 * [nxtp FAQ](https://github.com/Threetwosevensixseven/nxtp/wiki/FAQ) — Network neXt Time Protocol
 * [zxe.io](https://zxe.io/depot/documents/technical) — техническая документация по ретрокомпьютерам и процессорам
+* [z80float](https://github.com/Zeda/z80float)+[DW0RKiN](https://github.com/DW0RKiN/Floating-point-Library-for-Z80)+[lpfp](https://github.com/nagydani/lpfp) — Floating pont math labs for Z80
+* [The ZX-Spectrum screen layout part 1](http://www.overtakenbyevents.com/lets-talk-about-the-zx-specrum-screen-layout/)+[The ZX-Spectrum screen layout part 2](http://www.overtakenbyevents.com/lets-talk-about-the-zx-specrum-screen-layout-part-two/)+[The ZX-Spectrum screen layout part 3](http://www.overtakenbyevents.com/lets-talk-about-the-zx-specrum-screen-layout-part-three/)
+* [Retro Programming (by John Metcalf)](http://www.retroprogramming.com/)
 ## Compression tools
 * [ZX0](https://github.com/einar-saukas/ZX0) — optimal data compressor for a custom [LZ77/LZSS](https://en.wikipedia.org/wiki/Lempel–Ziv–Storer–Szymanski) based compression format, that provides a tradeoff between high compression ratio, and extremely simple fast decompression. Therefore it's especially appropriate for low-end platforms, including 8-bit computers like the ZX Spectrum.
 * [Salvador](https://github.com/emmanuel-marty/salvador) (ZX0 friend)
@@ -55,7 +58,7 @@ weight = 3
 * [bzpack](https://github.com/mbaze/bzpack)
 * [Apultra](https://github.com/emmanuel-marty/apultra)
 * [LzxPack](https://busy.speccy.cz/download/lzxpack02.rar) + [https://busy.speccy.cz/tvorba/pcprogs.htm](https://busy.speccy.cz/tvorba/pcprogs.htm)
-## GitHub repos
+## Other GitHub repos
 * [VortexTracker 2.6](https://github.com/ivanpirog/vortextracker) — VortexTracker 2.6 dev 18
 * [VortexTrzcker 2.6 TS3](https://github.com/Volutar/vortextracker/tree/TS3) — VortexTracker 2.6 (Volutar edition)
 * [ZX Flash animation for Aseprite](https://github.com/AlRado/ZX-flash-animation) — The Aseprite tools to create and import/export ZX-Spectrum flash animation .scr (no pixels, only attributes)

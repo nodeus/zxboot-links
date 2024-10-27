@@ -19,6 +19,7 @@ weight = 1
 * [Multimatograf](https://t.me/multimatograf) — Multimatograf demoparty
 * [Out Of Compo](https://t.me/ooc_chat) — Общение про Out Of Compo
 * [Undefined](https://t.me/undefined_diy_fest) — Фестиваль демосцены, ретро-компьютеров и всего остального
+* [Quantum Oscillation Party](https://t.me/qwoparty) — Онлайн фестиваль шумового искусства
 ### ZX gfx
 * [zxgfx](https://t.me/zxgfx) — ZX Spectrum Graphics
 ### ZX music
@@ -29,6 +30,8 @@ weight = 1
 * [Speccy code](https://t.me/speccy_code) — Speccy coders chat
 * [ZXDev (Oberon)](https://t.me/zxdev)
 * [ZXDev Masters](https://t.me/zxdev_masters)
+* [Development](https://t.me/RetroDevelopment) — Разработка игр на ретро-платформах
+* [Vintage Software Development](https://t.me/VintageSoftwareDevelopment) — Большая группа по разработке на ретро-платформах
 ### ZX Games
 * [ZX Games](https://t.me/zxgames) — Обсуждение новых и старых игр для ZX Spectrum
 ### ZX hard and emulation
@@ -71,7 +74,7 @@ weight = 1
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
 * [/r/Demoscene](https://t.me/join?invite=AAAAAEKB8q1PGOZ48br3nA) — Demoscene from Reddit
 * [Demoscene](https://t.me/demoscenetg) — General demoscene chat (english only)
-* [Секта свидетелей ДЕДА](https://t.me/joinchat/AYIzeEVyi9mndNYtTHfRqA) — Официальный филиал СПОРТЛОТО. BOЯNДЕД (sid'ёж, pi'рдёж). Все премьеры ДЕDFLIX originals, МузыкаДляМужика и много иного угара... Вступай!
+* [Чат свидетелей ДЕДА](https://t.me/joinchat/AYIzeEVyi9mndNYtTHfRqA) — Официальный филиал СПОРТЛОТО. BOЯNДЕД (sid'ёж, pi'рдёж). Все премьеры ДЕDFLIX originals, МузыкаДляМужика и много иного угара... Вступай!
 * [Old-Hard флудильня](http://t.me/oldhard) — Флудильня old-hard
 * [Реставрация ретро-ЭВМ](https://t.me/restore_not_save) — Обсуждение реставрации и восстановления (кроме схемотехники) - подходы, лайф-хаки, физика, химия и философия
 #### Hardware
@@ -114,7 +117,6 @@ weight = 1
 * [ZX Speccy](https://t.me/zxnews) — Телеграм-канал проекта ZX Speccy. Важные новости из мира ZX Spectrum'а: игры, железо, люди
 * [ZX-CHIP podcast](https://t.me/zxchip) — Recent podcast issues
 * [Unreal speccy portable](https://t.me/unrealspeccyp)
-* [~~Speccy Games~~](https://t.me/speccygames)
 * [ZX memas](https://t.me/truezxmemas)
 * [ZX Spectrum](https://t.me/sinclairspectrum)
 * [ZX-Art](https://t.me/zxart_ee) — Updates, changes, events, news
@@ -128,7 +130,7 @@ weight = 1
 * [Давай, Калантай!](https://t.me/davajkalantaj) — Канал о жизни одного сельского спектрумиста...
 * [ZX-Art Daily](https://t.me/zxartdaily) — ZX-Art на каждый день, пиксельная графика и чиптюн музыка старого доброго ZX-Spectrum с zxart.ee
 * [TS-conf video](https://t.me/tsconf_video) — TS-conf video archive
-* [zx-tabloid](https://t.me/zx_tabloid) — speccy rumors / scene tabloid (слухи спектрума и демосцены)
+* [zx-tabloid](https://t.me/zx_tabloid) — speccy rumors / scene tabloid (слухи и сплетни около спектрума и демосцены)
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
 * [DMSCN](https://t.me/demoscene) — На периферии демосцены
@@ -147,6 +149,7 @@ weight = 1
 * [Darkman007](https://t.me/Darkman007_Official) — Фанклуб Darkman007
 * [XLAT](https://t.me/xlat8086_retro) — My collection of retrocomputers & other retrotech @xlat8086 (коллекционер Наталья aka XLAT)
 * [Компьютерный музей retro-computer.ru](https://t.me/retro_computer_ru) — канал компьютеного музея retro-computer
+* [BOЯNДЕД — дед0в атака!](https://t.me/bornded) — Официальный филиал СПОРТЛОТО, премьеры ДЕDFLIX originals, #МузыкаДляМужика и много иного ретро-угара... Вступай!
 # Telegram bots
 * [Hyperadio bot](https://t.me/hyperadio_bot) — Nowplay, request
 * [КОН ВЕР ТЕР](https://t.me/zxconvbot) — Конвертер pt3 —> mp3
