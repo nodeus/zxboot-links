@@ -65,6 +65,7 @@ weight = 5
 ## Графические редакторы для мобильных устройств
 * **Pixel studio** — paid iOS/Android [PlayStore](https://play.google.com/store/apps/details?id=com.PixelStudio) [AppStore](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Fps_appstore)
 * [Pixaki](https://pixaki.com) — paid iOS
+* [Resprite](https://resprite.fengeon.com/) — Pixel art editor for iOS, Android (and Desktop near Q1 2025)
 * [EDGE touch](https://apps.apple.com/ru/app/edge-touch-pixel-art-tool/id329021851) — paid iOS
 * [Pixelesque](http://www.rjmarsan.com/dispatch.fcgi/Apps/Pixelesque/) — free Android
 * [Pixen](https://pixenapp.com/mac/) — free iOS
