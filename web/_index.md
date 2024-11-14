@@ -16,9 +16,10 @@ weight = 2
 * [CAFe](https://cafeparty.org.ru/) — CAFe demoparty
 * [БуChaos](https://buchaos.ru/) — Неформально абьюзивное объединение ламповых Спектрумистов и Амижников
 * [Revision](https://2023.revision-party.net/) — [Revision twich](https://www.twitch.tv/revisionparty)
-## Soft and file archieves
+## Soft and file archives
 * [Virtual tr-dos](http://vtrd.in/) — Архив программ для zx spectrum
 * [ZXAAA](https://zxaaa.net) — Архив демо, интро, поддерживаемый AAA
+* [ZX-Art | ZX software archive](https://zxart.ee/rus/soft/software-categories/) — Архив демо, игр, системных программ под ZX48/128, Spectrum Next, ZX-Evolution.
 * [Virtual zone](http://virtualzone.narod.ru) — Небольшой архив игр для zx spectrum и PC
 * [BBB](https://bbb.retroscene.org/) — Best Binary Base (архив zx spectrum demo и intro)
 * [World of spectrum](http://www.worldofspectrum.org/archive.html) — The official world archive for the Sinclair ZX Spectrum and the largest on-line gaming center on the Internet
@@ -102,13 +103,13 @@ weight = 2
 * [Little Bitchard Youtube channel](https://www.youtube.com/user/TheLittleBitchard) — Канал музыканта Little Bitchard
 * [Motion Ride music](https://www.youtube.com/user/MotionRideVideos) — MotionRide is a project that involves music, animations and art that I made. You can find electronic dance and rock music here, some oldschool computer music (chiptunes) and mostly cartoon animations/graphics
 ## Music
-### Music archieves
+### Music archives
 * [ZXTUNES archive](http://www.zxtunes.com/) — ZXTUNES — это одна из крупнейших коллекций музыки для компьютера ZX Spectrum на AY-3-8910 / YM2149
 * [AY-3-8910 — YM2149 (bulba) | archive](http://bulba.untergrund.net/main.htm) — The site is dedicated to popular sound chips: AY-3-8910, AY-3-8912 and YM2149
 * [Проект Vortex](https://bulba.untergrund.net/vortex.htm) — сайт Сергея Бульбы
 * [Keygen music | archive](http://keygenmusic.net/) — Music from keygens, cracks etc. (XM, S3M)
-* [MirSoft — world of game music | archive](http://www.mirsoft.info/index.php) — Archieve of game music (MOD, MID)
-* [ZXART | music archive](http://zxart.ee/rus/muzyka/) — Архив музыки, графики и программ
+* [MirSoft — world of game music | archive](http://www.mirsoft.info/index.php) — Archive of game music (MOD, MID)
+* [ZX-Art | music archive](http://zxart.ee/rus/muzyka/) — Архив музыки, графики и программ
 * [Chiptune.app](https://chiptune.app/) — библиотека музыки для ретрокомпьютеров и приставок
 ### Music soft
 * [ZXTUNE — chiptune player](https://zxtune.bitbucket.io/) — Crossplatform chiptune player
@@ -165,9 +166,9 @@ weight = 2
 * [Основы работы в Vortex Tracker. Часть 1](https://www.youtube.com/watch?v=oV-rTCeFU7c) — Kakos Nonos
 * [Пишем Turbo Sound трек в Vortex tracker с нуля](https://www.youtube.com/watch?v=h2FLaBeG4GM) — Voxel/3umf
 ## Graphics
-### GFX archieves
-* [ZXART | zx graphics archive](http://zxart.ee/eng/graphics/) — ZX Spectrum graphics archive
-* [ZXART bugreports](https://zxart.convas.io/) — Багтрекер ZXART. Если хотите, чтобы на zx-art что-то поменялось или исправилось, добавляйте в список. Самым проголосованным фичам будет отдаваться приоритет
+### GFX archives
+* [ZX-Art | ZX graphics archive](https://zxart.ee/rus/grafika/) — архив графики ZX Spectrum.
+* [ZX-Art bugreports](https://zxart.convas.io/) — Багтрекер ZXART. Если хотите, чтобы на zx-art что-то поменялось или исправилось, добавляйте в список. Самым проголосованным фичам будет отдаваться приоритет
 * [Artcity | graphics archive](http://artcity.bitfellas.org/) — Biggest demoscene graphics archive
 * [zx spectrum fonts 1 (Jim blimey)](https://www.jimblimey.com/blog/24-zx-spectrum-fonts/)
 * [zx spectrum fonts 2 (Jim blimey)](https://www.jimblimey.com/blog/32-more-zx-spectrum-fonts/)
