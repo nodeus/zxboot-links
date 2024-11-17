@@ -134,6 +134,8 @@ weight = 1
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
 * [DMSCN](https://t.me/demoscene) — На периферии демосцены
+* [Manwe Live](https://t.me/manwe_live) — Экстремальное программирование, демосцена. Ретро-компьютеры и игровые консоли. Музыка для видеоигр, трекерная музыка. Дизайн взаимодействия, UI / UX. История как наука, гиперкритика хронологии
+* [n1k-o | streams](https://t.me/nq_streams) — Новости по Vortex Tracker стримам (и о прочем тематическом трекерном), а также новости, относящиеся к моей творческой деятельности
 ### Other chans
 * [HYPERADIO](https://t.me/joinchat/AAAAADua1EIhVuFK6ev0Hg) — info, news and messages
 * [Chiptune](https://t.me/chiptune)
