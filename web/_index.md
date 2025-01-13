@@ -122,6 +122,7 @@ weight = 2
 * [Bintracker](https://bintracker.org/) — a modern programmable Chiptune music editor. It is currently in development, with a beta release coming soon. Bintracker supports any music engine on any plaform through the versatile MDAL abstraction layer, so you can compose for SID, AY, FM, Beeper... all with one tool
 * [Beepola](http://freestuff.grok.co.uk/beepola/) — Beepola is a tracker-style music editor for Windows, capable of compiling songs into a form suitable for playback on Sinclair Spectrum and compatible computers
 * [1tracker](http://shiru.untergrund.net/files/1tracker.zip) — 1tracker is an always-experimental multiplatform chiptune cross-tracker, a 'multitracker' for short
+* [The PSG packer](https://compress.retroscene.org/psgpacker/)
 ### Music bands and musicians
 * [Mister Beep | musician](http://mister_beep.republika.pl/) — I'm Mister Beep. I make micromusic/chiptunes but it's not typical micromusic. It is real ONE BIT music made using TIMEX 2048 (48Kb of RAM) and its BEEPER
 * [MmcM Studio | musician](http://mmcm.ru/) — MmcM homepage
@@ -152,6 +153,7 @@ weight = 2
 * [It8bit](https://radio.it8bit.club/) — RetroBit Radio
 * [ZX Spectrum radio](https://zxspectrumradio.com) — 24/7 Live-Streaming Internet Radio Station Playing Beeper, AY & Digital Tunes
 * [ZXAAA AY RADIO](https://zxaaa.net/radio.php)
+* [CRASHradio](https://crashradio.org.uk/) — 24/7 Live-Streaming Internet Radio Station Playing ZX Spectrum Beeper, AY & Digital Tunes!. There are over 5,000 tracks in the playlist.
 ### Music articles
 * [Управление громкостью огибающей YM2149](https://telegra.ph/Upravlenie-gromkostyu-ogibayushchej-YM2149-05-11) — karbofos
 * [VT — Огибающая для самых маленьких](https://telegra.ph/ogiba-dlya-samyh-malenkih-03-14) — karbofos

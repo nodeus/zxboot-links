@@ -30,8 +30,8 @@ weight = 1
 * [Speccy code](https://t.me/speccy_code) — Speccy coders chat
 * [ZXDev (Oberon)](https://t.me/zxdev)
 * [ZXDev Masters](https://t.me/zxdev_masters)
-* [Development](https://t.me/RetroDevelopment) — Разработка игр на ретро-платформах
 * [Vintage Software Development](https://t.me/VintageSoftwareDevelopment) — Большая группа по разработке на ретро-платформах
+* [RtZXD](https://t.me/RETtoZXDev) — Разработка игр для яч ызусекгь и ретроплатформ. Группа М.Гамаева aka DeadlyCom
 ### ZX Games
 * [ZX Games](https://t.me/zxgames) — Обсуждение новых и старых игр для ZX Spectrum
 ### ZX hard and emulation
@@ -77,6 +77,7 @@ weight = 1
 * [Чат свидетелей ДЕДА](https://t.me/joinchat/AYIzeEVyi9mndNYtTHfRqA) — Официальный филиал СПОРТЛОТО. BOЯNДЕД (sid'ёж, pi'рдёж). Все премьеры ДЕDFLIX originals, МузыкаДляМужика и много иного угара... Вступай!
 * [Old-Hard флудильня](http://t.me/oldhard) — Флудильня old-hard
 * [Реставрация ретро-ЭВМ](https://t.me/restore_not_save) — Обсуждение реставрации и восстановления (кроме схемотехники) - подходы, лайф-хаки, физика, химия и философия
+* [retroscene_events](https://t.me/retroscene_events) — Discussions, suggestions, bug reports for events.retroscene.org
 #### Hardware
 * [mice farm](https://t.me/mice_farm) — Коллекция компьютерных мышек «Мышиная возня»
 * [old mice and hw](https://t.me/old_mice_and_hw) — Коллекция компьютерных мышек «Old mice & hardware by Pavlov»
