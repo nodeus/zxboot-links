@@ -31,7 +31,7 @@ weight = 1
 * [ZXDev (Oberon)](https://t.me/zxdev)
 * [ZXDev Masters](https://t.me/zxdev_masters)
 * [Vintage Software Development](https://t.me/VintageSoftwareDevelopment) — Большая группа по разработке на ретро-платформах
-* [RtZXD](https://t.me/RETtoZXDev) — Разработка игр для яч ызусекгь и ретроплатформ. Группа М.Гамаева aka DeadlyCom
+* [RtZXD](https://t.me/RETtoZXDev) — Разработка игр для zx spectrum и ретроплатформ. Группа М.Гамаева aka DeadlyCom
 ### ZX Games
 * [ZX Games](https://t.me/zxgames) — Обсуждение новых и старых игр для ZX Spectrum
 ### ZX hard and emulation
