@@ -31,7 +31,7 @@ weight = 1
 * [ZXDev (Oberon)](https://t.me/zxdev)
 * [ZXDev Masters](https://t.me/zxdev_masters)
 * [Vintage Software Development](https://t.me/VintageSoftwareDevelopment) — Большая группа по разработке на ретро-платформах
-* [rtZXD] — Разработка игр для яч spectrum и ретроплатформ. Ссылка временно удалена по просьбе владельца.
+* [rtZXD] — Разработка игр для zx spectrum и ретроплатформ. Ссылка временно удалена по просьбе владельца.
 ### ZX Games
 * [ZX Games](https://t.me/zxgames) — Обсуждение новых и старых игр для ZX Spectrum
 ### ZX hard and emulation
