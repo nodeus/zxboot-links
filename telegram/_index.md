@@ -31,7 +31,7 @@ weight = 1
 * [ZXDev (Oberon)](https://t.me/zxdev)
 * [ZXDev Masters](https://t.me/zxdev_masters)
 * [Vintage Software Development](https://t.me/VintageSoftwareDevelopment) — Большая группа по разработке на ретро-платформах
-* [RtZXD](https://t.me/RETtoZXDev) — Разработка игр для zx spectrum и ретроплатформ. Группа М.Гамаева aka DeadlyCom
+* [rtZXD] — Разработка игр для яч spectrum и ретроплатформ. Ссылка временно удалена по просьбе владельца.
 ### ZX Games
 * [ZX Games](https://t.me/zxgames) — Обсуждение новых и старых игр для ZX Spectrum
 ### ZX hard and emulation
@@ -67,7 +67,7 @@ weight = 1
 * [ZX Spectrum [RU] (only ontopic)](https://t.me/zxspectrum_ru) — Группа по общению на любые темы о ZX Spectrum
 * [Bleep Market](https://t.me/bleepmarket) — Продажа, покупка и обмен компьютерной техники и переферии выпущенной до 2000г.
 * [Кибер-музей в Муроме](https://t.me/museum_computer) — Официальная группа  музея для общения и любых вопросов (сайт http://museum.computer/)
-* [Retro Development](https://t.me/RetroDevelopment) — Если случайно вы что-то делает интересное в ретро теме и хотите делиться своим прогрессом и получать обратную связь, то вам сюда
+* [Retro Development] — Если случайно вы что-то делает интересное в ретро теме и хотите делиться своим прогрессом и получать обратную связь, то вам сюда. Ссылка временно удалена по просьбе владельца.
 * [Sinclair QL](https://t.me/sinclair_ql) — Чат посвещен старшему брату ZX Spectrum - Sinclair QL, обсуждение, сборка, софт
 * [ZX_MURMULATOR](https://t.me/ZX_MURMULATOR) — Основная тема – эмуляторы спектрум совместимых компьютеров. Но и смежные тематики по ZX Spectrum'у не осуждаются
 ### Demoscene and retroscene other
@@ -88,7 +88,6 @@ weight = 1
 #### Music
 * [HYPERADIO](https://t.me/hyperadio) — Demoscene online radio Hyperadio
 * [Chipmusic](https://t.me/chipmusic)
-* [Scene music / Artists](https://t.me/scenemusicartists) — An area of demoscene music makers
 * [8bit.fm](https://t.me/bit8fm) — Online radio 8bit.fm
 #### Amiga
 * [Vamped Amiga](https://t.me/vampedamiga) — Welcome to the Vamped Amiga Super Group (chat)! Act like great Amigans
@@ -126,7 +125,7 @@ weight = 1
 * [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup)
 * [sinc LAIR](https://t.me/sinc_LAIR)
 * [ZX Барахолка](https://t.me/zxfleamarket) — Барахолка. Продажа\покупка.
-* [Torn Metal](https://t.me/torn_metal) — Новая RTS для ZX Spectrum (в разработке)
+* [Torn Metal] — Новая RTS для ZX Spectrum (в разработке). Ссылка временно удалена по просьбе владельца.
 * [Новости Пьяной Мухи](https://t.me/drunkflyteam)
 * [Давай, Калантай!](https://t.me/davajkalantaj) — Канал о жизни одного сельского спектрумиста...
 * [ZX-Art Daily](https://t.me/zxartdaily) — ZX-Art на каждый день, пиксельная графика и чиптюн музыка старого доброго ZX-Spectrum с zxart.ee
