@@ -113,7 +113,7 @@ weight = 1
 * [ПК8000 СУРА и др](https://t.me/PK8000Sura) — ПК8000 Сура и другие
 * [МЦВМ Сетунь](https://t.me/setun_1958) — Ternary Computers: The Setun
 # Telegram channels
-### ZX
+### ZX related
 * [ZX Speccy](https://t.me/zxnews) — Телеграм-канал проекта ZX Speccy. Важные новости из мира ZX Spectrum'а: игры, железо, люди
 * [ZX-CHIP podcast](https://t.me/zxchip) — Recent podcast issues
 * [Unreal speccy portable](https://t.me/unrealspeccyp)
@@ -131,6 +131,10 @@ weight = 1
 * [ZX-Art Daily](https://t.me/zxartdaily) — ZX-Art на каждый день, пиксельная графика и чиптюн музыка старого доброго ZX-Spectrum с zxart.ee
 * [TS-conf video](https://t.me/tsconf_video) — TS-conf video archive
 * [zx-tabloid](https://t.me/zx_tabloid) — speccy rumors / scene tabloid (слухи и сплетни около спектрума и демосцены)
+* [ZX Spectrum Demos](https://t.me/zxdemos) — канал с видео zx demo, спасёнными с утопшего ютуба ААА
+* [Maxim cat game]( https://t.me/maximcatgame) — Канал посвящён белорусской игре «Кот Максим»
+* [TS Config soft](https://t.me/tsconfigsoft) — Канал с программами для TS Config
+* [TS Config video](https://t.me/tsconf_video) — Канал с видеороликами для TS Config
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
 * [DMSCN](https://t.me/demoscene) — На периферии демосцены
