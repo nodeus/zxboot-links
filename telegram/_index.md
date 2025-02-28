@@ -135,6 +135,7 @@ weight = 1
 * [Maxim cat game]( https://t.me/maximcatgame) — Канал посвящён белорусской игре «Кот Максим»
 * [TS Config soft](https://t.me/tsconfigsoft) — Канал с программами для TS Config
 * [TS Config video](https://t.me/tsconf_video) — Канал с видеороликами для TS Config
+* [Joe Vondayl каканал](https://t.me/joevondayl) — Канал Joe Vondayl
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
 * [DMSCN](https://t.me/demoscene) — На периферии демосцены
