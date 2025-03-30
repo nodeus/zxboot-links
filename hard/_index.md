@@ -34,6 +34,7 @@ weight = 4
 * [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/) — Emulator for the range of ZX home computers made by Sinclair Research (and their clones) in the 1980s, primarily the ZX80 and ZX81 but also includes the ZX Spectrum models
 * [Plus-F](http://plus-f.socialthingy.com/) — A ZX Spectrum emulator with network play capabilities [Git](https://github.com/alangibson27/plus-f)
 * [Спектрамин](https://www.emu-land.net/computers/zx_spectrum/emuls/windows?act=showonly&id=4238) - Приоритеты при разработке: удобство использования; точность эмуляции - z80, задержки, порты, недокументированные особенности. [Самый новый апдейт v.1.06b](https://files.fm/u/q5wjvqhtk)
+* [Spectral](spectral.zxe.io) — Spectral is an experimental Sinclair ZX Spectrum emulator from the 80s. Accuracy and performance are long-term goals, but the primary focus is just having fun with this thing. [github](https://github.com/r-lyeh/Spectral)
 * [M.A.M.E.](https://www.mamedev.org/) — Multi-purpose emulation framework
 * [RetroArch](https://www.retroarch.com/index.php) — Бесплатный кроссплатформенный интерфейс с открытым исходным кодом для эмуляторов различных платформ. ZX Spectrum эмулируется через ядро FUSE
 * [DSP](https://github.com/leniad/dsp-emulator) — Еще один эмулятор много-в-одном - аркадные автоматы, консоли, Спектрумы-Амстрады, вот это все
