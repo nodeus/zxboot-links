@@ -10,8 +10,10 @@ weight = 3
 
 ## IDE, compilers, tools
 * [SjASMPlus](https://github.com/z00m128/sjasmplus/releases) + [Documentation](https://z00m128.github.io/sjasmplus/documentation.html)
+* [zasm](https://k1.spdns.de/Develop/Projects/zasm/Distributions/) — command-line assembler for the 8080, Z80 and Z180 cpu
 * [DeZog](https://github.com/maziac/DeZog) — Расширение для VSCode для программирования под Spectrum | [(Пример настройки DeZog)](https://github.com/maziac/z80-sample-program)
 * [BasinC](https://arda.kisafilm.org/blog/?cat=13&lang=en) — Эмулятор и полезные утилиты для программирования и разработки на zx basic
+* [z88dk](https://z88dk.org/site/) — C and assembler development kit that comes ready out-of-the-box to create programs for over 100 z80-family (8080, 8085, gbz80, z80, z180, ez80_z80, KC160, Rabbit 2000, 3000, 4000, 5000) machines. [GitHub](https://github.com/z88dk/z88dk)
 * [Klive IDE Project](https://github.com/Dotneteer/kliveide) — a Sinclair retro computer emulator and Integrated Development Environment running on Mac, Linux and Windows
 * [SpectNet IDE](https://dotneteer.github.io/spectnetide/) — Visual Studio 2017/2019 integrated ZX Spectrum IDE
 * [zx80-dev-tools](https://github.com/joegasewicz/zx80-dev-tools) — ZX Spectrum NEXT development tools for MacOS
