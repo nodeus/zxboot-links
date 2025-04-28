@@ -89,6 +89,7 @@ weight = 1
 * [HYPERADIO](https://t.me/hyperadio) — Demoscene online radio Hyperadio
 * [Chipmusic](https://t.me/chipmusic)
 * [8bit.fm](https://t.me/bit8fm) — Online radio 8bit.fm
+* [ChipNomad Tracker](https://t.me/chipnomad) — это чиптюн трекер для портативных консолей типа Anbernic RG35xx. Концепция интерфейса заимствована от LSDJ и M8 Tracker. Планируется поддержка разных чипов, но первым будет AY-3-8910/YM2149F
 #### Amiga
 * [Vamped Amiga](https://t.me/vampedamiga) — Welcome to the Vamped Amiga Super Group (chat)! Act like great Amigans
 * [AmigaRu](https://t.me/amigaru) — Русскоязычные амижники
