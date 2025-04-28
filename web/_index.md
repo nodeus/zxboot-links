@@ -33,6 +33,10 @@ weight = 2
 * [World of Spectrum](https://worldofspectrum.org/) — The official world archive for the Sinclair ZX Spectrum
 * [World of Spectrum classic](https://worldofspectrum.net/) — The spiritual successor to the official world archive for the Sinclair ZX Spectrum and the largest on-line gaming centre on the Internet
 * [Speccy screenshot maps](https://maps.speccy.cz/) — You will find here all maps (put together from screenshots) to games for eight-bit computer ZX Spectrum
+* [The Humonguos CP/M Software Archives](http://cpmarchives.classiccmp.org/) — collection of the great CP/M repositories
+* [ROMS archive](http://94.23.34.95/) a huge amount of ROMS
+* [fgk.hanau.net filebase](http://fgk.hanau.net/filebase/commodore/) — Commodore Amiga and C64
+* [Tatung Einstein](https://mikesretrotech.co.uk/userfiles/tatung%20einstein/) assorted collection of retro stuff Tatung Einstein
 ## Blogs, news, forums
 * [Hype collective blog](https://hype.retroscene.org/) — Коллективный блог о ретросцене и демосцене
 * [Speccy live news blog](http://speccy-live.untergrund.net/) — Коллективный новостной блог
