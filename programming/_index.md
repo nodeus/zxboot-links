@@ -17,12 +17,17 @@ weight = 3
 * [Klive IDE Project](https://github.com/Dotneteer/kliveide) — a Sinclair retro computer emulator and Integrated Development Environment running on Mac, Linux and Windows
 * [SpectNet IDE](https://dotneteer.github.io/spectnetide/) — Visual Studio 2017/2019 integrated ZX Spectrum IDE
 * [zx80-dev-tools](https://github.com/joegasewicz/zx80-dev-tools) — ZX Spectrum NEXT development tools for MacOS
+* [ASM80](https://www.asm80.com/) — Integrated Development Environment (IDE), aimed on assembler development for 8bit microprocessors, mainly 8080, 8085, Z80 and 6502
+* [The ORG ASM IDE](https://clrhome.org/asm/) — online IDE and assembler for Z80 projects with special options for projects for the TI-83 Plus–series calculators and ZX Spectrum
 * [8bitworkshop IDE](https://8bitworkshop.com/) — Online IDE для разработки программ для различных систем включая ZX Spectrum 48k, NES, Atari 2600, Sega Game Gear, MSX, C64, Amstrad CPC6128
 * [zx-basic-syntax](https://github.com/patters-match/zx-basic-syntax) — ZX BASIC language syntax for editing .bas files in Sublime Text 3 code editor. It also supports regular Sinclair BASIC, and zmakebas listings
 * [BorIDE](http://members.inode.at/838331/pc.html) — IDE для Boriels ZX BASIC, правда обновлялось последний раз в 2013
 * [Z80 Development Toolchain](http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/assembly-language/z80-development-toolchain) — IDE на базе Visual Studio Code
-* [Disark](https://julien-nevo.com/disark/) — Disark is a Z80 disassembler by Julien Névo a.k.a. Targhan/Arkos. Disark can create “universal” Z80 source from a binary, allowing you to convert any of your Z80 source into a source that can be understood by a target assembler.
-* [spectrum-analyser](https://colourclash.co.uk/spectrum-analyser/) — tool that is designed to help reverse engineer ZX Spectrum games & programs. It is a combination of an emulator, debugger & interactive disassembler. Programs are loaded and run in the emulator and their state can be inspected using the tools provided.
+* [Disark](https://julien-nevo.com/disark/) — Disark is a Z80 disassembler by Julien Névo a.k.a. Targhan/Arkos. Disark can create “universal” Z80 source from a binary, allowing you to convert any of your Z80 source into a source that can be understood by a target assembler
+* [dZ80](http://www.inkland.org.uk/dz80/) — freeware Z80/Z180/Z80GB disassembler for binary file with DOS command line version and a Windows GUI version
+* [YAZD/YAZA](https://github.com/toptensoftware/yazd/) — Yet Another Z80 Disassembler/Assembler
+* [spectrum-analyser](https://colourclash.co.uk/spectrum-analyser/) — tool that is designed to help reverse engineer ZX Spectrum games & programs. It is a combination of an emulator, debugger & interactive disassembler. Programs are loaded and run in the emulator and their state can be inspected using the tools provided
+* [tzxtools](https://codeberg.org/shred/tzxtools) — collection of command line tools for processing TZX files. All the tzxtools are written in Python 3. Including Z80/Z80N [Disassembler](https://shred.zone/cilla/page/426/z80-disassembler.html)
 ## Libs, code samples
 * [ZXDN](http://alexanderk.ru/zxdn/) — Коллекция материалов по творчеству на компьютере ZX Spectrum: программирование, графика, музыка. [ZXDN | оригинал на uCoz](http://zxdn.narod.ru/)
 * [Open Source ZX](http://opensourcezx.untergrund.net/index.html) — ZX Spectrum open source
