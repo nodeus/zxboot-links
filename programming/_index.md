@@ -35,6 +35,7 @@ weight = 3
 * [ZX starter pack](https://github.com/errorcalc/zx_starter_pack) — Стартовый набор для вхождения в разработку под ZX Spectrum // A set of software, source codes, literature, utilities, and a build system for entering development for ZX Spectrum
 * [ZEDA Z80 optimized routunes](https://github.com/Zeda/Z80-Optimized-Routines) — This is a repository of routines for the Z80! As of its inception, it will likely be expanded with the Z80 TI8x series of calculators in mind, but most routines should be general enough for other devices
 * [zxsrc](https://sites.google.com/view/zxsrc/) — Z80 ZX-Spectrum Sources Rough Collection
+* [zx next dev guide](https://github.com/tomaz/zx-next-dev-guide) — ZX Spectrum Next Assembly Developer Guide 
 ## Справочники
 * [Таблица опкодов Z80](https://clrhome.org/table/) — Удобная таблица опкодов Z80
 * [z80ops](https://vtrd.in/z80ops.html) — Справочник по командам Z80 (с тактами и поиском)

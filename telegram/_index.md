@@ -138,6 +138,7 @@ weight = 1
 * [TS Config video](https://t.me/tsconf_video) — Канал с видеороликами для TS Config
 * [Joe Vondayl каканал](https://t.me/joevondayl) — Канал Joe Vondayl
 * [Диспетчерская](https://t.me/festivals_dispatcher) — Анонсы фестивалей около-компьютерной тематики. (retro, 8-bit, reversing, компьютерное искусство, retro gaming, выставки, самодельная электроника)
+* [Nedopcinfo](https://t.me/nedopcinfo) — NedoPC team channel
 ### Demoscene
 * [Demoscene | news, videos, pouet aggregator](https://t.me/demoscene_channel)
 * [DMSCN](https://t.me/demoscene) — На периферии демосцены
