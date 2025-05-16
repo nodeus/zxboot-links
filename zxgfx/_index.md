@@ -37,7 +37,8 @@ weight = 5
 * [Photoshop](https://www.adobe.com/ru/products/photoshop.html) paid PC/Mac
 * **Pixel studio** — free/paid PC/Mac [Steam](https://store.steampowered.com/app/1204050/Pixel_Studio_for_pixel_art/) [MS Store](https://www.microsoft.com/en-us/p/pixel-studio/9p7xs7vh1r3j?activetab=pivot:overviewtab)
 * [Pixel Proof](https://dinomage.itch.io/pixel-proof) — paid PC/Mac/Linux
-* [Moth](https://bugpack.io/) - free Web/PWA
+* [Moth](https://bugpack.io/) — free Web/PWA
+* [Swanky Paint](https://store.steampowered.com/app/432030/Swanky_Paint/) — paid PC. Есть поддержка палитры и клэшинга атрибутов ZX, но с 2016го все еще ранний доступ
 
 ## Графические редакторы с поддержкой формата экрана
 * [Multipaint 2020.2 by Dr. TerrorZ'20](https://vtrd.in/pcutilz/MULPAINT.zip) — free PC/Mac/Linux графический редактор [site](http://multipaint.kameli.net/)
