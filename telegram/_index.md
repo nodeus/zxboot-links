@@ -133,7 +133,6 @@ weight = 1
 * [TS-conf video](https://t.me/tsconf_video) — TS-conf video archive
 * [zx-tabloid](https://t.me/zx_tabloid) — speccy rumors / scene tabloid (слухи и сплетни около спектрума и демосцены)
 * [ZX Spectrum Demos](https://t.me/zxdemos) — канал с видео zx demo, спасёнными с утопшего ютуба ААА
-* [Maxim cat game]( https://t.me/maximcatgame) — Канал посвящён белорусской игре «Кот Максим»
 * [TS Config soft](https://t.me/tsconfigsoft) — Канал с программами для TS Config
 * [TS Config video](https://t.me/tsconf_video) — Канал с видеороликами для TS Config
 * [Joe Vondayl каканал](https://t.me/joevondayl) — Канал Joe Vondayl
@@ -144,6 +143,9 @@ weight = 1
 * [DMSCN](https://t.me/demoscene) — На периферии демосцены
 * [Manwe Live](https://t.me/manwe_live) — Экстремальное программирование, демосцена. Ретро-компьютеры и игровые консоли. Музыка для видеоигр, трекерная музыка. Дизайн взаимодействия, UI / UX. История как наука, гиперкритика хронологии
 * [n1k-o | streams](https://t.me/nq_streams) — Новости по Vortex Tracker стримам (и о прочем тематическом трекерном), а также новости, относящиеся к моей творческой деятельности
+### Games
+* [RTS на изичах](https://t.me/FunFightingGame8bit) —RTS на изичах
+* [Maxim cat game]( https://t.me/maximcatgame) — Канал посвящён белорусской игре «Кот Максим»
 ### Other chans
 * [HYPERADIO](https://t.me/joinchat/AAAAADua1EIhVuFK6ev0Hg) — info, news and messages
 * [Chiptune](https://t.me/chiptune)
