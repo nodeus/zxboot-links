@@ -39,6 +39,7 @@ weight = 5
 * [Pixel Proof](https://dinomage.itch.io/pixel-proof) — paid PC/Mac/Linux
 * [Moth](https://bugpack.io/) — free Web/PWA
 * [Swanky Paint](https://store.steampowered.com/app/432030/Swanky_Paint/) — paid PC. Есть поддержка палитры и клэшинга атрибутов ZX, но с 2016го все еще ранний доступ
+* [Pixelmash](https://nevercenter.com/pixelmash/) — paid PC
 
 ## Графические редакторы с поддержкой формата экрана
 * [Multipaint 2020.2 by Dr. TerrorZ'20](https://vtrd.in/pcutilz/MULPAINT.zip) — free PC/Mac/Linux графический редактор [site](http://multipaint.kameli.net/)
