@@ -143,6 +143,7 @@ weight = 1
 * [DMSCN](https://t.me/demoscene) — На периферии демосцены
 * [Manwe Live](https://t.me/manwe_live) — Экстремальное программирование, демосцена. Ретро-компьютеры и игровые консоли. Музыка для видеоигр, трекерная музыка. Дизайн взаимодействия, UI / UX. История как наука, гиперкритика хронологии
 * [n1k-o | streams](https://t.me/nq_streams) — Новости по Vortex Tracker стримам (и о прочем тематическом трекерном), а также новости, относящиеся к моей творческой деятельности
+* [Undefined Demoscene Prods](https://t.me/diy_fest_prods) — Все проды с Undefined
 ### Games
 * [RTS на изичах](https://t.me/FunFightingGame8bit) —RTS на изичах
 * [Maxim cat game]( https://t.me/maximcatgame) — Канал посвящён белорусской игре «Кот Максим»
