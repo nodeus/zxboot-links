@@ -163,6 +163,7 @@ weight = 1
 * [XLAT](https://t.me/xlat8086_retro) — My collection of retrocomputers & other retrotech @xlat8086 (коллекционер Наталья aka XLAT)
 * [Компьютерный музей retro-computer.ru](https://t.me/retro_computer_ru) — канал компьютеного музея retro-computer
 * [BOЯNДЕД — дед0в атака!](https://t.me/bornded) — Официальный филиал СПОРТЛОТО, премьеры ДЕDFLIX originals, #МузыкаДляМужика и много иного ретро-угара... Вступай!
+* [Megus](https://t.me/megus_channel) — Канал музыканта Megus
 # Telegram bots
 * [Hyperadio bot](https://t.me/hyperadio_bot) — Nowplay, request
 * [КОН ВЕР ТЕР](https://t.me/zxconvbot) — Конвертер pt3 —> mp3
