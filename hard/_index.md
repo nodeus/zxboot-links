@@ -60,6 +60,9 @@ weight = 4
 * [pico-zxspectrum](https://github.com/fruit-bat/pico-zxspectrum) — ZX Spectrum for Raspberry Pico Pi RP2040
 * [ZXBaremulator](https://zxmini.speccy.org/en/index.html) — the first complete ZX Spectrum 48K/128K/+2A bare-metal emulator for the Raspberry Pi computers
 * [ESPectrum](https://github.com/EremusOne/ESPectrum) — A ZX spectrum 48K, 128K, and Pentagon 128 emulator running on the Espressif ESP32 SoC
+* [JaS](https://jas.speccy.org/) — Java Spectrum emulator
+* [JSSpeccy 3](https://github.com/gasman/jsspeccy3) — ZX Spectrum emulator for the browser. Умеет в Пентагон, но не умеет в TR-DOS
+* [JSpeccy](https://github.com/jsanchezv/JSpeccy) — multiplatform ZX Spectrum emulator written in Java
 ## Emulators Z80
 * [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
 * [Visualz80 Remix](https://floooh.github.io/visualz80remix/) — очень точная (но медленная) визуальная эмуляция z80
