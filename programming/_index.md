@@ -14,6 +14,7 @@ weight = 3
 * [DeZog](https://github.com/maziac/DeZog) — Расширение для VSCode для программирования под Spectrum | [(Пример настройки DeZog)](https://github.com/maziac/z80-sample-program)
 * [BasinC](https://arda.kisafilm.org/blog/?cat=13&lang=en) — Эмулятор и полезные утилиты для программирования и разработки на zx basic
 * [z88dk](https://z88dk.org/site/) — C and assembler development kit that comes ready out-of-the-box to create programs for over 100 z80-family (8080, 8085, gbz80, z80, z180, ez80_z80, KC160, Rabbit 2000, 3000, 4000, 5000) machines. [GitHub](https://github.com/z88dk/z88dk)
+* [PASTA/80](https://github.com/pleumann/pasta80) — Turbo Pascal 3.0-compatible compiler that generates machine code for classic and modern Z80 machines (currently ZX Spectrum 48K/128K/Next and CP/M)
 * [Klive IDE Project](https://github.com/Dotneteer/kliveide) — a Sinclair retro computer emulator and Integrated Development Environment running on Mac, Linux and Windows
 * [SpectNet IDE](https://dotneteer.github.io/spectnetide/) — Visual Studio 2017/2019 integrated ZX Spectrum IDE
 * [zx80-dev-tools](https://github.com/joegasewicz/zx80-dev-tools) — ZX Spectrum NEXT development tools for MacOS
@@ -35,7 +36,9 @@ weight = 3
 * [ZX starter pack](https://github.com/errorcalc/zx_starter_pack) — Стартовый набор для вхождения в разработку под ZX Spectrum // A set of software, source codes, literature, utilities, and a build system for entering development for ZX Spectrum
 * [ZEDA Z80 optimized routunes](https://github.com/Zeda/Z80-Optimized-Routines) — This is a repository of routines for the Z80! As of its inception, it will likely be expanded with the Z80 TI8x series of calculators in mind, but most routines should be general enough for other devices
 * [zxsrc](https://sites.google.com/view/zxsrc/) — Z80 ZX-Spectrum Sources Rough Collection
-* [zx next dev guide](https://github.com/tomaz/zx-next-dev-guide) — ZX Spectrum Next Assembly Developer Guide 
+* [zx next dev guide](https://github.com/tomaz/zx-next-dev-guide) — ZX Spectrum Next Assembly Developer Guide
+* [HiSoft-C](https://github.com/oldcompcz/HiSoft-C) — Disassembled code of HiSoft C compiler for ZX Spectrum
+* [Prometheus](https://github.com/oldcompcz/prometheus) — Information and disassembled code of the ZX Spectrum assembler by Proxima
 ## Справочники
 * [Таблица опкодов Z80](https://clrhome.org/table/) — Удобная таблица опкодов Z80
 * [z80ops](https://vtrd.in/z80ops.html) — Справочник по командам Z80 (с тактами и поиском)
