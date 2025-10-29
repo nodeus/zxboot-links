@@ -26,6 +26,7 @@ weight = 3
 * [Z80 Development Toolchain](http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/assembly-language/z80-development-toolchain) — IDE на базе Visual Studio Code
 * [Disark](https://julien-nevo.com/disark/) — Disark is a Z80 disassembler by Julien Névo a.k.a. Targhan/Arkos. Disark can create “universal” Z80 source from a binary, allowing you to convert any of your Z80 source into a source that can be understood by a target assembler
 * [dZ80](http://www.inkland.org.uk/dz80/) — freeware Z80/Z180/Z80GB disassembler for binary file with DOS command line version and a Windows GUI version
+* [86РК disassm](https://86rk.ru/disassm/) — Онлайн дизассемблер 580ВМ80 / i8080 / i8085 / Z80
 * [YAZD/YAZA](https://github.com/toptensoftware/yazd/) — Yet Another Z80 Disassembler/Assembler
 * [spectrum-analyser](https://colourclash.co.uk/spectrum-analyser/) — tool that is designed to help reverse engineer ZX Spectrum games & programs. It is a combination of an emulator, debugger & interactive disassembler. Programs are loaded and run in the emulator and their state can be inspected using the tools provided
 * [tzxtools](https://codeberg.org/shred/tzxtools) — collection of command line tools for processing TZX files. All the tzxtools are written in Python 3. Including Z80/Z80N [Disassembler](https://shred.zone/cilla/page/426/z80-disassembler.html)
