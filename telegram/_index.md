@@ -114,6 +114,7 @@ weight = 1
 * [ПК8000 СУРА и др](https://t.me/PK8000Sura) — ПК8000 Сура и другие
 * [МЦВМ Сетунь](https://t.me/setun_1958) — Ternary Computers: The Setun
 * [УКНЦ](https://t.me/MC0511UKNC) — Группа посвящена советскому компьютеру Электроника МС 0511 УКНЦ
+* [UKNC_TECHNOLOGY](https://t.me/UKNC_TECHNOLOGY) — Группа технологического прорыва ПЗВМ УКНЦ
 # Telegram channels
 ### ZX related
 * [ZX Speccy](https://t.me/zxnews) — Телеграм-канал проекта ZX Speccy. Важные новости из мира ZX Spectrum'а: игры, железо, люди
