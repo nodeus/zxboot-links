@@ -115,6 +115,8 @@ weight = 1
 * [МЦВМ Сетунь](https://t.me/setun_1958) — Ternary Computers: The Setun
 * [УКНЦ](https://t.me/MC0511UKNC) — Группа посвящена советскому компьютеру Электроника МС 0511 УКНЦ
 * [UKNC_TECHNOLOGY](https://t.me/UKNC_TECHNOLOGY) — Группа технологического прорыва ПЗВМ УКНЦ
+* [Apple II,Правец 8, Агат](https://t.me/appleIIe)
+* [Apple II RUS (zira free)](https://t.me/appleiirus)
 # Telegram channels
 ### ZX related
 * [ZX Speccy](https://t.me/zxnews) — Телеграм-канал проекта ZX Speccy. Важные новости из мира ZX Spectrum'а: игры, железо, люди
