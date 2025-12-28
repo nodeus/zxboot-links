@@ -25,6 +25,7 @@ weight = 1
 ### ZX music
 * [Speccy music](https://t.me/speccymusic) — ZX Spectrum music
 * [Vortex Tracker \о/](https://t.me/vt_training) — Группа для людей, которым хочется взять и разобраться с Vortex Tracker'ом. Спрашиваем, уточняем, настраиваем, делаем первые шаги. Понты оставляем в другом месте :)
+* [ym/ay club](https://t.me/zx_aym) — Прежде всего мы любим и слушаем AY/YM музыку под Cпектрум, а также под Коммодор, Атари и прочие ретро компьютеры.
 ### ZX code
 * [zxcoding](https://t.me/zxcoding) — Группа для людей, которым код на Z80 иногда снится по ночам
 * [Speccy code](https://t.me/speccy_code) — Speccy coders chat
