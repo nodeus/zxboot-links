@@ -37,6 +37,10 @@ weight = 2
 * [ROMS archive](http://94.23.34.95/) a huge amount of ROMS
 * [fgk.hanau.net filebase](http://fgk.hanau.net/filebase/commodore/) — Commodore Amiga and C64
 * [Tatung Einstein](https://mikesretrotech.co.uk/userfiles/tatung%20einstein/) assorted collection of retro stuff Tatung Einstein
+
+## Online utils
+* [ZX Spectrum TRD/SCL Viewer](https://zxtools.aidatafab.com/) — Browse, preview, and extract files from TRD and SCL disk images. 100% client-side processing. Your files never leave your device. Download files directly.
+
 ## Blogs, news, forums
 * [Hype collective blog](https://hype.retroscene.org/) — Коллективный блог о ретросцене и демосцене
 * [Speccy live news blog](http://speccy-live.untergrund.net/) — Коллективный новостной блог
