@@ -63,6 +63,7 @@ weight = 4
 * [JaS](https://jas.speccy.org/) — Java Spectrum emulator
 * [JSSpeccy 3](https://github.com/gasman/jsspeccy3) — ZX Spectrum emulator for the browser. Умеет в Пентагон, но не умеет в TR-DOS
 * [JSpeccy](https://github.com/jsanchezv/JSpeccy) — multiplatform ZX Spectrum emulator written in Java
+* [simpleTK](https://sites.google.com/site/tk90disk/) — Эмулятор TK90X/95 - Pentagon 128k - ZX Spectrum48/128k. Эмулируется как Betadisk 128 (TR-DOS 5.03) так и различные версии Betadisk 48 (TR-DOS 4.x), Kempston mouse. Встроенный монитор, поддержка RZX.
 ## Emulators Z80
 * [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
 * [Visualz80 Remix](https://floooh.github.io/visualz80remix/) — очень точная (но медленная) визуальная эмуляция z80
