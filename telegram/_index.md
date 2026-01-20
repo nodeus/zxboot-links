@@ -33,11 +33,14 @@ weight = 1
 * [ZXDev Masters](https://t.me/zxdev_masters)
 * [Vintage Software Development](https://t.me/VintageSoftwareDevelopment) — Большая группа по разработке на ретро-платформах
 * [rtZXD](https://t.me/RETtoZXDev) — Программирование и разработка игр для ZX spectrum и ретроплатформ.
+* [ZXEvolution Games](https://t.me/ZXEvolutionGames) — Making games for ZX Spectrum 128 / ZX Evolution / ZX Next
+* [RTS на изичах](https://t.me/zxGameDev8bit) — Создание RTS для TS Config/Spectrum Next/Sprinter
 ### ZX Games
 * [ZX Games](https://t.me/zxgames) — Обсуждение новых и старых игр для ZX Spectrum
 ### ZX hard and emulation
 * [Speccy hardware](https://t.me/speccy_hard) — Speccy hardware in russian and english
 * [Unreal Speccy Portable](https://t.me/unrealspeccypg) — Discuss USP and ZX Spectrum emulators-related things
+* [Эмуляция ZX Spectrum (и его клонов) в MAME](https://t.me/zx_mame) — Нвзвание говорит само за себя.
 #### ZX Evo Base config
 * [ZX Evolution](https://t.me/zxevo) — Платформа ZX Evolution (Base config)
 * [ATM, zxevo, baseconf](https://t.me/atm_zxevo_baseconf) — Всё, что относится к ZX Evolution и бейсконфе, АТМ2, АТМ3 и подобному
@@ -45,6 +48,7 @@ weight = 1
 * [TS Config](https://t.me/tsconf) — Конфигурация TS Config
 #### ZX Spectrum Next
 * [ZX Spectrum Next](https://t.me/specnext) — Русскоязычный чат для общения владельцев и интересующихся компьютером ZX Spectrum Next
+* [Spectrum Next](https://t.me/zxnext) — Испано- и Англоязычный чат по тематике ZX Spectrum Next
 #### ZX clones
 * [Profi1024](https://t.me/Profi1024) — Группа поддержки пользователей компьютера Profi
 * [Sprinter Computer](https://t.me/zx_sprinter) — Чат по компьютеру Sprinter
@@ -52,6 +56,7 @@ weight = 1
 * [ZX_Pentagon](https://t.me/zx_pentagon) — Все о Пентагонах. 48\128\512\... BDI\wo-BDI
 * [Pentagon ZX chat](https://t.me/Pentagon_ZX_Chat) — Резервы знаний, обмен информацией, файлами, обсуждение ремонта наладки использования. Вежливое и Уважительное общение. Без хамства. Без политики.
 * [ZS Scorpion & Ленинград](https://t.me/zs_scorpion) — Про компьютеры ZS Scorpion и Ленинград
+* [ProfRom](https://t.me/ZS_ProfRom) — Еще один чат посвещенный компьютеру ZS Scorpion, но с упором на обсуждение и развитие ПрофПЗУ а так же ResetRomLoader.
 * [KAY the Spectrum](https://t.me/kay_nemo) — For the best USSR-clone ZX-Spectrum designed by Nemo — KAY (128, 1024, 2010, etc) and it's satellite board (NemoFDC, NemoIDE ...)
 ### ZX other
 * [Speccy offtop](https://t.me/speccyofftop) — zx spectrum off-topic themes (RUS/ENG talks)
