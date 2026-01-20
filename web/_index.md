@@ -131,6 +131,7 @@ weight = 2
 * [Beepola](http://freestuff.grok.co.uk/beepola/) — Beepola is a tracker-style music editor for Windows, capable of compiling songs into a form suitable for playback on Sinclair Spectrum and compatible computers
 * [1tracker](http://shiru.untergrund.net/files/1tracker.zip) — 1tracker is an always-experimental multiplatform chiptune cross-tracker, a 'multitracker' for short
 * [The PSG packer](https://compress.retroscene.org/psgpacker/)
+* [Bitphase](https://paator.github.io/bitphase/) — modern web-based chiptune tracker designed for creating music on retro sound chips. Currently supports the AY-3-8910 / YM2149F chip. [GitHub](https://github.com/paator/bitphase)
 ### Music bands and musicians
 * [Mister Beep | musician](http://mister_beep.republika.pl/) — I'm Mister Beep. I make micromusic/chiptunes but it's not typical micromusic. It is real ONE BIT music made using TIMEX 2048 (48Kb of RAM) and its BEEPER
 * [MmcM Studio | musician](http://mmcm.ru/) — MmcM homepage
