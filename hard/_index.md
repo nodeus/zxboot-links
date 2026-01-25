@@ -59,11 +59,13 @@ weight = 4
 * [ZXSpectrum4.net](https://www.zxspectrum4.net/index.php) — Эмулятор для .net. Платный. В бесплатной версии только 48к. В платной добавляется 128/+2/+3 с AY, ассемблер, дебаггер, сеть и пр.
 * [pico-zxspectrum](https://github.com/fruit-bat/pico-zxspectrum) — ZX Spectrum for Raspberry Pico Pi RP2040
 * [ZXBaremulator](https://zxmini.speccy.org/en/index.html) — the first complete ZX Spectrum 48K/128K/+2A bare-metal emulator for the Raspberry Pi computers
-* [ESPectrum](https://github.com/EremusOne/ESPectrum) — A ZX spectrum 48K, 128K, and Pentagon 128 emulator running on the Espressif ESP32 SoC
+* [ESPectrum](https://github.com/EremusOne/ESPectrum) — A ZX Spectrum 48K, 128K, and Pentagon 128 emulator running on the Espressif ESP32 SoC
 * [JaS](https://jas.speccy.org/) — Java Spectrum emulator
 * [JSSpeccy 3](https://github.com/gasman/jsspeccy3) — ZX Spectrum emulator for the browser. Умеет в Пентагон, но не умеет в TR-DOS
 * [JSpeccy](https://github.com/jsanchezv/JSpeccy) — multiplatform ZX Spectrum emulator written in Java
 * [simpleTK](https://sites.google.com/site/tk90disk/) — Эмулятор TK90X/95 - Pentagon 128k - ZX Spectrum48/128k. Эмулируется как Betadisk 128 (TR-DOS 5.03) так и различные версии Betadisk 48 (TR-DOS 4.x), Kempston mouse. Встроенный монитор, поддержка RZX.
+* [ZX-M8XXX9(ZX Matrix)](https://github.com/Bedazzle/ZX-M8XXX) — vanilla JavaScript ZX Spectrum emulator with debugger aimed for reverse engineering
+* [EmuStudio-ZX](https://zx-pk.ru/threads/21908-emustudio-zx.html) — эмулятор от Titus'а: эмуляция железа реального времени (каждый кадр эмулируемой системы совпадает с кадром развертки PC), эмуляция AY-3-8910 сделана точно по реверсу кристалла
 ## Emulators Z80
 * [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
 * [Visualz80 Remix](https://floooh.github.io/visualz80remix/) — очень точная (но медленная) визуальная эмуляция z80
