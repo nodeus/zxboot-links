@@ -80,7 +80,7 @@ weight = 5
 * [Krita](https://krita.org/en/item/first-krita-beta-for-android-and-chromeos-in-play-store/) — free Android Tablet [F-Droid](https://f-droid.org/packages/org.krita/) [PlayStore](https://play.google.com/store/apps/details?id=org.krita)
 * [Pixquare](https://www.pixquare.art/) — Seamless pixel art creation on iPad. Designed with a focus on simplicity, ease of use, and user feedback. (free and paid iPad OS)
 
-## Утилиты и конвертеры
+## Различные утилиты для работы с графикой, просмотрщики и конвертеры
 * [Image Spectrumizer](http://iki.fi/sol/zip/img2spec_40.zip) — free PC. This is a GUI tool to help convert normal images suitable to be used in ZX Spectrum (and similar devices). Note that the resolution is, by default, 256x192. Feeding the tool smaller or bigger images works, but the internal image size remains the same. (The internal resolution can be changed in options, but there are limits).
 Instead of trying to be completely automated, this tool lets you interactively adjust the source image while letting you see the results in real-time. Any number of modifiers can be stacked on top of each other, and their order can be changed.
 Output can be saved as a PNG, or in raw, C header, or assembler include file.
@@ -166,6 +166,8 @@ RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [zxED](https://sourceforge.net/projects/zxed/) allows users to load in popular ZX Spectrum emulator file formats and view it contents. Currently you can display the memory as bitmaps allowing you to rip any sprites or graphics and save them as images
 * [Spectrum Graphics Editor 2.00](https://spectrum-graphics-editor.software.informer.com/) — utility for viewing, editing, copying, exporting, and animating graphics from Speccy snapshot files. Послдений релиз из 1998-го
 * [Spectrum Graphics Editor](http://bitglint.co.uk/sge/) — онлайн версия SGE.
+* [zxscr-viewer](https://gitverse.ru/nodeus/zxscr-viewer/content/master) — Мультиплатформенный просмотрщик .scr файлов с zx spectrum с возможностью конвертации и сохранения в png/gif(поддержка flash) c установленным масштабированием.
+* [img2zxscr](https://gitverse.ru/nodeus/img2zxscr) — Мультиплатформенный конвертер png/gif в формат .scr с поддержкой различных палитр, возможностью подгонки размера, гамма-корекцией и подгонкой яркостной разности для bright.
 
 ## Графические редакторы и утилиты на zx spectrum
 ### Редакторы
