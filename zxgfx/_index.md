@@ -1,5 +1,3 @@
-
-
 +++
 title = "ZX gfx"
 description = "ZX graphics links"
@@ -8,7 +6,7 @@ weight = 5
 +++
 
 {{< lead >}}
-В этом разделе собраны ссылки на различные графические редакторы и утилиты для производства графики для zx spectrum.
+В этом разделе собраны ссылки на различные графические редакторы, утилиты и ресурсы для работы с графикой zx spectrum.
 {{< /lead >}}
 
 # ZX Spectrum графика
@@ -67,7 +65,7 @@ weight = 5
 ## Графические редакторы для мобильных устройств
 * **Pixel studio** — paid iOS/Android [PlayStore](https://play.google.com/store/apps/details?id=com.PixelStudio) [AppStore](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Fps_appstore)
 * [Pixaki](https://pixaki.com) — paid iOS
-* [Resprite](https://resprite.fengeon.com/) — Pixel art editor for iOS, Android (and Desktop near Q1 2025)
+* [Resprite](https://resprite.fengeon.com/) — Pixel art editor for iOS, Android and Desktop
 * [EDGE touch](https://apps.apple.com/ru/app/edge-touch-pixel-art-tool/id329021851) — paid iOS
 * [Pixelesque](http://www.rjmarsan.com/dispatch.fcgi/Apps/Pixelesque/) — free Android
 * [Pixen](https://pixenapp.com/mac/) — free iOS
@@ -75,7 +73,6 @@ weight = 5
 * [Pixly](https://pixly.tavomaciel.com/) — free Android
 * **Pixelmaker** — Nintendo 3DS/Nintendo WII U/Android/iOS [PlayStore](https://play.google.com/store/apps/details?id=com.NostaticSftware.PixelMaker) [AppStore](https://apps.apple.com/us/app/pixelmaker/id1111720866)
 [NintendoStore 3DS](https://www.nintendo.com/games/detail/pixelmaker-3ds/) [NintendoStore WiiU](https://www.nintendo.com/games/detail/pixelmaker-wii-u/) [AmazonAppStore](https://www.amazon.com/Nostatic-Software-PixelMaker/dp/B01FRG0W7M)
-* [Affinity Photo for pixelart](https://apps.apple.com/ru/app/affinity-photo/id1117941080) — paid iPadOS
 * [Procreate for pixelart](https://apps.apple.com/ru/app/procreate/id425073498) — paid iPadOS
 * [Krita](https://krita.org/en/item/first-krita-beta-for-android-and-chromeos-in-play-store/) — free Android Tablet [F-Droid](https://f-droid.org/packages/org.krita/) [PlayStore](https://play.google.com/store/apps/details?id=org.krita)
 * [Pixquare](https://www.pixquare.art/) — Seamless pixel art creation on iPad. Designed with a focus on simplicity, ease of use, and user feedback. (free and paid iPad OS)
