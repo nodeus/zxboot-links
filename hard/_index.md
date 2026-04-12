@@ -21,6 +21,9 @@ weight = 4
 * [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator — Virtual Machine
 * [ZXMAK.NET](https://sourceforge.net/projects/zxmak-dotnet/) — The Free .NET ZX Spectrum Emulator, written in C#
 * [FUSE](https://fuse-emulator.sourceforge.net/) — Fuse (the Free Unix Spectrum Emulator) was originally, and somewhat unsurprisingly, a ZX Spectrum emulator for Unix. However, it has now also been ported to Mac OS X, Windows, Android, Haiku, AmigaOS 4, MorphOS, PSP, Wii, etc
+* [FuseX](https://spectranext.net/emulation.html — fork of Fuse 1.7.0 with Spectranext Emulation
+* [ArkiFUSE](https://sourceforge.net/projects/arki55-fuse-mod/) — fork of Fuse 1.6.0 contains some additional modifications and fixes, which have not been accepted or merged (yet) into the original FUSE project (Spectrum 128K + Didaktik D80, 3 channel 8-bit D/A converter based on i8255A chip, etc)
+* [FDD3000 Emulator](https://sourceforge.net/projects/fdd3000e/) — fork of Fuse contains emulation of Timex FDD3000
 * [ZXSpectr](https://github.com/chernandezba/zxspectr) — It's a ZX Spectrum emulator written entirely in Assembler. It runs under MS-DOS
 * [Speccy](https://fms.komkon.org/Speccy/) — Portable Sinclair ZX Spectrum and Sam Coupe Emulator by Marat Fayzullin. It runs under Windows/Linux/Android/MS-DOS/Symbian/Maemo
 * [Glukalka ZX Spectrum Emulator](http://www.sanarin.ru/glukalka/) — Glukalka is a emulator of ZX Spectrum 48K/128K and Spectrum clones. It runs on Linux/Windows/MacOS/Android
@@ -41,6 +44,7 @@ weight = 4
 * [ARES](https://ares-emu.net/) — кроссплатформенный, опенсорсный, мультисистемный эмулятор - начиналось все с эмуляции домашних консолей, постепенно дошли до MSX и ZX Spectrum
 * [M.CU.M.E](https://github.com/Jean-MarcHarvengt/MCUME) — Multi CompUter Machine Emulator. A collection of 80th game Console and Computer emulators ported to Teensy, raspberry PICO, and ESP32 MCUs
 * [CSpect](http://www.cspect.org/) — Emulates many features of the Next and includes a fully featured debugger, complete with 24-bit breakpoints and an assembler
+* [jnext](https://github.com/jorgegv/jnext) — ZX Spectrum Next emulator using VHDL sources as a reference
 * [SpecEmu](https://specemu.zxe.io/) — SpecEmu emulator (for snow/rain "enable ula snow")
 * [ZXSEC](http://cngsoft.no-ip.org/cpcec.htm) — CPCEC Amstrad CPC emulator and its siblings ZXSEC, CSFEC and MSXEC
 * [Swan](https://github.com/zoran-vucenovic/swan) — ZX Spectrum emulator for Windows and Linux. Might compile and run on Mac, but not tested
