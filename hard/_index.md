@@ -65,6 +65,7 @@ weight = 4
 * [JSpeccy](https://github.com/jsanchezv/JSpeccy) — multiplatform ZX Spectrum emulator written in Java
 * [simpleTK](https://sites.google.com/site/tk90disk/) — Эмулятор TK90X/95 - Pentagon 128k - ZX Spectrum48/128k. Эмулируется как Betadisk 128 (TR-DOS 5.03) так и различные версии Betadisk 48 (TR-DOS 4.x), Kempston mouse. Встроенный монитор, поддержка RZX.
 * [ZX-M8XXX9(ZX Matrix)](https://github.com/Bedazzle/ZX-M8XXX) — vanilla JavaScript ZX Spectrum emulator with debugger aimed for reverse engineering
+* [ZX84](https://zx84.envytech.workers.dev/) — Sinclair ZX Spectrum emulator for your browser with MCP server by Damien Guard. 48k/128k/+3. Tr-Dos не поддерживает. [GitHub](https://github.com/damieng/zx84)
 * [EmuStudio-ZX](https://zx-pk.ru/threads/21908-emustudio-zx.html) — эмулятор от Titus'а: эмуляция железа реального времени (каждый кадр эмулируемой системы совпадает с кадром развертки PC), эмуляция AY-3-8910 сделана точно по реверсу кристалла
 ## Emulators Z80
 * [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
