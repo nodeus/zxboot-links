@@ -96,4 +96,5 @@ weight = 4
 * [VGA и HDMI для ZX Spectrum](https://boosty.to/alexekb/posts/f4d7d8a4-ba0f-495e-a0c2-21ab5faf1da3) — Несколько вариантов подключить ZX Spectrum к современным телевизорам и мониторам
 * [MiSTer FPGA (Rus)](https://t.me/misterfpgarus) — Всё о проекте MiSTer FPGA на русском (канал)
 * [MiSTer FPGA (Rus chat)](https://t.me/+3cA6njGL0O1jMzBi) — Русский чат проекта MiSTer
+* [General Sound](https://zxgit.org/RomanRom2/GeneralSound) — большой сборник информации, схем и прошивок по карте General Sound от RomanRom2
 
