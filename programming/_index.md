@@ -11,8 +11,13 @@ weight = 3
 ## IDE, compilers, tools
 * [SjASMPlus](https://github.com/z00m128/sjasmplus/releases) + [Documentation](https://z00m128.github.io/sjasmplus/documentation.html)
 * [zasm](https://k1.spdns.de/Develop/Projects/zasm/Distributions/) — command-line assembler for the 8080, Z80 and Z180 cpu
+* [rasm](https://github.com/EdouardBERGE/rasm/) — Extremely fast and powerful Z80 assembler
+* [WLA DX](https://github.com/vhelin/wla-dx) — Yet Another GB-Z80/Z80/Z80N/6502/65C02/65CE02/65816/68000/6800/6801/6809/8008/8080/HUC6280/SPC-700/SuperFX Multi Platform Cross Assembler Package
+* [pyz80](https://github.com/simonowen/pyz80) — Z80 cross assembler от Саймона Оуэна
+* [MDL](https://github.com/santiontanon/mdlz80optimizer) — Z80 assembler optimizer
+* [z80-optimizer](https://github.com/oisee/z80-optimizer) — Brute-force Z80 superoptimizer — finds provably optimal instruction replacements
 * [DeZog](https://github.com/maziac/DeZog) — Расширение для VSCode для программирования под Spectrum | [(Пример настройки DeZog)](https://github.com/maziac/z80-sample-program)
-* [BasinC](https://arda.kisafilm.org/blog/?cat=13&lang=en) — Эмулятор и полезные утилиты для программирования и разработки на zx basic
+* [BasinC](https://basinc.zx.tr/) — Эмулятор и полезные утилиты для программирования и разработки на zx basic. [GitHub Repo](https://github.com/ref-xx/basinc)
 * [z88dk](https://z88dk.org/site/) — C and assembler development kit that comes ready out-of-the-box to create programs for over 100 z80-family (8080, 8085, gbz80, z80, z180, ez80_z80, KC160, Rabbit 2000, 3000, 4000, 5000) machines. [GitHub](https://github.com/z88dk/z88dk)
 * [PASTA/80](https://github.com/pleumann/pasta80) — Turbo Pascal 3.0-compatible compiler that generates machine code for classic and modern Z80 machines (currently ZX Spectrum 48K/128K/Next and CP/M)
 * [Klive IDE Project](https://github.com/Dotneteer/kliveide) — a Sinclair retro computer emulator and Integrated Development Environment running on Mac, Linux and Windows
@@ -70,6 +75,11 @@ weight = 3
 * [bzpack](https://github.com/mbaze/bzpack)
 * [Apultra](https://github.com/emmanuel-marty/apultra)
 * [LzxPack](https://busy.speccy.cz/download/lzxpack02.rar) + [https://busy.speccy.cz/tvorba/pcprogs.htm](https://busy.speccy.cz/tvorba/pcprogs.htm)
+* [Depackers for Z80](https://github.com/uniabis/z80depacker) — Сборник различных вариантов депакеров для Z80 + сравнение эффективности/скорости и ссылки на пакеры
+* [ZXSC---ZX-Spectrum-Screen-Compresser](https://github.com/TomDDG/ZXSC---ZX-Spectrum-Screen-Compresser) — компрессор экранов от Тома Далби. проигрывает по эффективности и LC и ZX7. но быстрая распаковка
+* [Optimal Hrust Compressor](https://gitlab.com/eugene77/optimal-hrust-compressor) — Оптимальный компрессор для HRUST. [Fork на GitHub](https://github.com/specke/ohc)
+* [mhmt](https://github.com/lvd2/mhmt) — CLI packers/depackers for formats used on ZX Spectrum 8-bit. Also contains Z80 8-bit depackers. Aggregates in single prog optimal packers for megalz format and hrum format, nearly-optimal packer for hrust.
+
 ## Other GitHub repos
 * [VortexTracker 2.6](https://github.com/ivanpirog/vortextracker) — VortexTracker 2.6 dev 18
 * [VortexTrzcker 2.6 TS3](https://github.com/Volutar/vortextracker/tree/TS3) — VortexTracker 2.6 (Volutar edition)
@@ -95,6 +105,13 @@ weight = 3
 * [ZX Spectrum Next Library Routines](https://github.com/breakintoprogram/lib-spectrum-next) — A suite of Z80 modules for the ZX Spectrum Next with routines for: Reading the mouse, Vector graphics (fast line, circle, and plot routines), Filled vector graphics with simple flat texturing (triangle, quadrilateral and circle), DMA, Maths (taking advantage of the extended Z80N opcodes)
 * [ZX Next Tools](https://github.com/varmfskii/zxnext_tools/) — Tools for creating files for the ZX Spectrum Next
 * [ZXNFTP](https://github.com/varmfskii/zxnftp) — FTP like client/server pair for ZX Spectrum Next
+* [BridgeZX](https://github.com/IgnacioMonge/BridgeZX) — A file transmission tool for the ZX Spectrum with ESP-12 / AY-3-8912 interface
+* [BitStream](https://github.com/IgnacioMonge/BitStream) — fully-featured FTP client for the ZX Spectrum, enabling file downloads from FTP servers over WiFi using an ESP8266/ESP-12 module connected via AY-UART bit-banging at 9600 baud.
+* [ESPAT-ZX](https://github.com/IgnacioMonge/espat-zx) — full-featured AT command terminal for the ZX Spectrum with ESP8266/ESP-12 WiFi modules
+* [SpecTalk ZX](https://github.com/IgnacioMonge/SpecTalkZX) — IRC Client for ZX Spectrum with ESP8266 WiFi
+* [zxuno-irc](https://github.com/nihirash/zxuno-irc) — IRC client for ZX-Uno
+* [zxuno-irc-zxwf](https://github.com/izzx-git/IRC) — модификация простого IRC клиента для ZX Spectrum. Адаптирован для карты [ZX WiFi](https://github.com/izzx-git/ZX-WiFi)
+* [NetManZX](https://github.com/IgnacioMonge/NetManZX) — WiFi network configuration utility for ZX Spectrum computers equipped with ESP8266-based WiFi modules
 * [showsimg](https://gitlab.com/varmfskii/showsimg) — DOT-command .showsimg: display ZX Next image formats
 * [PixelWorld](https://github.com/damieng/pixelworld) — ZX Spectrum font conversion, ripping and manipulation tool made public! This is a tool I have been using for a number of years to convert my own fonts into a variety of formats available from https://damieng.com/fonts/zx-origins/
 * [AYMaker](https://github.com/Abrimaal/AYMaker) — Tools for creating and editing .ay audio files.
