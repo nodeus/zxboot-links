@@ -60,7 +60,9 @@ weight = 5
 * [Stellarpaint](https://irrlichtproject.de/stellarpaint)
 * [SpecSCII online editor](https://zxart.ee/specscii/) — онлайн редактор ZX Spectrum UDG графики
 * [ZXPaintyONE v2.0](https://chunkypaint.zxdemo.org/zxpaintyone/) — онлайн редактор ZX80/ZX81 UDG графики
-* [lvllvl](https://lvllvl.com/) — онлайн редактор текстовых режимов всевозможных ретро ПК, включая Specscii ZX Spectrum  
+* [lvllvl](https://lvllvl.com/) — онлайн редактор текстовых режимов всевозможных ретро ПК, включая Specscii ZX Spectrum
+* [SpectraLab](http://94.156.144.171/spectralab/) — pure JavaScript viewer and editor for ZX Spectrum graphics formats. [GitHub](https://github.com/Bedazzle/SpectraLab). SCR, SCR Ula+, GigaScreen, BSC, mlt, sca, specscii, $chr, nxi, sl2, 53c, etc...
+* [ZX PixelPaste](https://mb-maniax.cz/zxpp/) — ZX Spectrum Graphics Studio. Screen editor, attribute editor, sprite frames, animation, SCR/ATTR/BIN/ASM import-export. 256x192 Classic SCR/Next Layer 2
 
 ## Графические редакторы для мобильных устройств
 * **Pixel studio** — paid iOS/Android [PlayStore](https://play.google.com/store/apps/details?id=com.PixelStudio) [AppStore](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Fps_appstore)
