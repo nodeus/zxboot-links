@@ -118,10 +118,18 @@ weight = 3
 * [AYMaker](https://github.com/Abrimaal/AYMaker) — Tools for creating and editing .ay audio files.
 * [ZX Tools](https://github.com/remy/zx-tools) — A collection of ZX [web based tools](zx.remysharp.com) and libraries.
 * [Ringo-8](https://github.com/DenisGrachev/Ringo-8) — 64x48 Graphics Library For ZX Spectrum 128KB based on my render engine from [Ringo](https://zxonline.net/game/ringo).
-* [TR-DOS Disassembled](https://github.com/programandala-net/tr-dos) — The goal of this project is to disassemble TR-DOS 5.03, in order to study it and fix some problems found during the development of its support for Solo Forth.
-* [Solo Forth](https://github.com/programandala-net/solo-forth) — Standard Forth system for ZX Spectrum 128 and compatible computers, with disk drives.
 * [Rebelstar Raiders - game source code](https://github.com/mrcook/rebelstar-raiders-BASIC) — BASIC source code for Rebelstar Raiders, a 1984 ZX Spectrum game
 * [HiSoft-C](https://github.com/oldcompcz/HiSoft-C) — Disassembled code of HiSoft C compiler for ZX Spectrum
 * [ZX-Spectrum-1-Bit-Routines](https://github.com/utz82/ZX-Spectrum-1-Bit-Routines) — Z80 music routines for ZX Spectrum beeper and compatibles
 * [Chronos ZX Beeper Music Disassembly](https://github.com/ZoomTen/chronos-zxbeeper) — WIP disassembly of music code from Chronos (ZX Spectrum)
 * [ARCHIVE-FOLLIN](https://github.com/breakintoprogram/archive-follin/tree/main) — An archive of music source code and drivers donated by Tim and Geoff Follin
+* [Spectrum ROM Disassemblies](https://github.com/ZXSpectrumVault/rom-disassemblies) — Disassemblies of the Sinclair ZX Spectrum 48/128/+2/+3, ZX80 and ZX81 ROMs
+* [The Uncommented Spectrum ROM Assembly](https://github.com/cheveron/zxrom) — repo contains the recreated source-code for the original ZX Spectrum ROM
+* [The Complete Spectrum ROM Disassembly](https://skoolkid.github.io/rom/) — Created using SkoolKit 10.0
+* [Timex/Sinclair 2068 HOME ROM Disassembly](https://www.timexsinclair.com/document/timex-sinclair-2068-home-rom-disassembly/) — Commented disassembly of the HOME ROM
+* [TR-DOS Disassembled](https://github.com/programandala-net/tr-dos) — The goal of this project is to disassemble TR-DOS 5.03, in order to study it and fix some problems found during the development of its support for [Solo Forth](https://github.com/programandala-net/solo-forth)
+* [The Complete DISCiPLE Disassembly](https://www.biehold.nl/rudy/disciple/disciple.htm) — Miles Gordon Technology DISCiPLE ROM disassembly
+* [The Complete +D Disassembly](https://biehold.nl/rudy/plusd/plusd.htm) — Miles Gordon Technology +D ROM disassembly
+* [ZX Spectrum ROM modifications](https://github.com/nagydani/zx-rom-mods) — repository contains source files for various modifications for the ROM of ZX Spectrum. It also contains a complete buildable assembly source of the ROM, containing these and others' known modifications from various sources
+* [PrettyBasic](https://github.com/reclaimed/prettybasic) — ZX Spectrum 1982 ROM with syntax highlighting
+* [Solo Forth](https://github.com/programandala-net/solo-forth) — Standard Forth system for ZX Spectrum 128 and compatible computers, with disk drives.
