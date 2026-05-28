@@ -102,6 +102,7 @@ RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [Con18pal Gfx Convertor by Alone Coder'20](https://vtrd.in/pcutilz/CON18PAL.zip) — free PC конвертер графики
 * [DaDither by Dec Software](https://www.dadither.com/) - free PC конвертер графики из форматов BMP, PNG, GIF, JPG в форматы SCR, IFL, MLT, MC, IMG, 3Color, NXI, GRF, GMX
 * [Image To ZX Spec](https://silentdevelopment.blogspot.com/) - Simple to use program which applies a Sinclair ZX Spectrum effect to images, creates Spectrum playable slideshows from images or "video" from compatible video files. В [репозитории](https://github.com/KodeMunkie/imagetozxspec) более свежие версии.
+* [ZX Spectrum Image Composer](https://zxspectrumimagecomposer.solvalou.com/) — Compose & edit images and convert them to ZX Spectrum format. Manually edit pixels and attributes. Export full screen or part of screen as binary, assembler source or play back as a fake tape audio to real hardware. [GitHub](https://github.com/arttu76/zxspectrumimagecomposer)
 * [De-AAAtor v1.0 by g0blinish'17](https://vtrd.in/pcutilz/DEAAA.zip) — free PC утилита для работы с анимацией
 * [Fonter v2.1 by Shiru'02](https://vtrd.in/pcutilz/FONTER21.zip) — free PC редактор ZX Spectrum шрифтов
 * [GfxSpeConvertor v0.01 by Aprisobal'03](https://vtrd.in/pcutilz/GSC001.ZIP) — free PC конвертер графики из форматов BMP, GIF, JPG, TIF в форматы Screen, Gigascreen, Multicolor, Multigigascreen, 3Color
