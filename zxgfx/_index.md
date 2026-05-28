@@ -168,6 +168,7 @@ RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [Spectrum Graphics Editor](http://bitglint.co.uk/sge/) — онлайн версия SGE.
 * [zxscr-viewer](https://gitverse.ru/nodeus/zxscr-viewer/content/master) — Мультиплатформенный просмотрщик .scr файлов с zx spectrum с возможностью конвертации и сохранения в png/gif(поддержка flash) c установленным масштабированием.
 * [img2zxscr](https://gitverse.ru/nodeus/img2zxscr) — Мультиплатформенный конвертер png/gif в формат .scr с поддержкой различных палитр, возможностью подгонки размера, гамма-корекцией и подгонкой яркостной разности для bright.
+* [Retro Pixel Converter](https://factus10.github.io/retro-pixel-converter/) — Convert images to ZX Spectrum, TS 2068, C64, Atari 800, QL and Pico-8
 * [Ch8ter](https://damieng.github.io/ch8ter/) — Веб-редактор шрифтов от Damien Guard, поддерживает, кроме всего прочего, стандартные спектрум-шрифты 8x8 (768б) и пропорциональные шрифты [FZX](https://sinclair.wiki.zxnet.co.uk/wiki/FZX_format).[GitHub](https://github.com/damieng/ch8ter)
 
 ## Графические редакторы и утилиты на zx spectrum
