@@ -21,7 +21,7 @@ weight = 4
 * [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator — Virtual Machine
 * [ZXMAK.NET](https://sourceforge.net/projects/zxmak-dotnet/) — The Free .NET ZX Spectrum Emulator, written in C#
 * [FUSE](https://fuse-emulator.sourceforge.net/) — Fuse (the Free Unix Spectrum Emulator) was originally, and somewhat unsurprisingly, a ZX Spectrum emulator for Unix. However, it has now also been ported to Mac OS X, Windows, Android, Haiku, AmigaOS 4, MorphOS, PSP, Wii, etc
-* [FuseX](https://spectranext.net/emulation.html) — fork of Fuse 1.7.0 with Spectranext Emulation
+* [FuseX](https://spectranext.net/emulation.html) — fork of Fuse 1.7.0 with Spectranext Emulation. [GitHub](https://github.com/speccytools/fusex)
 * [De-Fuse](https://github.com/mistificator/de-fuse) — Dirty patched fork of Fuse (1.6.0)
 * [ArkiFUSE](https://sourceforge.net/projects/arki55-fuse-mod/) — fork of Fuse 1.6.0 contains some additional modifications and fixes, which have not been accepted or merged (yet) into the original FUSE project (Spectrum 128K + Didaktik D80, 3 channel 8-bit D/A converter based on i8255A chip, etc)
 * [FDD3000 Emulator](https://sourceforge.net/projects/fdd3000e/) — fork of Fuse contains emulation of Timex FDD3000
@@ -75,6 +75,7 @@ weight = 4
 * [ZX84](https://zx84.envytech.workers.dev/) — Sinclair ZX Spectrum emulator for your browser with MCP server by Damien Guard. 48k/128k/+3. Tr-Dos не поддерживает. [GitHub](https://github.com/damieng/zx84)
 * [EmuStudio-ZX](https://zx-pk.ru/threads/21908-emustudio-zx.html) — эмулятор от Titus'а: эмуляция железа реального времени (каждый кадр эмулируемой системы совпадает с кадром развертки PC), эмуляция AY-3-8910 сделана точно по реверсу кристалла
 * [Zero](https://github.com/ArjunNair/Zero-Emulator) — a spectrum emulator written entirely on the .NET platform, using C#, and requires .NET framework 4.7 or above. Emulates the 48k, 128k, 128k SE, the Spectrum +2 and the Spectrum +3 (with 2 disk drives), and the Pentagon 128k models.
+* [SoftSpectrum 48](https://softspectrum48.weebly.com/) — ZX Spectrum 16K/48K/128/+2/+2A/+3 emulation. Contended memory, contended I/O and the floating bus are emulated (including  the +2A/+3 floating bus)
 ## Emulators Z80
 * [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
 * [Visualz80 Remix](https://floooh.github.io/visualz80remix/) — очень точная (но медленная) визуальная эмуляция z80
