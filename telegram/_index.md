@@ -123,6 +123,7 @@ weight = 1
 * [UKNC_TECHNOLOGY](https://t.me/UKNC_TECHNOLOGY) — Группа технологического прорыва ПЗВМ УКНЦ
 * [Apple II,Правец 8, Агат](https://t.me/appleIIe)
 * [Apple II RUS (zira free)](https://t.me/appleiirus)
+* [Вектор 06Ц 01(02)](https://t.me/VECTOR_06C) — Группа посвящена Вектору 06Ц - персональному компьютеру, который считался лучшим в СССР по графическим возможностям (Вектор Старт 1200, Криста-2, ПК-6128Ц, Вектор Турбо+)
 # Telegram channels
 ### ZX related
 * [ZX Speccy](https://t.me/zxnews) — Телеграм-канал проекта ZX Speccy. Важные новости из мира ZX Spectrum'а: игры, железо, люди
