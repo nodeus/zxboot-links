@@ -36,6 +36,7 @@ weight = 3
 * [YAZD/YAZA](https://github.com/toptensoftware/yazd/) — Yet Another Z80 Disassembler/Assembler
 * [EclipZX](https://github.com/bithatch/eclipzx) — Eclipse based IDE targeting development of games and applications on the PC and deploy to all models of the ZX Spectrum, including modern reboots such as the ZX Spectrum Next. Building on the shoulders of giants, such as Boriels ZX Basic, Z88DK, and JSpeccy, EclipZX aims to bring it all together with other new purpose built tools. (Windows, Linux and Mac OS)
 * [ZX PLAYPEN](https://zxplaypen.com/) — Multi-machine environment for Sinclair ZX81 and ZX Spectrum. Professional workflow for code preservation, tape management, and modern cross-development
+* [Code•ZX Play](https://code.zxplay.org/) — A ZX Spectrum emulator & BASIC & ASM programming environment for the browser
 * [spectrum-analyser](https://colourclash.co.uk/spectrum-analyser/) — tool that is designed to help reverse engineer ZX Spectrum games & programs. It is a combination of an emulator, debugger & interactive disassembler. Programs are loaded and run in the emulator and their state can be inspected using the tools provided
 * [tzxtools](https://codeberg.org/shred/tzxtools) — collection of command line tools for processing TZX files. All the tzxtools are written in Python 3. Including Z80/Z80N [Disassembler](https://shred.zone/cilla/page/426/z80-disassembler.html)
 ## Libs, code samples
