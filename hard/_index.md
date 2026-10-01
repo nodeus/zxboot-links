@@ -48,6 +48,7 @@ weight = 4
 * [M.A.M.E.](https://www.mamedev.org/) — Multi-purpose emulation framework
 * [MAME](https://github.com/holub/mame/actions/workflows/ci-windows.yml?query=branch%3Amaster) — репа Иваныча (holub) с актуальными изменениями для эмуляции Spectrum Next
 * [Jesperl](https://sourceforge.net/projects/jesperl/) — Jesperl was developed to be used with MAME's ZX Spectrum Next emulation. Running it and letting MAME connect to it allows the programs which run inside of the ZX Spectrum Next emulation environment to communicate with the internet using the internet access of the host computer.
+* [eMAME](https://github.com/holub/emame) — Emscripten build of MAME web version
 * [RetroArch](https://www.retroarch.com/index.php) — Бесплатный кроссплатформенный интерфейс с открытым исходным кодом для эмуляторов различных платформ. ZX Spectrum эмулируется через ядро FUSE
 * [DSP](https://github.com/leniad/dsp-emulator) — Еще один эмулятор много-в-одном - аркадные автоматы, консоли, Спектрумы-Амстрады, вот это все
 * [ARES](https://ares-emu.net/) — кроссплатформенный, опенсорсный, мультисистемный эмулятор - начиналось все с эмуляции домашних консолей, постепенно дошли до MSX и ZX Spectrum
