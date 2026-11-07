@@ -18,6 +18,7 @@ weight = 4
 * [Unreal (tslabs)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) — Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution
 * [Unreal-NG](https://github.com/alfishe/unreal-ng) — Fully re-engineered Unreal Speccy emulator. Cross-platform emulation core: Windows 32-bit, Windows 64-bit, Linux 32/64-bit, macOS 64-bit
 * [Unreal Speccy Portable](https://bitbucket.org/djdron/unrealspeccyp/wiki/Home) — Portable ZX-Spectrum emulator supports Z80 128K (Pentagon) AY/YM, Beeper, Beta Disk, Tape, Kempston Joystick/Mouse, Snapshots, Replays. [Ports](https://emutopia.com/index.php/emulators/item/364-sinclair-zx-spectrum/253-unreal-speccy-portable) for [Android](https://f-droid.org/packages/app.usp/), Symbian, JAVA, PSP, etc
+* [WEB Unreal Speccy](https://gebcoor-code.github.io/unreal/) — web порт Unreal Speccy 0.39.0. Работает в любом браузере, на планшетах и смартфонах, поддерживает все, что нашел в сети применительно к Unreal, включая FAT16/32 (vhd-файл) диски и запуск NedoOS, а также восьмиканальный GS. +TS-Conf. GMX, Sprinter. [GitHub](https://github.com/gebcoor-code/unreal)
 * [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator — Virtual Machine
 * [ZXMAK.NET](https://sourceforge.net/projects/zxmak-dotnet/) — The Free .NET ZX Spectrum Emulator, written in C#
 * [Kozynax](https://github.com/kozynax/kozynax) — новый эмулятор ZX Spectrum, основанный на движке ZXMAK2, но со своим подходом к интерфейсу. Linux/MacOS/Windows
