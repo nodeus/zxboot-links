@@ -49,7 +49,8 @@ weight = 3
 * [Code•ZX Play](https://code.zxplay.org/) — A ZX Spectrum emulator & BASIC & ASM programming environment for the browser
 * [spectrum-analyser](https://colourclash.co.uk/spectrum-analyser/) — tool that is designed to help reverse engineer ZX Spectrum games & programs. It is a combination of an emulator, debugger & interactive disassembler. Programs are loaded and run in the emulator and their state can be inspected using the tools provided
 * [tzxtools](https://codeberg.org/shred/tzxtools) — collection of command line tools for processing TZX files. All the tzxtools are written in Python 3. Including Z80/Z80N [Disassembler](https://shred.zone/cilla/page/426/z80-disassembler.html)
-## Libs, code samples
+* [ZX-REAPER](https://github.com/ruguevara/zx-reaper) — **R**etro **E**ngineer **A**nything, **P**ort **E**verywhere **R**ightnow. An agent harness for analysing and porting ZX Spectrum 48K games, for recreational and educational purposes only
+## Libs, code samples 
 * [ZXDN](http://alexanderk.ru/zxdn/) — Коллекция материалов по творчеству на компьютере ZX Spectrum: программирование, графика, музыка. [ZXDN | оригинал на uCoz](http://zxdn.narod.ru/)
 * [Open Source ZX](http://opensourcezx.untergrund.net/index.html) — ZX Spectrum open source
 * [TSLib](https://github.com/DeadlyKom/TSLib) — TSLib is a library that makes it easy to start developing for ZX-Evolution for TC-conf firmware.
