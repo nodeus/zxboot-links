@@ -172,7 +172,8 @@ RECOIL is available on Android, Windows, macOS, Linux and modern web browsers.
 * [img2zxscr](https://gitverse.ru/nodeus/img2zxscr) — Мультиплатформенный конвертер png/gif в формат .scr с поддержкой различных палитр, возможностью подгонки размера, гамма-корекцией и подгонкой яркостной разности для bright.
 * [Retro Pixel Converter](https://factus10.github.io/retro-pixel-converter/) — Convert images to ZX Spectrum, TS 2068, C64, Atari 800, QL and Pico-8
 * [Dizher](https://github.com/ruguevara/dizher) — Smart image converter for 8-bit retrocomputers (ZX Spectrum, Commodore 64): colour selection and dithering driven by a model of the human eye
-* [Ch8ter](https://damieng.github.io/ch8ter/) — Веб-редактор шрифтов от Damien Guard, поддерживает, кроме всего прочего, стандартные спектрум-шрифты 8x8 (768б) и пропорциональные шрифты [FZX](https://sinclair.wiki.zxnet.co.uk/wiki/FZX_format).[GitHub](https://github.com/damieng/ch8ter)
+* [Ch8ter](https://damieng.github.io/ch8ter/) — Веб-редактор шрифтов от Damien Guard, поддерживает, кроме всего прочего, стандартные спектрум-шрифты 8x8 (768б) и пропорциональные шрифты [FZX](https://sinclair.wiki.zxnet.co.uk/wiki/FZX_format). [GitHub](https://github.com/damieng/ch8ter)
+* [Online Font Editor](https://lessnick.github.io/font8/) — Онлайн редактор шрифтов от Breeze в стиле старого доброго Art Studio. Поддерживаются наборы в 96, 128 и 256 символов. Помимо стандартного размера 8x8, можно условно редактировать 8x16, 16x16, 16x24 и 16x32
 
 ## Графические редакторы и утилиты на zx spectrum
 ### Редакторы
